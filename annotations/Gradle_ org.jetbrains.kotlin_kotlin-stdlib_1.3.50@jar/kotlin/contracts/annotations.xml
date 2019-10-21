@@ -1,0 +1,47 @@
+<root>
+    <item name='kotlin.contracts.ContractBuilder kotlin.contracts.CallsInPlace callsInPlace(kotlin.Function&lt;? extends R&gt;, kotlin.contracts.InvocationKind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.InvocationKind AT_LEAST_ONCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.SimpleEffect kotlin.contracts.ConditionalEffect implies(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder.DefaultImpls kotlin.contracts.CallsInPlace callsInPlace$default(kotlin.contracts.ContractBuilder, kotlin.Function, kotlin.contracts.InvocationKind, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.InvocationKind AT_MOST_ONCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.InvocationKind EXACTLY_ONCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder.DefaultImpls kotlin.contracts.CallsInPlace callsInPlace$default(kotlin.contracts.ContractBuilder, kotlin.Function, kotlin.contracts.InvocationKind, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder kotlin.contracts.Returns returns()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder kotlin.contracts.CallsInPlace callsInPlace(kotlin.Function&lt;? extends R&gt;, kotlin.contracts.InvocationKind) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.InvocationKind UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder kotlin.contracts.CallsInPlace callsInPlace(kotlin.Function&lt;? extends R&gt;, kotlin.contracts.InvocationKind) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder kotlin.contracts.Returns returns(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder.DefaultImpls kotlin.contracts.CallsInPlace callsInPlace$default(kotlin.contracts.ContractBuilder, kotlin.Function, kotlin.contracts.InvocationKind, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder.DefaultImpls kotlin.contracts.CallsInPlace callsInPlace$default(kotlin.contracts.ContractBuilder, kotlin.Function, kotlin.contracts.InvocationKind, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.contracts.ContractBuilder kotlin.contracts.ReturnsNotNull returnsNotNull()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

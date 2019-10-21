@@ -1,0 +1,230 @@
+<root>
+    <item name='androidx.core.animation.AnimatorKt.addListener.2 void invoke(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnEnd..inlined.addListener.1 void onAnimationCancel(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener doOnPause(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnPause..inlined.addPauseListener.1 void onAnimationResume(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnResume..inlined.addPauseListener.1 void onAnimationResume(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener doOnResume(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnStart..inlined.addListener.1 void onAnimationStart(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener$default(android.animation.Animator, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.2 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnPause..inlined.addPauseListener.1 void onAnimationPause(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.listener.1 void onAnimationStart(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener addPauseListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.2 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnRepeat..inlined.addListener.1 void onAnimationCancel(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnEnd(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnStart(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.2 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnStart(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.1 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.4 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnStart..inlined.addListener.1 void onAnimationRepeat(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnEnd(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener doOnPause(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener addPauseListener$default(android.animation.Animator, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnCancel..inlined.addListener.1 void onAnimationRepeat(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.4 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnRepeat(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.listener.1 void onAnimationPause(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnStart..inlined.addListener.1 void onAnimationEnd(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.2 void invoke(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener addPauseListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener doOnResume(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.3 void invoke(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnCancel(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnResume..inlined.addPauseListener.1 void onAnimationPause(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.listener.1 void onAnimationEnd(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener$default(android.animation.Animator, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnCancel(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnRepeat(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnCancel..inlined.addListener.1 void onAnimationStart(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnEnd..inlined.addListener.1 void onAnimationStart(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnEnd(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.3 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnStart..inlined.addListener.1 void onAnimationCancel(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener addPauseListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnRepeat..inlined.addListener.1 void onAnimationEnd(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnCancel(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnRepeat..inlined.addListener.1 void onAnimationStart(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener addPauseListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.1 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.listener.1 void onAnimationCancel(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener addPauseListener$default(android.animation.Animator, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.1 void invoke(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnRepeat(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.listener.1 void onAnimationResume(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnEnd..inlined.addListener.1 void onAnimationRepeat(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnEnd..inlined.addListener.1 void onAnimationEnd(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.4 void invoke(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.1 void invoke(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener doOnResume(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.2 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnCancel..inlined.addListener.1 void onAnimationEnd(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener addListener(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.3 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addListener.listener.1 void onAnimationRepeat(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnRepeat..inlined.addListener.1 void onAnimationRepeat(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.addPauseListener.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorListener doOnStart(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt android.animation.Animator.AnimatorPauseListener doOnPause(android.animation.Animator, kotlin.jvm.functions.Function1&lt;? super android.animation.Animator,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.animation.AnimatorKt.doOnCancel..inlined.addListener.1 void onAnimationCancel(android.animation.Animator) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

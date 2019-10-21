@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.j2objc.annotations.LoopTranslation.LoopStyle JAVA_ITERATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.j2objc.annotations.ReflectionSupport.Level NATIVE_ONLY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.j2objc.annotations.LoopTranslation.LoopStyle FAST_ENUMERATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.j2objc.annotations.ReflectionSupport.Level FULL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

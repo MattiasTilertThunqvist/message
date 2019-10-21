@@ -1,0 +1,497 @@
+<root>
+    <item name='androidx.core.view.MenuCompat void setShowAsAction(android.view.MenuItem, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.WindowCompat T requireViewById(android.view.Window, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setTranslationY(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setX(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.LayoutInflaterCompat androidx.core.view.LayoutInflaterFactory getFactory(android.view.LayoutInflater) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat rotationY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.PointerIconCompat androidx.core.view.PointerIconCompat getSystemIcon(android.content.Context, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat androidx.core.view.ViewPropertyAnimatorCompat animate(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat setListener(androidx.core.view.ViewPropertyAnimatorListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat translationXBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat setDuration(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void postInvalidateOnAnimation(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat withEndAction(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getPaddingStart(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setRotationX(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat yBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.PointerIconCompat androidx.core.view.PointerIconCompat load(android.content.res.Resources, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewConfigurationCompat int getScaledHoverSlop(android.view.ViewConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getY(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void removeOnUnhandledKeyEventListener(android.view.View, androidx.core.view.ViewCompat.OnUnhandledKeyEventListenerCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.LayoutInflaterCompat void setFactory(android.view.LayoutInflater, androidx.core.view.LayoutInflaterFactory) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat android.view.MenuItem setActionView(android.view.MenuItem, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setPaddingRelative(android.view.View, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setRotation(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getLayerType(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupCompat boolean isTransitionGroup(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat boolean collapseActionView(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorListenerAdapter void onAnimationCancel(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean hasExplicitFocusable(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat translationX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getMeasuredWidthAndState(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MarginLayoutParamsCompat int getMarginEnd(android.view.ViewGroup.MarginLayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void offsetTopAndBottom(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.DragStartHelper void getTouchPosition(android.graphics.Point) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void postInvalidateOnAnimation(android.view.View, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorListener void onAnimationStart(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat rotationYBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat boolean expandActionView(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat alphaBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int getActionMasked(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat android.view.Display getDisplay(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getTranslationX(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat setInterpolator(android.view.animation.Interpolator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MarginLayoutParamsCompat void setMarginEnd(android.view.ViewGroup.MarginLayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat xBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getRotationX(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewConfigurationCompat int getScaledPagingTouchSlop(android.view.ViewConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat withStartAction(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat translationZ(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat scaleX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getScaleX(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewConfigurationCompat boolean hasPermanentMenuKey(android.view.ViewConfiguration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int getButtonState(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat void setShowAsAction(android.view.MenuItem, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat y(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setPivotY(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setScaleX(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat android.view.View getActionView(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat float getY(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setFitsSystemWindows(android.view.View, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.LayoutInflaterCompat void setFactory2(android.view.LayoutInflater, android.view.LayoutInflater.Factory2) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.OneShotPreDrawListener androidx.core.view.OneShotPreDrawListener add(android.view.View, java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getPivotY(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setOverScrollMode(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getOverScrollMode(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void postOnAnimationDelayed(android.view.View, java.lang.Runnable, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean startDragAndDrop(android.view.View, android.content.ClipData, android.view.View.DragShadowBuilder, java.lang.Object, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.OneShotPreDrawListener androidx.core.view.OneShotPreDrawListener add(android.view.View, java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getMeasuredState(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getRotation(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat zBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat android.view.ViewParent getParentForAccessibility(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setTranslationX(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat rotationXBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setAccessibilityDelegate(android.view.View, androidx.core.view.AccessibilityDelegateCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.VelocityTrackerCompat float getYVelocity(android.view.VelocityTracker, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat T requireViewById(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat alpha(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setSaveFromParentEnabled(android.view.View, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void addOnUnhandledKeyEventListener(android.view.View, androidx.core.view.ViewCompat.OnUnhandledKeyEventListenerCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat setUpdateListener(androidx.core.view.ViewPropertyAnimatorUpdateListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat rotationX(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat float getAxisValue(android.view.MotionEvent, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int addAccessibilityAction(android.view.View, java.lang.CharSequence, androidx.core.view.accessibility.AccessibilityViewCommand) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupCompat void setTransitionGroup(android.view.ViewGroup, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat rotationBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat scaleYBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setRotationY(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setActivated(android.view.View, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat float getAxisValue(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat boolean isFromSource(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setLayerType(android.view.View, int, android.graphics.Paint) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int getActionIndex(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.OneShotPreDrawListener androidx.core.view.OneShotPreDrawListener add(android.view.View, java.lang.Runnable) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getPaddingEnd(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setLayerPaint(android.view.View, android.graphics.Paint) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getAlpha(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.WindowInsetsCompat androidx.core.view.WindowInsetsCompat consumeDisplayCutout()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorListener void onAnimationCancel(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getX(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat android.view.MenuItem setOnActionExpandListener(android.view.MenuItem, androidx.core.view.MenuItemCompat.OnActionExpandListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.VelocityTrackerCompat float getXVelocity(android.view.VelocityTracker, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int getSource(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setY(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void onPopulateAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat translationYBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void postOnAnimation(android.view.View, java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupCompat boolean onRequestSendAccessibilityEvent(android.view.ViewGroup, android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat android.view.MenuItem setActionView(android.view.MenuItem, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean isAttachedToWindow(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.PointerIconCompat androidx.core.view.PointerIconCompat create(android.graphics.Bitmap, float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getTranslationY(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean isLaidOut(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.AccessibilityDelegateCompat void onInitializeAccessibilityNodeInfo(android.view.View, androidx.core.view.accessibility.AccessibilityNodeInfoCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void offsetLeftAndRight(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void onInitializeAccessibilityNodeInfo(android.view.View, androidx.core.view.accessibility.AccessibilityNodeInfoCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.DragStartHelper boolean onTouch(android.view.View, android.view.MotionEvent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getScaleY(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int findPointerIndex(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int getPointerId(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setBackground(android.view.View, android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat scaleY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat translationY(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat int getMeasuredHeightAndState(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat z(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.AccessibilityDelegateCompat void onInitializeAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getRotationY(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MarginLayoutParamsCompat void setMarginStart(android.view.ViewGroup.MarginLayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupCompat void setMotionEventSplittingEnabled(android.view.ViewGroup, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean canScrollVertically(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void replaceAccessibilityAction(android.view.View, androidx.core.view.accessibility.AccessibilityNodeInfoCompat.AccessibilityActionCompat, java.lang.CharSequence, androidx.core.view.accessibility.AccessibilityViewCommand) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat withLayer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void onInitializeAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat rotation(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MarginLayoutParamsCompat int getMarginStart(android.view.ViewGroup.MarginLayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean restoreDefaultFocus(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat android.graphics.Matrix getMatrix(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat scaleXBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.AccessibilityDelegateCompat boolean performAccessibilityAction(android.view.View, int, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.AccessibilityDelegateCompat void onInitializeAccessibilityNodeInfo(android.view.View, androidx.core.view.accessibility.AccessibilityNodeInfoCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean canScrollHorizontally(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat translationZBy(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.OneShotPreDrawListener void onViewAttachedToWindow(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setScaleY(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat setStartDelay(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat float getPivotX(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void onInitializeAccessibilityNodeInfo(android.view.View, androidx.core.view.accessibility.AccessibilityNodeInfoCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorCompat androidx.core.view.ViewPropertyAnimatorCompat x(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuItemCompat boolean isActionViewExpanded(android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat int getPointerCount(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewParentCompat boolean requestSendAccessibilityEvent(android.view.ViewParent, android.view.View, android.view.accessibility.AccessibilityEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.AccessibilityDelegateCompat void onInitializeAccessibilityEvent(android.view.View, android.view.accessibility.AccessibilityEvent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setAlpha(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void jumpDrawablesToCurrentState(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat void setPivotX(android.view.View, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MotionEventCompat float getX(android.view.MotionEvent, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewCompat boolean isOpaque(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewPropertyAnimatorListenerAdapter void onAnimationStart(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

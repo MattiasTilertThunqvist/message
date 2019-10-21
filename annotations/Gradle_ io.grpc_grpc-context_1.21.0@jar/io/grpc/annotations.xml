@@ -1,0 +1,146 @@
+<root>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withDeadlineAfter(long, java.util.concurrent.TimeUnit, java.util.concurrent.ScheduledExecutorService) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.CancellableContext void detach(io.grpc.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context void addListener(io.grpc.Context.CancellationListener, java.util.concurrent.Executor) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context java.util.concurrent.Executor fixedContextExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.Key java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline io.grpc.Deadline offset(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.Storage io.grpc.Context current()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Deadline io.grpc.Deadline minimum(io.grpc.Deadline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline io.grpc.Deadline after(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context void run(java.lang.Runnable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline io.grpc.Deadline after(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context java.util.concurrent.Executor currentContextExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context void detach(io.grpc.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline int compareTo(io.grpc.Deadline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context attach()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline java.util.concurrent.ScheduledFuture&lt;?&gt; runOnExpiration(java.lang.Runnable, java.util.concurrent.ScheduledExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.Key&lt;T&gt; key(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withDeadline(io.grpc.Deadline, java.util.concurrent.ScheduledExecutorService) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context withValues(io.grpc.Context.Key&lt;V1&gt;, V1, io.grpc.Context.Key&lt;V2&gt;, V2, io.grpc.Context.Key&lt;V3&gt;, V3)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withDeadlineAfter(long, java.util.concurrent.TimeUnit, java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.Key T get(io.grpc.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.Key&lt;T&gt; keyWithDefault(java.lang.String, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context fork()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context withValues(io.grpc.Context.Key&lt;V1&gt;, V1, io.grpc.Context.Key&lt;V2&gt;, V2)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.Key&lt;T&gt; keyWithDefault(java.lang.String, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline io.grpc.Deadline minimum(io.grpc.Deadline)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.CancellableContext io.grpc.Context attach()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withDeadline(io.grpc.Deadline, java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withDeadlineAfter(long, java.util.concurrent.TimeUnit, java.util.concurrent.ScheduledExecutorService) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withCancellation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline long timeRemaining(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.Key&lt;T&gt; key(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context withValues(io.grpc.Context.Key&lt;V1&gt;, V1, io.grpc.Context.Key&lt;V2&gt;, V2, io.grpc.Context.Key&lt;V3&gt;, V3, io.grpc.Context.Key&lt;V4&gt;, V4)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context ROOT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context void addListener(io.grpc.Context.CancellationListener, java.util.concurrent.Executor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.CancellableContext void detachAndCancel(io.grpc.Context, java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context V call(java.util.concurrent.Callable&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context withValue(io.grpc.Context.Key&lt;V&gt;, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline java.util.concurrent.ScheduledFuture&lt;?&gt; runOnExpiration(java.lang.Runnable, java.util.concurrent.ScheduledExecutorService) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context.Storage io.grpc.Context doAttach(io.grpc.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context.CancellableContext withDeadline(io.grpc.Deadline, java.util.concurrent.ScheduledExecutorService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context java.lang.Runnable wrap(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context java.util.concurrent.Callable&lt;C&gt; wrap(java.util.concurrent.Callable&lt;C&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Context io.grpc.Context current()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Deadline boolean isBefore(io.grpc.Deadline) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

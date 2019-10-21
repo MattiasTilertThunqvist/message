@@ -1,0 +1,83 @@
+<root>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder setCoords(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setDownTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder setPressure(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder setTool(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setMetaState(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerPropertiesBuilder android.view.MotionEvent.PointerProperties build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setPointer(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setEventTime(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerPropertiesBuilder androidx.test.core.view.PointerPropertiesBuilder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setActionIndex(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setEdgeFlags(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerPropertiesBuilder androidx.test.core.view.PointerPropertiesBuilder setId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerPropertiesBuilder androidx.test.core.view.PointerPropertiesBuilder setToolType(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder setTouch(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setPointer(android.view.MotionEvent.PointerProperties, android.view.MotionEvent.PointerCoords)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder setOrientation(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder setSize(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setAction(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setButtonState(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setFlags(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setDeviceId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setSource(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setXPrecision(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.MotionEventBuilder androidx.test.core.view.MotionEventBuilder setYPrecision(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder android.view.MotionEvent.PointerCoords build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.view.PointerCoordsBuilder androidx.test.core.view.PointerCoordsBuilder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

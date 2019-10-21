@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.test.internal.platform.os.ControlledLooper NO_OP_CONTROLLED_LOOPER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

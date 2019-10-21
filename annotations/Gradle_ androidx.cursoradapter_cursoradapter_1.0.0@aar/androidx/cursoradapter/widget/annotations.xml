@@ -1,0 +1,23 @@
+<root>
+    <item name='androidx.cursoradapter.widget.SimpleCursorAdapter SimpleCursorAdapter(android.content.Context, int, android.database.Cursor, java.lang.String[], int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.cursoradapter.widget.SimpleCursorAdapter SimpleCursorAdapter(android.content.Context, int, android.database.Cursor, java.lang.String[], int[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.cursoradapter.widget.ResourceCursorAdapter ResourceCursorAdapter(android.content.Context, int, android.database.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.cursoradapter.widget.ResourceCursorAdapter ResourceCursorAdapter(android.content.Context, int, android.database.Cursor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.cursoradapter.widget.SimpleCursorAdapter void setViewText(android.widget.TextView, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.cursoradapter.widget.SimpleCursorAdapter void setViewImage(android.widget.ImageView, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.cursoradapter.widget.ResourceCursorAdapter ResourceCursorAdapter(android.content.Context, int, android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

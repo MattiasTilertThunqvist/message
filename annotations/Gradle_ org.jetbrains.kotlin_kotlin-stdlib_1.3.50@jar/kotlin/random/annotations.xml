@@ -1,0 +1,173 @@
+<root>
+    <item name='kotlin.random.PlatformRandomKt kotlin.random.Random asKotlinRandom(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes$default(kotlin.random.Random, byte[], int, int, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-EVgfTAA(kotlin.random.Random, byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random.Companion INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.AbstractPlatformRandom java.util.Random getImpl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes(kotlin.random.Random, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.AbstractPlatformRandom byte[] nextBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random.Default byte[] nextBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.PlatformRandomKt java.util.Random asJavaRandom(kotlin.random.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt int nextInt(kotlin.random.Random, kotlin.ranges.IntRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-Wvrt4B4$default(kotlin.random.Random, byte[], int, int, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt long nextLong(kotlin.random.Random, kotlin.ranges.LongRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-EVgfTAA(kotlin.random.Random, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt int nextUInt(kotlin.random.Random, kotlin.ranges.UIntRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.FallbackThreadLocalRandom.implStorage.1 java.lang.Object initialValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random kotlin.random.Random access$getDefaultRandom$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt long nextULong(kotlin.random.Random, kotlin.ranges.ULongRange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes$default(kotlin.random.Random, byte[], int, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt java.lang.String boundsErrorMessage(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-Wvrt4B4(kotlin.random.Random, byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt long nextULong-V1Xi4fY(kotlin.random.Random, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-Wvrt4B4$default(kotlin.random.Random, byte[], int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt long nextULong(kotlin.random.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-EVgfTAA(kotlin.random.Random, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt int nextUInt-qCasIEU(kotlin.random.Random, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt int nextUInt(kotlin.random.Random, kotlin.ranges.UIntRange) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random.Default byte[] nextBytes(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-Wvrt4B4(kotlin.random.Random, byte[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt java.lang.String boundsErrorMessage(java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.FallbackThreadLocalRandom.implStorage.1 java.util.Random initialValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt long nextULong(kotlin.random.Random, kotlin.ranges.ULongRange) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.FallbackThreadLocalRandom java.util.Random getImpl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.PlatformRandomKt kotlin.random.Random asKotlinRandom(java.util.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt long nextULong-jmpaW-c(kotlin.random.Random, long, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt java.lang.String boundsErrorMessage(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt int nextUInt(kotlin.random.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt int nextUInt-a8DCA5k(kotlin.random.Random, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes(kotlin.random.Random, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random.Default byte[] nextBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-Wvrt4B4$default(kotlin.random.Random, byte[], int, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes$default(kotlin.random.Random, byte[], int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.URandomKt byte[] nextUBytes-Wvrt4B4(kotlin.random.Random, byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.AbstractPlatformRandom byte[] nextBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt kotlin.random.Random Random(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.PlatformRandomKt java.util.Random asJavaRandom(kotlin.random.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random.Default byte[] nextBytes(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random Default'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt int nextInt(kotlin.random.Random, kotlin.ranges.IntRange) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt long nextLong(kotlin.random.Random, kotlin.ranges.LongRange) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random.Default byte[] nextBytes(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.Random byte[] nextBytes(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.random.RandomKt kotlin.random.Random Random(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

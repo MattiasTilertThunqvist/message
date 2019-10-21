@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.test.espresso.core.internal.deps.guava.util.concurrent.internal.InternalFutures java.lang.Throwable tryInternalFastPathGetFailure(androidx.test.espresso.core.internal.deps.guava.util.concurrent.internal.InternalFutureFailureAccess) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

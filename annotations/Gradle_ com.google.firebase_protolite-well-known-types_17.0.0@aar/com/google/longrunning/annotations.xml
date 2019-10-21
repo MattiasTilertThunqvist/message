@@ -1,0 +1,281 @@
+<root>
+    <item name='com.google.longrunning.CancelOperationRequest.Builder com.google.longrunning.CancelOperationRequest.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(int, com.google.longrunning.Operation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setResponse(com.google.protobuf.Any) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest.Builder com.google.longrunning.GetOperationRequest.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setError(com.google.rpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setNextPageToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation com.google.longrunning.Operation getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest.Builder com.google.longrunning.GetOperationRequest.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder clearFilter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(int, com.google.longrunning.Operation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(com.google.longrunning.Operation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(int, com.google.longrunning.Operation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setNextPageTokenBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setPageTokenBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest.Builder com.google.longrunning.DeleteOperationRequest.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder clearOperations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest.Builder com.google.longrunning.DeleteOperationRequest.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse com.google.longrunning.ListOperationsResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setOperations(int, com.google.longrunning.Operation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.CancelOperationRequest.Builder com.google.longrunning.CancelOperationRequest.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder mergeResponse(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setPageTokenBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setMetadata(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder clearPageToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setResponse(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.ResultCase RESPONSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest.Builder com.google.longrunning.GetOperationRequest.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(com.google.longrunning.Operation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setFilterBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setOperations(int, com.google.longrunning.Operation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.CancelOperationRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest.Builder com.google.longrunning.DeleteOperationRequest.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder mergeError(com.google.rpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setError(com.google.rpc.Status.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder clearDone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.ResultCase ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest.Builder com.google.longrunning.GetOperationRequest.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setFilter(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setPageToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest com.google.longrunning.GetOperationRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder clearResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setResponse(com.google.protobuf.Any.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setMetadata(com.google.protobuf.Any.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setOperations(int, com.google.longrunning.Operation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest com.google.longrunning.ListOperationsRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.CancelOperationRequest.Builder com.google.longrunning.CancelOperationRequest.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.CancelOperationRequest.Builder com.google.longrunning.CancelOperationRequest.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setFilter(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setPageToken(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setResponse(com.google.protobuf.Any.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest.Builder com.google.longrunning.GetOperationRequest.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest.Builder com.google.longrunning.DeleteOperationRequest.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest com.google.longrunning.DeleteOperationRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setOperations(int, com.google.longrunning.Operation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setFilterBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setPageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.CancelOperationRequest.Builder com.google.longrunning.CancelOperationRequest.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder mergeMetadata(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.ResultCase RESULT_NOT_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder removeOperations(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder clearError()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder clearMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder clearResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(int, com.google.longrunning.Operation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(com.google.longrunning.Operation.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.GetOperationRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsRequest.Builder com.google.longrunning.ListOperationsRequest.Builder clearPageSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.DeleteOperationRequest.Builder com.google.longrunning.DeleteOperationRequest.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addAllOperations(java.lang.Iterable&lt;? extends com.google.longrunning.Operation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setNextPageToken(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder clearNextPageToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setMetadata(com.google.protobuf.Any.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setMetadata(com.google.protobuf.Any) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setDone(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setError(com.google.rpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder setNextPageTokenBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation.Builder com.google.longrunning.Operation.Builder setError(com.google.rpc.Status.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.Operation java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.CancelOperationRequest com.google.longrunning.CancelOperationRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.longrunning.ListOperationsResponse.Builder com.google.longrunning.ListOperationsResponse.Builder addOperations(com.google.longrunning.Operation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

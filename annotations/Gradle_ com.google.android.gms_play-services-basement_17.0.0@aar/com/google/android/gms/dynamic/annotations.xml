@@ -1,0 +1,62 @@
+<root>
+    <item name='com.google.android.gms.dynamic.FragmentWrapper com.google.android.gms.dynamic.IObjectWrapper zzae()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.FragmentWrapper void zza(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.SupportFragmentWrapper com.google.android.gms.dynamic.IObjectWrapper zzae()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.SupportFragmentWrapper void zzb(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.FragmentWrapper com.google.android.gms.dynamic.IObjectWrapper zzag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.IFragmentWrapper void zza(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.dynamic.ObjectWrapper T unwrap(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.FragmentWrapper com.google.android.gms.dynamic.IObjectWrapper zzai()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.SupportFragmentWrapper com.google.android.gms.dynamic.IObjectWrapper zzag()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.IFragmentWrapper.Stub.zza void zza(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.dynamic.SupportFragmentWrapper com.google.android.gms.dynamic.IObjectWrapper zzai()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.FragmentWrapper void zzb(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.ObjectWrapper com.google.android.gms.dynamic.IObjectWrapper wrap(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.SupportFragmentWrapper void zza(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.IFragmentWrapper.Stub.zza void zzb(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.dynamic.IFragmentWrapper void zzb(com.google.android.gms.dynamic.IObjectWrapper) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.test.runner.permission.RequestPermissionCallable.Result FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.runner.permission.RequestPermissionCallable.Result SUCCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

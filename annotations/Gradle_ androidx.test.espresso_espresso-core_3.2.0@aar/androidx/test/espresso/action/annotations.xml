@@ -1,0 +1,482 @@
+<root>
+    <item name='androidx.test.espresso.action.ReplaceTextAction ReplaceTextAction(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.TypeTextAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainUpEvent(android.view.MotionEvent, float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction typeTextIntoFocusedView(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Press PINPOINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EspressoKey.Builder androidx.test.espresso.action.EspressoKey.Builder withKeyCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Press THUMB'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol androidx.test.espresso.util.EspressoOptional&lt;androidx.test.espresso.action.AdapterViewProtocol.AdaptedData&gt; getDataRenderedByView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterDataLoaderAction java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.TypeTextAction TypeTextAction(java.lang.String, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction replaceText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.TypeTextAction TypeTextAction(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation TOP_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainDownEvent(float[], float[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.CloseKeyboardAction java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainUpEvent(android.view.MotionEvent, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EditorAction org.hamcrest.Matcher&lt;android.view.View&gt; getConstraints()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents void sendCancel(androidx.test.espresso.UiController, android.view.MotionEvent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder withOpaqueToken(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.OpenLinkAction OpenLinkAction(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;android.net.Uri&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EspressoKey.Builder androidx.test.espresso.action.EspressoKey.Builder withShiftPressed(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.KeyEventAction KeyEventAction(androidx.test.espresso.action.EspressoKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Swipe SLOW'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EditorAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper androidx.test.espresso.action.Swiper.Status sendSwipe(androidx.test.espresso.UiController, float[], float[], float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation VISIBLE_CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[], int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterDataLoaderAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction repeatedlyUntil(androidx.test.espresso.ViewAction, org.hamcrest.Matcher&lt;android.view.View&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EspressoKey.Builder androidx.test.espresso.action.EspressoKey.Builder withCtrlPressed(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder withData(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction openLinkWithUri(org.hamcrest.Matcher&lt;android.net.Uri&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation TOP_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.KeyEventAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.KeyEventAction org.hamcrest.Matcher getConstraints()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tap SINGLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.PrecisionDescriber float[] describePrecision()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol java.lang.Iterable&lt;androidx.test.espresso.action.AdapterViewProtocol.AdaptedData&gt; getDataInAdapterView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol boolean isDataRenderedWithinAdapterView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;, androidx.test.espresso.action.AdapterViewProtocol.AdaptedData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Tap LONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.CloseKeyboardAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.CoordinatesProvider float[] calculateCoordinates(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper androidx.test.espresso.action.Swiper.Status sendSwipe(androidx.test.espresso.UiController, float[], float[], float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper.Status SUCCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation BOTTOM_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation CENTER_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainMovement(long, long, float[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocols androidx.test.espresso.action.AdapterViewProtocol standardProtocol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.PressBackAction PressBackAction(boolean, androidx.test.espresso.action.EspressoKey) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder androidx.test.espresso.action.AdapterViewProtocol.AdaptedData build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction repeatedlyUntil(androidx.test.espresso.ViewAction, org.hamcrest.Matcher&lt;android.view.View&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction typeText(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper androidx.test.espresso.action.Swiper.Status sendSwipe(androidx.test.espresso.UiController, float[], float[], float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol androidx.test.espresso.util.EspressoOptional&lt;androidx.test.espresso.action.AdapterViewProtocol.AdaptedData&gt; getDataRenderedByView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;, android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.CoordinatesProvider float[] calculateCoordinates(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ReplaceTextAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol boolean isDataRenderedWithinAdapterView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;, androidx.test.espresso.action.AdapterViewProtocol.AdaptedData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.ScrollToAction java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper androidx.test.espresso.action.Swiper.Status sendSwipe(androidx.test.espresso.UiController, float[], float[], float[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper.Status FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper.Status SUCCESS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterDataLoaderAction AdapterDataLoaderAction(org.hamcrest.Matcher&lt;? extends java.lang.Object&gt;, androidx.test.espresso.util.EspressoOptional&lt;java.lang.Integer&gt;, androidx.test.espresso.action.AdapterViewProtocol) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Swipe FAST'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions void addGlobalAssertion(java.lang.String, androidx.test.espresso.ViewAssertion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.RepeatActionUntilViewState RepeatActionUntilViewState(androidx.test.espresso.ViewAction, org.hamcrest.Matcher&lt;android.view.View&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.RepeatActionUntilViewState void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction pressKey(androidx.test.espresso.action.EspressoKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendMovement(androidx.test.espresso.UiController, android.view.MotionEvent, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainDownEvent(float[], float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralSwipeAction org.hamcrest.Matcher&lt;android.view.View&gt; getConstraints()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EspressoKey.Builder androidx.test.espresso.action.EspressoKey build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterDataLoaderAction AdapterDataLoaderAction(org.hamcrest.Matcher&lt;? extends java.lang.Object&gt;, androidx.test.espresso.util.EspressoOptional&lt;java.lang.Integer&gt;, androidx.test.espresso.action.AdapterViewProtocol) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction openLinkWithText(org.hamcrest.Matcher&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterDataLoaderAction AdapterDataLoaderAction(org.hamcrest.Matcher&lt;? extends java.lang.Object&gt;, androidx.test.espresso.util.EspressoOptional&lt;java.lang.Integer&gt;, androidx.test.espresso.action.AdapterViewProtocol) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.OpenLinkAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction click(androidx.test.espresso.ViewAction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[], int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions void addGlobalAssertion(java.lang.String, androidx.test.espresso.ViewAssertion) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper.Status FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendMovement(androidx.test.espresso.UiController, android.view.MotionEvent, float[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EspressoKey.Builder androidx.test.espresso.action.EspressoKey.Builder withAltPressed(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendUp(androidx.test.espresso.UiController, android.view.MotionEvent, float[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainDownEvent(float[], float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol java.lang.Iterable&lt;androidx.test.espresso.action.AdapterViewProtocol.AdaptedData&gt; getDataInAdapterView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralClickAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Swiper androidx.test.espresso.action.Swiper.Status sendSwipe(androidx.test.espresso.UiController, float[], float[], float[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainDownEvent(float[], float[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents void sendCancel(androidx.test.espresso.UiController, android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction openLink(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;android.net.Uri&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralSwipeAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper.Status WARNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendUp(androidx.test.espresso.UiController, android.view.MotionEvent, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendUp(androidx.test.espresso.UiController, android.view.MotionEvent, float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation BOTTOM_RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.OpenLinkAction OpenLinkAction(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;android.net.Uri&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Press FINGER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.PressBackAction org.hamcrest.Matcher getConstraints()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation BOTTOM_CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendUp(androidx.test.espresso.UiController, android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.PressBackAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.Tap DOUBLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.EditorAction java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation TOP_CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ViewActions androidx.test.espresso.ViewAction openLink(org.hamcrest.Matcher&lt;java.lang.String&gt;, org.hamcrest.Matcher&lt;android.net.Uri&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.Tapper androidx.test.espresso.action.Tapper.Status sendTap(androidx.test.espresso.UiController, float[], float[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol void makeDataRenderedWithinAdapterView(android.widget.AdapterView&lt;? extends android.widget.Adapter&gt;, androidx.test.espresso.action.AdapterViewProtocol.AdaptedData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendMovement(androidx.test.espresso.UiController, android.view.MotionEvent, float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.RepeatActionUntilViewState RepeatActionUntilViewState(androidx.test.espresso.ViewAction, org.hamcrest.Matcher&lt;android.view.View&gt;, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.GeneralLocation CENTER_LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.ScrollToAction void perform(androidx.test.espresso.UiController, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents android.view.MotionEvent obtainMovement(long, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder androidx.test.espresso.action.AdapterViewProtocol.AdaptedData.Builder withDataFunction(androidx.test.espresso.action.AdapterViewProtocol.DataFunction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.AdapterViewProtocol.AdaptedData opaqueToken'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents boolean sendUp(androidx.test.espresso.UiController, android.view.MotionEvent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.action.MotionEvents androidx.test.espresso.action.MotionEvents.DownResultHolder sendDown(androidx.test.espresso.UiController, float[], float[], int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

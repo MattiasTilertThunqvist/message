@@ -1,0 +1,338 @@
+<root>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction remove(androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.ListFragment android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment androidx.fragment.app.FragmentActivity requireActivity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentManager androidx.fragment.app.Fragment getFragment(android.os.Bundle, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentActivity void dump(java.lang.String, java.io.FileDescriptor, java.io.PrintWriter, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setMaxLifecycle(androidx.fragment.app.Fragment, androidx.lifecycle.Lifecycle.State) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment androidx.fragment.app.Fragment instantiate(android.content.Context, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction hide(androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment void unregisterForContextMenu(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment androidx.fragment.app.Fragment instantiate(android.content.Context, java.lang.String, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction disallowAddToBackStack()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction show(androidx.fragment.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setBreadCrumbTitle(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment androidx.lifecycle.ViewModelStore getViewModelStore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction addToBackStack(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentStatePagerAdapter void destroyItem(android.view.ViewGroup, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTabHost android.os.Parcelable onSaveInstanceState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment void registerForContextMenu(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentManager void dump(java.lang.String, java.io.FileDescriptor, java.io.PrintWriter, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setCustomAnimations(int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction remove(androidx.fragment.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction replace(int, androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setCustomAnimations(int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setBreadCrumbTitle(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentStatePagerAdapter void startUpdate(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setMaxLifecycle(androidx.fragment.app.Fragment, androidx.lifecycle.Lifecycle.State) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction add(androidx.fragment.app.Fragment, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment void postponeEnterTransition(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setMaxLifecycle(androidx.fragment.app.Fragment, androidx.lifecycle.Lifecycle.State)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction show(androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setTransition(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentManager void putFragment(android.os.Bundle, java.lang.String, androidx.fragment.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction replace(int, androidx.fragment.app.Fragment, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment android.content.Context requireContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction add(int, androidx.fragment.app.Fragment, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentStatePagerAdapter boolean isViewFromObject(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTabHost void addTab(android.widget.TabHost.TabSpec, java.lang.Class&lt;?&gt;, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl java.lang.Object mergeTransitionsTogether(java.lang.Object, java.lang.Object, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction attach(androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment void dump(java.lang.String, java.io.FileDescriptor, java.io.PrintWriter, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void setSharedElementTargets(java.lang.Object, android.view.View, java.util.ArrayList&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction detach(androidx.fragment.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentPagerAdapter java.lang.Object instantiateItem(android.view.ViewGroup, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment androidx.fragment.app.FragmentManager requireFragmentManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTabHost FragmentTabHost(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentContainer androidx.fragment.app.Fragment instantiate(android.content.Context, java.lang.String, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.DialogFragment android.app.Dialog onCreateDialog(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment android.os.Bundle requireArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentActivity androidx.fragment.app.FragmentManager getSupportFragmentManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setBreadCrumbShortTitle(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentManager androidx.fragment.app.Fragment.SavedState saveFragmentInstanceState(androidx.fragment.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentController java.util.List&lt;androidx.fragment.app.Fragment&gt; getActiveFragments(java.util.List&lt;androidx.fragment.app.Fragment&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void getBoundsOnScreen(android.view.View, android.graphics.Rect) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction add(androidx.fragment.app.Fragment, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment android.view.View requireView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentManager androidx.fragment.app.FragmentTransaction beginTransaction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction add(int, androidx.fragment.app.Fragment) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void replaceTargets(java.lang.Object, java.util.ArrayList&lt;android.view.View&gt;, java.util.ArrayList&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentPagerAdapter java.lang.Object instantiateItem(android.view.ViewGroup, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setTransitionStyle(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction replace(int, androidx.fragment.app.Fragment, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction detach(androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction add(int, androidx.fragment.app.Fragment, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void scheduleHideFragmentView(java.lang.Object, android.view.View, java.util.ArrayList&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.Fragment androidx.fragment.app.Fragment requireParentFragment()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.DialogFragment int show(androidx.fragment.app.FragmentTransaction, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment.SavedState void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction add(int, androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentManager void putFragment(android.os.Bundle, java.lang.String, androidx.fragment.app.Fragment) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction hide(androidx.fragment.app.Fragment) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void bfsAddViewChildren(java.util.List&lt;android.view.View&gt;, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void scheduleRemoveTargets(java.lang.Object, java.lang.Object, java.util.ArrayList&lt;android.view.View&gt;, java.lang.Object, java.util.ArrayList&lt;android.view.View&gt;, java.lang.Object, java.util.ArrayList&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void getBoundsOnScreen(android.view.View, android.graphics.Rect) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setAllowOptimization(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction replace(int, androidx.fragment.app.Fragment) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setBreadCrumbShortTitle(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setReorderingAllowed(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentPagerAdapter void startUpdate(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.DialogFragment android.app.Dialog requireDialog()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment.SavedState CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentController androidx.fragment.app.FragmentManager getSupportFragmentManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentController androidx.fragment.app.FragmentController createController(androidx.fragment.app.FragmentHostCallback&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentStatePagerAdapter java.lang.Object instantiateItem(android.view.ViewGroup, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransitionImpl void setSharedElementTargets(java.lang.Object, android.view.View, java.util.ArrayList&lt;android.view.View&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction runOnCommit(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.DialogFragment void show(androidx.fragment.app.FragmentManager, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTabHost FragmentTabHost(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.ListFragment android.widget.ListAdapter requireListAdapter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentPagerAdapter boolean isViewFromObject(android.view.View, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.DialogFragment void showNow(androidx.fragment.app.FragmentManager, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction addSharedElement(android.view.View, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.Fragment java.lang.Object requireHost()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.fragment.app.FragmentHostCallback void onDump(java.lang.String, java.io.FileDescriptor, java.io.PrintWriter, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.fragment.app.FragmentTransaction androidx.fragment.app.FragmentTransaction setPrimaryNavigationFragment(androidx.fragment.app.Fragment)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

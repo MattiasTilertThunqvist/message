@@ -1,0 +1,14 @@
+<root>
+    <item name='androidx.core.database.sqlite.SQLiteDatabaseKt T transaction(android.database.sqlite.SQLiteDatabase, boolean, kotlin.jvm.functions.Function1&lt;? super android.database.sqlite.SQLiteDatabase,? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.sqlite.SQLiteDatabaseKt T transaction(android.database.sqlite.SQLiteDatabase, boolean, kotlin.jvm.functions.Function1&lt;? super android.database.sqlite.SQLiteDatabase,? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.sqlite.SQLiteDatabaseKt java.lang.Object transaction$default(android.database.sqlite.SQLiteDatabase, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.sqlite.SQLiteDatabaseKt java.lang.Object transaction$default(android.database.sqlite.SQLiteDatabase, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

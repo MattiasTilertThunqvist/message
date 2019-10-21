@@ -1,0 +1,32 @@
+<root>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_STARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_RUN_FINISHED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_ASSUMPTION_FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager void addListener(androidx.test.orchestrator.listeners.OrchestrationRunListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_FINISHED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_RUN_STARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_IGNORED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager.TestEvent TEST_FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager KEY_TEST_EVENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.OrchestrationListenerManager void handleNotification(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

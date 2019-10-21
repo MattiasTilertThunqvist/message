@@ -1,0 +1,47 @@
+<root>
+    <item name='androidx.lifecycle.Lifecycle.State RESUMED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_CREATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.LifecycleEventObserver void onStateChanged(androidx.lifecycle.LifecycleOwner, androidx.lifecycle.Lifecycle.Event) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_STOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_ANY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_RESUME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.State INITIALIZED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_PAUSE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycling java.lang.String getAdapterName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.State DESTROYED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_DESTROY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.State CREATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.Event ON_START'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.Lifecycle.State STARTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

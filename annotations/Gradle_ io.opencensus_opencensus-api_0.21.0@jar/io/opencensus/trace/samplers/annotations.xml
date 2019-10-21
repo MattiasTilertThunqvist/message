@@ -1,0 +1,11 @@
+<root>
+    <item name='io.opencensus.trace.samplers.Samplers io.opencensus.trace.Sampler probabilitySampler(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.samplers.Samplers io.opencensus.trace.Sampler alwaysSample()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.samplers.Samplers io.opencensus.trace.Sampler neverSample()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

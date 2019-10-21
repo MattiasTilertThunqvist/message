@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.vectordrawable.graphics.drawable.VectorDrawableCompat android.graphics.drawable.Drawable mutate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.vectordrawable.graphics.drawable.VectorDrawableCompat androidx.vectordrawable.graphics.drawable.VectorDrawableCompat createFromXmlInner(android.content.res.Resources, org.xmlpull.v1.XmlPullParser, android.util.AttributeSet, android.content.res.Resources.Theme)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

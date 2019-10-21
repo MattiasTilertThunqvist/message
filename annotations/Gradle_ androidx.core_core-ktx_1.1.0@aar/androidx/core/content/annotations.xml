@@ -1,0 +1,44 @@
+<root>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes(android.content.Context, int, int[], kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes(android.content.Context, android.util.AttributeSet, int[], int, int, kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,kotlin.Unit&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.SharedPreferencesKt void edit(android.content.SharedPreferences, boolean, kotlin.jvm.functions.Function1&lt;? super android.content.SharedPreferences.Editor,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes(android.content.Context, int, int[], kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.SharedPreferencesKt void edit(android.content.SharedPreferences, boolean, kotlin.jvm.functions.Function1&lt;? super android.content.SharedPreferences.Editor,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes(android.content.Context, int, int[], kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContentValuesKt android.content.ContentValues contentValuesOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.SharedPreferencesKt void edit$default(android.content.SharedPreferences, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes(android.content.Context, android.util.AttributeSet, int[], int, int, kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContentValuesKt android.content.ContentValues contentValuesOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes(android.content.Context, android.util.AttributeSet, int[], int, int, kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.SharedPreferencesKt void edit$default(android.content.SharedPreferences, boolean, kotlin.jvm.functions.Function1, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes$default(android.content.Context, android.util.AttributeSet, int[], int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.ContextKt void withStyledAttributes$default(android.content.Context, android.util.AttributeSet, int[], int, int, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.android.gms.signin.zab API'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.signin.SignInOptions DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.signin.SignInOptions android.os.Bundle toBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.signin.zab zapv'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

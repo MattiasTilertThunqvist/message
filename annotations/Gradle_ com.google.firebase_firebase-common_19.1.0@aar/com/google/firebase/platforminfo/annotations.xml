@@ -1,0 +1,23 @@
+<root>
+    <item name='com.google.firebase.platforminfo.DefaultUserAgentPublisher com.google.firebase.components.Component&lt;com.google.firebase.platforminfo.UserAgentPublisher&gt; component()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.platforminfo.GlobalLibraryVersionRegistrar void registerVersion(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.platforminfo.GlobalLibraryVersionRegistrar void registerVersion(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.platforminfo.LibraryVersionComponent com.google.firebase.components.Component&lt;?&gt; create(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.platforminfo.GlobalLibraryVersionRegistrar com.google.firebase.platforminfo.GlobalLibraryVersionRegistrar getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.platforminfo.LibraryVersionComponent com.google.firebase.components.Component&lt;?&gt; create(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.platforminfo.LibraryVersionComponent com.google.firebase.components.Component&lt;?&gt; create(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.test.internal.util.AndroidRunnerBuilderUtil boolean hasJUnit3TestMethod(java.lang.Class&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

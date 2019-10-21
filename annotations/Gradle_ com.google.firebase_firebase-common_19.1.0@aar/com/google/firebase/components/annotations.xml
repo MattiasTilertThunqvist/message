@@ -1,0 +1,116 @@
+<root>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component.Builder&lt;T&gt; add(com.google.firebase.components.Dependency)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component.Builder&lt;T&gt; eagerInDefaultApp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Dependency com.google.firebase.components.Dependency setOfProvider(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentFactory T create(com.google.firebase.components.ComponentContainer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component&lt;T&gt; intoSet(T, java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component&lt;T&gt; of(java.lang.Class&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component&lt;T&gt; of(T, java.lang.Class&lt;T&gt;, java.lang.Class&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Dependency com.google.firebase.components.Dependency required(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component.Builder&lt;T&gt; publishes(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentContainer com.google.firebase.inject.Provider&lt;java.util.Set&lt;T&gt;&gt; setOfProvider(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.components.ComponentRuntime java.lang.Object get(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.components.Dependency com.google.firebase.components.Dependency requiredProvider(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentRuntime ComponentRuntime(java.util.concurrent.Executor, java.lang.Iterable&lt;com.google.firebase.components.ComponentRegistrar&gt;, com.google.firebase.components.Component&lt;?&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentFactory T create(com.google.firebase.components.ComponentContainer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component&lt;T&gt; of(T, java.lang.Class&lt;T&gt;, java.lang.Class&lt;? super T&gt;...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.DependencyCycleException DependencyCycleException(java.util.List&lt;com.google.firebase.components.Component&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentDiscovery java.util.List&lt;com.google.firebase.components.ComponentRegistrar&gt; discover()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component.Builder&lt;T&gt; builder(java.lang.Class&lt;T&gt;, java.lang.Class&lt;? super T&gt;...) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Dependency com.google.firebase.components.Dependency optionalProvider(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentContainer T get(java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.components.Dependency com.google.firebase.components.Dependency setOf(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentRuntime com.google.firebase.inject.Provider&lt;java.util.Set&lt;T&gt;&gt; setOfProvider(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentDiscovery com.google.firebase.components.ComponentDiscovery&lt;android.content.Context&gt; forContext(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Dependency com.google.firebase.components.Dependency optional(java.lang.Class&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component.Builder&lt;T&gt; intoSetBuilder(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component.Builder&lt;T&gt; factory(com.google.firebase.components.ComponentFactory&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.DependencyCycleException java.util.List&lt;com.google.firebase.components.Component&lt;?&gt;&gt; getComponentsInCycle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component.Builder&lt;T&gt; builder(java.lang.Class&lt;T&gt;, java.lang.Class&lt;? super T&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component com.google.firebase.components.Component.Builder&lt;T&gt; builder(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component&lt;T&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component.Builder&lt;T&gt; add(com.google.firebase.components.Dependency) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.ComponentRuntime ComponentRuntime(java.util.concurrent.Executor, java.lang.Iterable&lt;com.google.firebase.components.ComponentRegistrar&gt;, com.google.firebase.components.Component&lt;?&gt;...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.components.Component.Builder com.google.firebase.components.Component.Builder&lt;T&gt; alwaysEager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

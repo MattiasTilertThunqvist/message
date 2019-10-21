@@ -1,0 +1,89 @@
+<root>
+    <item name='com.google.firebase.firestore.model.value.GeoPointValue com.google.firebase.firestore.model.value.GeoPointValue valueOf(com.google.firebase.firestore.GeoPoint)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ArrayValue java.lang.Object value()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ArrayValue com.google.firebase.firestore.model.value.ArrayValue fromList(java.util.List&lt;com.google.firebase.firestore.model.value.FieldValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.BooleanValue com.google.firebase.firestore.model.value.BooleanValue valueOf(java.lang.Boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.StringValue com.google.firebase.firestore.model.value.StringValue valueOf(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue java.util.Map&lt;java.lang.String,java.lang.Object&gt; value()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue java.lang.Object value()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue delete(com.google.firebase.firestore.model.FieldPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.TimestampValue com.google.firebase.firestore.model.value.TimestampValue valueOf(com.google.firebase.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.IntegerValue com.google.firebase.firestore.model.value.IntegerValue valueOf(java.lang.Long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.BooleanValue com.google.firebase.firestore.model.value.BooleanValue valueOf(java.lang.Boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.IntegerValue com.google.firebase.firestore.model.value.IntegerValue valueOf(java.lang.Long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ArrayValue java.util.List&lt;java.lang.Object&gt; value()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue fromMap(java.util.Map&lt;java.lang.String,com.google.firebase.firestore.model.value.FieldValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.FieldValue get(com.google.firebase.firestore.model.FieldPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.BlobValue com.google.firebase.firestore.model.value.BlobValue valueOf(com.google.firebase.firestore.Blob)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.NullValue com.google.firebase.firestore.model.value.NullValue nullValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue set(com.google.firebase.firestore.model.FieldPath, com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue fromImmutableMap(com.google.firebase.database.collection.ImmutableSortedMap&lt;java.lang.String,com.google.firebase.firestore.model.value.FieldValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue fromImmutableMap(com.google.firebase.database.collection.ImmutableSortedMap&lt;java.lang.String,com.google.firebase.firestore.model.value.FieldValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.DoubleValue com.google.firebase.firestore.model.value.DoubleValue valueOf(java.lang.Double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.FieldValue int defaultCompareTo(com.google.firebase.firestore.model.value.FieldValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue emptyObject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.DoubleValue NaN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ReferenceValue com.google.firebase.firestore.model.value.ReferenceValue valueOf(com.google.firebase.firestore.model.DatabaseId, com.google.firebase.firestore.model.DocumentKey)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.mutation.FieldMask getFieldMask()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.DoubleValue com.google.firebase.firestore.model.value.DoubleValue valueOf(java.lang.Double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue set(com.google.firebase.firestore.model.FieldPath, com.google.firebase.firestore.model.value.FieldValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.value.ObjectValue com.google.firebase.firestore.model.value.ObjectValue delete(com.google.firebase.firestore.model.FieldPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

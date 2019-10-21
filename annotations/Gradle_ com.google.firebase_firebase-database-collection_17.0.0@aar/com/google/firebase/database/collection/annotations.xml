@@ -1,0 +1,335 @@
+<root>
+    <item name='com.google.firebase.database.collection.ArraySortedMap com.google.firebase.database.collection.ArraySortedMap&lt;K,V&gt; fromMap(java.util.Map&lt;K,V&gt;, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMapIterator java.util.Map.Entry&lt;K,V&gt; next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap void inOrderTraversal(com.google.firebase.database.collection.LLRBNode.NodeVisitor&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBBlackValueNode com.google.firebase.database.collection.LLRBNode.Color getColor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; remove(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBBlackValueNode com.google.firebase.database.collection.LLRBValueNode&lt;K,V&gt; copy(K, V, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap com.google.firebase.database.collection.RBTreeSortedMap&lt;A,C&gt; buildFrom(java.util.List&lt;A&gt;, java.util.Map&lt;B,C&gt;, com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,B&gt;, java.util.Comparator&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap com.google.firebase.database.collection.RBTreeSortedMap&lt;A,B&gt; fromMap(java.util.Map&lt;A,B&gt;, java.util.Comparator&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getLeft()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap com.google.firebase.database.collection.ArraySortedMap&lt;A,C&gt; buildFrom(java.util.List&lt;A&gt;, java.util.Map&lt;B,C&gt;, com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,B&gt;, java.util.Comparator&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; insert(K, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBRedValueNode com.google.firebase.database.collection.LLRBValueNode&lt;K,V&gt; copy(K, V, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; reverseIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getLeft()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBRedValueNode com.google.firebase.database.collection.LLRBNode.Color getColor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap.Builder com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,A&gt; identityTranslator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap.Builder com.google.firebase.database.collection.ImmutableSortedMap&lt;A,C&gt; buildFrom(java.util.List&lt;A&gt;, java.util.Map&lt;B,C&gt;, com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,B&gt;, java.util.Comparator&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; insert(K, V, java.util.Comparator&lt;K&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet java.util.Iterator&lt;T&gt; reverseIteratorFrom(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getRight()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap.Builder com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; emptyMap(java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; reverseIteratorFrom(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; reverseIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; copy(K, V, com.google.firebase.database.collection.LLRBNode.Color, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode.Color BLACK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet java.util.Iterator&lt;T&gt; reverseIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; insert(K, V, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap com.google.firebase.database.collection.RBTreeSortedMap&lt;A,C&gt; buildFrom(java.util.List&lt;A&gt;, java.util.Map&lt;B,C&gt;, com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,B&gt;, java.util.Comparator&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; copy(K, V, com.google.firebase.database.collection.LLRBNode.Color, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; iteratorFrom(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; insert(K, V, java.util.Comparator&lt;K&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap void inOrderTraversal(com.google.firebase.database.collection.LLRBNode.NodeVisitor&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBValueNode&lt;K,V&gt; copy(K, V, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode void inOrderTraversal(com.google.firebase.database.collection.LLRBNode.NodeVisitor&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap.Builder com.google.firebase.database.collection.ImmutableSortedMap&lt;A,C&gt; buildFrom(java.util.List&lt;A&gt;, java.util.Map&lt;B,C&gt;, com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,B&gt;, java.util.Comparator&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getRight()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBEmptyNode&lt;K,V&gt; getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; remove(K, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap.Builder com.google.firebase.database.collection.ImmutableSortedMap&lt;A,B&gt; fromMap(java.util.Map&lt;A,B&gt;, java.util.Comparator&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; remove(K, java.util.Comparator&lt;K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap com.google.firebase.database.collection.ArraySortedMap&lt;K,V&gt; fromMap(java.util.Map&lt;K,V&gt;, java.util.Comparator&lt;K&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getRight()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getMax()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; iteratorFrom(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet com.google.firebase.database.collection.ImmutableSortedSet&lt;T&gt; remove(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; reverseIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; reverseIteratorFrom(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode copy(java.lang.Object, java.lang.Object, com.google.firebase.database.collection.LLRBNode.Color, com.google.firebase.database.collection.LLRBNode, com.google.firebase.database.collection.LLRBNode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getMax()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; insert(K, V, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; remove(K, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; remove(K, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap void inOrderTraversal(com.google.firebase.database.collection.LLRBNode.NodeVisitor&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet ImmutableSortedSet(java.util.List&lt;T&gt;, java.util.Comparator&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap com.google.firebase.database.collection.ArraySortedMap&lt;A,C&gt; buildFrom(java.util.List&lt;A&gt;, java.util.Map&lt;B,C&gt;, com.google.firebase.database.collection.ImmutableSortedMap.Builder.KeyTranslator&lt;A,B&gt;, java.util.Comparator&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.StandardComparator int compare(A, A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; remove(K, java.util.Comparator&lt;K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getMin()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ArraySortedMap com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; insert(K, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; remove(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.StandardComparator int compare(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode void inOrderTraversal(com.google.firebase.database.collection.LLRBNode.NodeVisitor&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet com.google.firebase.database.collection.ImmutableSortedSet&lt;T&gt; insert(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; getMin()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; iteratorFrom(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; insert(K, V)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBNode.Color RED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap com.google.firebase.database.collection.RBTreeSortedMap&lt;A,B&gt; fromMap(java.util.Map&lt;A,B&gt;, java.util.Comparator&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMapIterator java.lang.Object next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; insert(K, V, java.util.Comparator&lt;K&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode void inOrderTraversal(com.google.firebase.database.collection.LLRBNode.NodeVisitor&lt;K,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; insert(K, V, java.util.Comparator&lt;K&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBEmptyNode com.google.firebase.database.collection.LLRBNode&lt;K,V&gt; remove(K, java.util.Comparator&lt;K&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBValueNode&lt;K,V&gt; copy(K, V, com.google.firebase.database.collection.LLRBNode.Color, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;, com.google.firebase.database.collection.LLRBNode&lt;K,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap com.google.firebase.database.collection.ImmutableSortedMap&lt;K,V&gt; remove(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedSet java.util.Iterator&lt;T&gt; iteratorFrom(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.LLRBValueNode com.google.firebase.database.collection.LLRBNode.Color getColor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.database.collection.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.ImmutableSortedMap.Builder com.google.firebase.database.collection.ImmutableSortedMap&lt;A,B&gt; fromMap(java.util.Map&lt;A,B&gt;, java.util.Comparator&lt;A&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.database.collection.RBTreeSortedMap java.util.Iterator&lt;java.util.Map.Entry&lt;K,V&gt;&gt; reverseIteratorFrom(K)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,149 @@
+<root>
+    <item name='kotlin.time.FormatToDecimalsKt java.lang.String formatToExactDecimals(double, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt kotlin.time.TimedValue&lt;T&gt; measureTimedValue(kotlin.time.Clock, kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.TimedValue kotlin.time.TimedValue copy-RFiDyg4$default(kotlin.time.TimedValue, java.lang.Object, double, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.AbstractDoubleClock AbstractDoubleClock(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt double measureTime(kotlin.time.Clock, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration.Companion double convert(double, java.util.concurrent.TimeUnit, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt kotlin.time.TimedValue&lt;T&gt; measureTimedValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.ClockMark kotlin.time.ClockMark plus-LRDsOJo(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration double toDouble-impl(double, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MonoClock INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.AbstractLongClock AbstractLongClock(java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Clock kotlin.time.ClockMark markNow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt double measureTime(kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.DurationKt double toDuration(double, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt kotlin.time.TimedValue&lt;T&gt; measureTimedValue(kotlin.jvm.functions.Function0&lt;? extends T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.TimedValue java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.AbstractDoubleClock kotlin.time.ClockMark markNow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.FormatToDecimalsKt java.lang.String formatUpToDecimals(double, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt double measureTime(kotlin.time.Clock, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.AbstractDoubleClock java.util.concurrent.TimeUnit getUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toString-impl(double, java.util.concurrent.TimeUnit, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration.Companion double convert(double, java.util.concurrent.TimeUnit, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.DurationUnitKt.WhenMappings $EnumSwitchMapping$0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration T toComponents-impl(double, kotlin.jvm.functions.Function3&lt;? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.ClockMark kotlin.time.ClockMark minus-LRDsOJo(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toString-impl$default(double, java.util.concurrent.TimeUnit, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt kotlin.time.TimedValue&lt;T&gt; measureTimedValue(kotlin.time.Clock, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toString-impl(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.DurationKt double toDuration(int, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration kotlin.time.Duration box-impl(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MonoClock java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toIsoString-impl(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration T toComponents-impl(double, kotlin.jvm.functions.Function5&lt;? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration long toLong-impl(double, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.AbstractLongClock kotlin.time.ClockMark markNow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration int toInt-impl(double, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.DurationKt double toDuration(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.FormatToDecimalsKt java.lang.String formatScientific(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toString-impl$default(double, java.util.concurrent.TimeUnit, int, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.MeasureTimeKt kotlin.time.TimedValue&lt;T&gt; measureTimedValue(kotlin.time.Clock, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration T toComponents-impl(double, kotlin.jvm.functions.Function4&lt;? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.TimedValue kotlin.time.TimedValue copy-RFiDyg4$default(kotlin.time.TimedValue, java.lang.Object, double, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration T toComponents-impl(double, kotlin.jvm.functions.Function2&lt;? super java.lang.Long,? super java.lang.Integer,? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.Duration java.lang.String toString-impl(double, java.util.concurrent.TimeUnit, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.AbstractLongClock java.util.concurrent.TimeUnit getUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.time.TimedValue kotlin.time.TimedValue&lt;T&gt; copy-RFiDyg4(T, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

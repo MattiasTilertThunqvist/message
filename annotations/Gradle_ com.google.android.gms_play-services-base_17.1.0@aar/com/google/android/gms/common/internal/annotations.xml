@@ -1,0 +1,242 @@
+<root>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zan java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zao java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ConnectionErrorMessages java.lang.String getAppName(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder addRequiredScope(com.google.android.gms.common.api.Scope)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientIdentity CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.PendingResultUtil com.google.android.gms.tasks.Task&lt;T&gt; toTask(com.google.android.gms.common.api.PendingResult&lt;R&gt;, com.google.android.gms.common.internal.PendingResultUtil.ResultConverter&lt;R,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ApiExceptionUtil com.google.android.gms.common.api.ApiException fromStatus(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.LegacyInternalGmsClient LegacyInternalGmsClient(android.content.Context, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GoogleApiAvailabilityCache int getClientAvailability(android.content.Context, com.google.android.gms.common.api.Api.Client) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setSignInOptions(com.google.android.gms.signin.SignInOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClientEventManager boolean handleMessage(android.os.Message) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.SignInButtonImpl void configure(android.content.res.Resources, com.google.android.gms.common.internal.SignInButtonConfig) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ResolveAccountResponse com.google.android.gms.common.internal.ResolveAccountResponse setSaveDefaultAccount(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.SignInButtonImpl void configure(android.content.res.Resources, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.SimpleClientAdapter SimpleClientAdapter(android.content.Context, android.os.Looper, int, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.Api.SimpleClient&lt;T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ConnectionErrorMessages java.lang.String getErrorMessage(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zan java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.PendingResultUtil.zaa com.google.android.gms.common.api.ApiException zaf(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.internal.zam java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder enableSignInClientDisconnectFix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.DialogRedirect com.google.android.gms.common.internal.DialogRedirect getInstance(com.google.android.gms.common.api.internal.LifecycleFragment, android.content.Intent, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Looper, com.google.android.gms.common.internal.GmsClientSupervisor, com.google.android.gms.common.GoogleApiAvailability, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.internal.ConnectionCallbacks, com.google.android.gms.common.api.internal.OnConnectionFailedListener) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zab java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest com.google.android.gms.common.internal.AuthAccountRequest setPolicyAction(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.DialogRedirect com.google.android.gms.common.internal.DialogRedirect getInstance(android.app.Activity, android.content.Intent, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ResolveAccountResponse com.google.android.gms.common.internal.ResolveAccountResponse setAccountAccessor(com.google.android.gms.common.internal.IAccountAccessor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setRealClientClassName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setViewForPopups(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zab java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ResolveAccountRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setGravityForPopups(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Looper, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.internal.ConnectionCallbacks, com.google.android.gms.common.api.internal.OnConnectionFailedListener) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ResolveAccountResponse CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.PendingResultUtil com.google.android.gms.tasks.Task&lt;T&gt; toResponseTask(com.google.android.gms.common.api.PendingResult&lt;R&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest AuthAccountRequest(com.google.android.gms.common.internal.IAccountAccessor, java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; getScopes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setOptionalApiSettingsMap(java.util.Map&lt;com.google.android.gms.common.api.Api&lt;?&gt;,com.google.android.gms.common.internal.ClientSettings.OptionalApiSettings&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ResolveAccountResponse com.google.android.gms.common.internal.ResolveAccountResponse setIsFromCrossClientAuth(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zan java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings com.google.android.gms.common.internal.ClientSettings createDefault(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zao java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings KEY_CLIENT_SESSION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.LegacyInternalGmsClient LegacyInternalGmsClient(android.content.Context, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ConnectionErrorMessages java.lang.String getErrorDialogButtonMessage(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; getScopes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setAccount(android.accounts.Account)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zaa java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Looper, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient com.google.android.gms.common.Feature[] getRequiredFeatures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest AuthAccountRequest(android.accounts.Account, java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest AuthAccountRequest(com.google.android.gms.common.internal.IAccountAccessor, java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ConnectionErrorMessages java.lang.String getErrorNotificationMessage(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zaa java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zab java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ApiExceptionUtil com.google.android.gms.common.api.ApiException fromStatus(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.SignInButtonConfig CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ConnectionErrorMessages java.lang.String getDefaultNotificationChannelName(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder addAllRequiredScopes(java.util.Collection&lt;com.google.android.gms.common.api.Scope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.DialogRedirect com.google.android.gms.common.internal.DialogRedirect getInstance(androidx.fragment.app.Fragment, android.content.Intent, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Looper, int, com.google.android.gms.common.internal.ClientSettings) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.AuthAccountRequest com.google.android.gms.common.internal.AuthAccountRequest setOauthPolicy(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zam java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.DialogRedirect void onClick(android.content.DialogInterface, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.PendingResultUtil com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; toVoidTask(com.google.android.gms.common.api.PendingResult&lt;R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zao java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Handler, com.google.android.gms.common.internal.GmsClientSupervisor, com.google.android.gms.common.GoogleApiAvailability, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.PendingResultUtil.zaa com.google.android.gms.common.api.ApiException zaf(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings com.google.android.gms.common.internal.ClientSettings createDefault(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Handler, int, com.google.android.gms.common.internal.ClientSettings) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Handler, com.google.android.gms.common.internal.GmsClientSupervisor, com.google.android.gms.common.GoogleApiAvailability, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.internal.ConnectionCallbacks, com.google.android.gms.common.api.internal.OnConnectionFailedListener) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zaa java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ClientSettings.Builder com.google.android.gms.common.internal.ClientSettings.Builder setRealClientPackageName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.ConnectionErrorMessages java.lang.String getErrorTitle(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.zam java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.GmsClient GmsClient(android.content.Context, android.os.Looper, com.google.android.gms.common.internal.GmsClientSupervisor, com.google.android.gms.common.GoogleApiAvailability, int, com.google.android.gms.common.internal.ClientSettings, com.google.android.gms.common.api.GoogleApiClient.ConnectionCallbacks, com.google.android.gms.common.api.GoogleApiClient.OnConnectionFailedListener) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.SignInButtonImpl void configure(android.content.res.Resources, com.google.android.gms.common.internal.SignInButtonConfig) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

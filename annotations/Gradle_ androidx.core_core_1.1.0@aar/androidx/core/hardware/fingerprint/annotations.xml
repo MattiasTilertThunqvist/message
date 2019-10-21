@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.core.hardware.fingerprint.FingerprintManagerCompat androidx.core.hardware.fingerprint.FingerprintManagerCompat from(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

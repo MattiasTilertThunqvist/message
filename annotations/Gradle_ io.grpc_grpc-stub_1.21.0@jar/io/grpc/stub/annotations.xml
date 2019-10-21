@@ -1,0 +1,98 @@
+<root>
+    <item name='io.grpc.stub.ClientCalls java.util.Iterator&lt;RespT&gt; blockingServerStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.ServerCallHandler&lt;ReqT,RespT&gt; asyncServerStreamingCall(io.grpc.stub.ServerCalls.ServerStreamingMethod&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls void asyncUnimplementedUnaryCall(io.grpc.MethodDescriptor&lt;?,?&gt;, io.grpc.stub.StreamObserver&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.ServerCallHandler&lt;ReqT,RespT&gt; asyncBidiStreamingCall(io.grpc.stub.ServerCalls.BidiStreamingMethod&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls java.util.Iterator&lt;RespT&gt; blockingServerStreamingCall(io.grpc.Channel, io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, ReqT) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.StreamObservers void copyWithFlowControl(java.lang.Iterable&lt;V&gt;, io.grpc.stub.CallStreamObserver&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls void asyncUnaryCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT, io.grpc.stub.StreamObserver&lt;RespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.ServerCallHandler&lt;ReqT,RespT&gt; asyncUnaryCall(io.grpc.stub.ServerCalls.UnaryMethod&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls java.util.Iterator&lt;RespT&gt; blockingServerStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.stub.StreamObserver&lt;T&gt; asyncUnimplementedStreamingCall(io.grpc.MethodDescriptor&lt;?,?&gt;, io.grpc.stub.StreamObserver&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls io.grpc.stub.StreamObserver&lt;ReqT&gt; asyncClientStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, io.grpc.stub.StreamObserver&lt;RespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls java.util.Iterator&lt;RespT&gt; blockingServerStreamingCall(io.grpc.Channel, io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, ReqT) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls void asyncServerStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT, io.grpc.stub.StreamObserver&lt;RespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls io.grpc.stub.StreamObserver&lt;ReqT&gt; asyncClientStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, io.grpc.stub.StreamObserver&lt;RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.MetadataUtils T captureMetadata(T, java.util.concurrent.atomic.AtomicReference&lt;io.grpc.Metadata&gt;, java.util.concurrent.atomic.AtomicReference&lt;io.grpc.Metadata&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls java.util.Iterator&lt;RespT&gt; blockingServerStreamingCall(io.grpc.Channel, io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, ReqT)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls io.grpc.stub.StreamObserver&lt;ReqT&gt; asyncBidiStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, io.grpc.stub.StreamObserver&lt;RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.StreamObservers void copyWithFlowControl(java.util.Iterator&lt;V&gt;, io.grpc.stub.CallStreamObserver&lt;V&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.MetadataUtils T attachHeaders(T, io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.stub.StreamObserver&lt;T&gt; asyncUnimplementedStreamingCall(io.grpc.MethodDescriptor&lt;?,?&gt;, io.grpc.stub.StreamObserver&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls void asyncUnimplementedUnaryCall(io.grpc.MethodDescriptor&lt;?,?&gt;, io.grpc.stub.StreamObserver&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls com.google.common.util.concurrent.ListenableFuture&lt;RespT&gt; futureUnaryCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.StreamObservers void copyWithFlowControl(java.lang.Iterable&lt;V&gt;, io.grpc.stub.CallStreamObserver&lt;V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls RespT blockingUnaryCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls io.grpc.stub.StreamObserver&lt;ReqT&gt; asyncBidiStreamingCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, io.grpc.stub.StreamObserver&lt;RespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls RespT blockingUnaryCall(io.grpc.Channel, io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, ReqT) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls RespT blockingUnaryCall(io.grpc.Channel, io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, ReqT) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.MetadataUtils io.grpc.ClientInterceptor newCaptureMetadataInterceptor(java.util.concurrent.atomic.AtomicReference&lt;io.grpc.Metadata&gt;, java.util.concurrent.atomic.AtomicReference&lt;io.grpc.Metadata&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.MetadataUtils io.grpc.ClientInterceptor newAttachHeadersInterceptor(io.grpc.Metadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.ServerCallHandler&lt;ReqT,RespT&gt; asyncClientStreamingCall(io.grpc.stub.ServerCalls.ClientStreamingMethod&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ServerCalls io.grpc.stub.StreamObserver&lt;T&gt; asyncUnimplementedStreamingCall(io.grpc.MethodDescriptor&lt;?,?&gt;, io.grpc.stub.StreamObserver&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.stub.ClientCalls com.google.common.util.concurrent.ListenableFuture&lt;RespT&gt; futureUnaryCall(io.grpc.ClientCall&lt;ReqT,RespT&gt;, ReqT) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,14 @@
+<root>
+    <item name='kotlinx.android.parcel.Parceler void write(T, android.os.Parcel, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.parcel.Parceler.DefaultImpls T[] newArray(kotlinx.android.parcel.Parceler&lt;T&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.parcel.Parceler T create(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.parcel.Parceler T[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

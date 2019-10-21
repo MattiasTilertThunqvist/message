@@ -1,0 +1,20 @@
+<root>
+    <item name='androidx.activity.OnBackPressedDispatcher void addCallback(androidx.lifecycle.LifecycleOwner, androidx.activity.OnBackPressedCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.activity.ComponentActivity androidx.lifecycle.Lifecycle getLifecycle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.activity.ComponentActivity androidx.activity.OnBackPressedDispatcher getOnBackPressedDispatcher()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.activity.OnBackPressedDispatcher void addCallback(androidx.activity.OnBackPressedCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.activity.OnBackPressedDispatcherOwner androidx.activity.OnBackPressedDispatcher getOnBackPressedDispatcher()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,11 @@
+<root>
+    <item name='androidx.core.view.animation.PathInterpolatorCompat android.view.animation.Interpolator create(float, float, float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.animation.PathInterpolatorCompat android.view.animation.Interpolator create(float, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.animation.PathInterpolatorCompat android.view.animation.Interpolator create(android.graphics.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

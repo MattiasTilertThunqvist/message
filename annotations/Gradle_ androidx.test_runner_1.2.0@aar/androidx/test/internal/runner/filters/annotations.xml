@@ -1,0 +1,20 @@
+<root>
+    <item name='androidx.test.internal.runner.filters.ParentFilter boolean shouldRun(org.junit.runner.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.filters.TestsRegExFilter java.lang.String describe()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.filters.TestsRegExFilter boolean evaluateTest(org.junit.runner.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.internal.runner.filters.ParentFilter boolean evaluateTest(org.junit.runner.Description) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

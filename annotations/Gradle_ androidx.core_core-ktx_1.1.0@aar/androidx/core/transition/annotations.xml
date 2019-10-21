@@ -1,0 +1,209 @@
+<root>
+    <item name='androidx.core.transition.TransitionKt.addListener.5 void invoke(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.2 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnStart(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnPause(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnEnd..inlined.addListener.1 void onTransitionResume(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnPause..inlined.addListener.1 void onTransitionStart(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnResume(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnStart..inlined.addListener.1 void onTransitionCancel(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.listener.1 void onTransitionEnd(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.listener.1 void onTransitionResume(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnResume..inlined.addListener.1 void onTransitionCancel(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.4 void invoke(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.4 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnCancel(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnCancel..inlined.addListener.1 void onTransitionCancel(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnEnd(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnPause(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnEnd..inlined.addListener.1 void onTransitionPause(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnResume..inlined.addListener.1 void onTransitionEnd(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnCancel(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.1 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.3 void invoke(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnResume(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnPause..inlined.addListener.1 void onTransitionResume(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnPause..inlined.addListener.1 void onTransitionCancel(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener$default(android.transition.Transition, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.5 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.listener.1 void onTransitionCancel(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnCancel..inlined.addListener.1 void onTransitionEnd(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnStart..inlined.addListener.1 void onTransitionEnd(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.4 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.2 void invoke(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnCancel..inlined.addListener.1 void onTransitionStart(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnStart..inlined.addListener.1 void onTransitionPause(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnStart(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.5 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnPause..inlined.addListener.1 void onTransitionPause(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnEnd(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.1 void invoke(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.2 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.listener.1 void onTransitionStart(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnPause..inlined.addListener.1 void onTransitionEnd(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnEnd..inlined.addListener.1 void onTransitionStart(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnResume(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnEnd..inlined.addListener.1 void onTransitionEnd(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnResume..inlined.addListener.1 void onTransitionPause(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnStart(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.3 java.lang.Object invoke(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnCancel..inlined.addListener.1 void onTransitionResume(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnStart..inlined.addListener.1 void onTransitionResume(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.listener.1 void onTransitionPause(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnResume..inlined.addListener.1 void onTransitionStart(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnResume..inlined.addListener.1 void onTransitionResume(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnStart..inlined.addListener.1 void onTransitionStart(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnCancel..inlined.addListener.1 void onTransitionPause(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener addListener$default(android.transition.Transition, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnCancel(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnEnd(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.addListener.3 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt android.transition.Transition.TransitionListener doOnPause(android.transition.Transition, kotlin.jvm.functions.Function1&lt;? super android.transition.Transition,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.transition.TransitionKt.doOnEnd..inlined.addListener.1 void onTransitionCancel(android.transition.Transition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

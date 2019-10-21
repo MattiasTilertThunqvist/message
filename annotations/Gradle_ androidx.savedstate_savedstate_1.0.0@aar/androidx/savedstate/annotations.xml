@@ -1,0 +1,20 @@
+<root>
+    <item name='androidx.savedstate.SavedStateRegistryController androidx.savedstate.SavedStateRegistryController create(androidx.savedstate.SavedStateRegistryOwner)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.savedstate.SavedStateRegistry.SavedStateProvider android.os.Bundle saveState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.savedstate.SavedStateRegistryController void performSave(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.savedstate.SavedStateRegistry void runOnNextRecreation(java.lang.Class&lt;? extends androidx.savedstate.SavedStateRegistry.AutoRecreated&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.savedstate.SavedStateRegistryController androidx.savedstate.SavedStateRegistry getSavedStateRegistry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

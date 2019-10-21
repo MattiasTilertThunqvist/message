@@ -1,0 +1,257 @@
+<root>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidgetGroup mGroupDimensions'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Snapshot void updateFrom(androidx.constraintlayout.solver.widgets.ConstraintWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Snapshot void applyTo(androidx.constraintlayout.solver.widgets.ConstraintWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void connectCircularConstraint(androidx.constraintlayout.solver.widgets.ConstraintWidget, float, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Guideline java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Analyzer void setPosition(java.util.List&lt;androidx.constraintlayout.solver.widgets.ConstraintWidgetGroup&gt;, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintTableLayout void setDebugSolverName(androidx.constraintlayout.solver.LinearSystem, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintTableLayout java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void updateFromSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Strength NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment BEGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.ConnectionType STRICT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void immediateConnect(androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, androidx.constraintlayout.solver.widgets.ConstraintWidget, androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintTableLayout java.lang.String getColumnAlignmentRepresentation(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.DimensionBehaviour MATCH_CONSTRAINT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void connect(androidx.constraintlayout.solver.widgets.ConstraintAnchor, androidx.constraintlayout.solver.widgets.ConstraintAnchor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Analyzer void determineGroups(androidx.constraintlayout.solver.widgets.ConstraintWidgetContainer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type CENTER_X'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void setGoneMargin(androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment VERTICAL_MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintTableLayout void addToSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment BOTTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidgetContainer void updateChildrenFromSolver(androidx.constraintlayout.solver.LinearSystem, boolean[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void connect(androidx.constraintlayout.solver.widgets.ConstraintAnchor, androidx.constraintlayout.solver.widgets.ConstraintAnchor, int, androidx.constraintlayout.solver.widgets.ConstraintAnchor.Strength, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintTableLayout void setColumnAlignment(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment END'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment BEGIN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Snapshot Snapshot(androidx.constraintlayout.solver.widgets.ConstraintWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.DimensionBehaviour FIXED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void immediateConnect(androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, androidx.constraintlayout.solver.widgets.ConstraintWidget, androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment LEFT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment VERTICAL_MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidgetContainer java.util.ArrayList&lt;androidx.constraintlayout.solver.widgets.Guideline&gt; getHorizontalGuidelines()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment MIDDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.DimensionBehaviour WRAP_CONTENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void connect(androidx.constraintlayout.solver.widgets.ConstraintAnchor, androidx.constraintlayout.solver.widgets.ConstraintAnchor, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Barrier void addToSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void createObjectVariables(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.WidgetContainer void add(androidx.constraintlayout.solver.widgets.ConstraintWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidgetContainer java.util.ArrayList&lt;androidx.constraintlayout.solver.widgets.Guideline&gt; getVerticalGuidelines()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Guideline void updateFromSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type CENTER_Y'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.WidgetContainer void remove(androidx.constraintlayout.solver.widgets.ConstraintWidget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type CENTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type BASELINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Strength WEAK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.WidgetContainer androidx.constraintlayout.solver.widgets.Rectangle getBounds(java.util.ArrayList&lt;androidx.constraintlayout.solver.widgets.ConstraintWidget&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout.ContentAlignment END'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.ContentAlignment BOTTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintTableLayout void updateFromSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Strength STRONG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void setDebugSolverName(androidx.constraintlayout.solver.LinearSystem, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintHorizontalLayout void addToSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget androidx.constraintlayout.solver.widgets.ConstraintAnchor getAnchor(androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type BOTTOM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.WidgetContainer java.util.ArrayList&lt;androidx.constraintlayout.solver.widgets.ConstraintWidget&gt; findWidgets(int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidgetContainer java.lang.String getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget.DimensionBehaviour MATCH_PARENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.WidgetContainer androidx.constraintlayout.solver.widgets.Rectangle getBounds(java.util.ArrayList&lt;androidx.constraintlayout.solver.widgets.ConstraintWidget&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.ConnectionType RELAXED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Guideline androidx.constraintlayout.solver.widgets.ConstraintAnchor getAnchor(androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void addToSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.Guideline void addToSolver(androidx.constraintlayout.solver.LinearSystem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type RIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor boolean isSimilarDimensionConnection(androidx.constraintlayout.solver.widgets.ConstraintAnchor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type TOP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.WidgetContainer void add(androidx.constraintlayout.solver.widgets.ConstraintWidget...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.solver.widgets.ConstraintWidget void immediateConnect(androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, androidx.constraintlayout.solver.widgets.ConstraintWidget, androidx.constraintlayout.solver.widgets.ConstraintAnchor.Type, int, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

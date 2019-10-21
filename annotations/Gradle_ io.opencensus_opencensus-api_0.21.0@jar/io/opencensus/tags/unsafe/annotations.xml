@@ -1,0 +1,8 @@
+<root>
+    <item name='io.opencensus.tags.unsafe.ContextUtils io.opencensus.tags.TagContext getValue(io.grpc.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.tags.unsafe.ContextUtils io.grpc.Context withValue(io.grpc.Context, io.opencensus.tags.TagContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

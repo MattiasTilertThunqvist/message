@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.lifecycle.ReportFragment void injectIfNeededIn(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.lifecycle.LifecycleRegistry void handleLifecycleEvent(androidx.lifecycle.Lifecycle.Event) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

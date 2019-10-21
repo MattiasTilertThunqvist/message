@@ -1,0 +1,92 @@
+<root>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl void resumeWith(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Float boxFloat(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.CompletedContinuation INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.CompletedContinuation kotlin.coroutines.CoroutineContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.DebugProbesKt void probeCoroutineSuspended(kotlin.coroutines.Continuation&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.RestrictedContinuationImpl kotlin.coroutines.CoroutineContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.CompletedContinuation void resumeWith(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Byte boxByte(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.ContinuationImpl kotlin.coroutines.Continuation&lt;java.lang.Object&gt; intercepted()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.RunSuspendKt void runSuspend(kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.Continuation&lt;? super kotlin.Unit&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.DebugProbesKt void probeCoroutineResumed(kotlin.coroutines.Continuation&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Integer boxInt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.DebugProbesKt kotlin.coroutines.Continuation&lt;T&gt; probeCoroutineCreated(kotlin.coroutines.Continuation&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl kotlin.coroutines.Continuation&lt;kotlin.Unit&gt; create(kotlin.coroutines.Continuation&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.DebugMetadataKt java.lang.StackTraceElement getStackTraceElement(kotlin.coroutines.jvm.internal.BaseContinuationImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.SuspendLambda java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl java.lang.Object invokeSuspend(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Boolean boxBoolean(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl kotlin.coroutines.Continuation&lt;kotlin.Unit&gt; create(java.lang.Object, kotlin.coroutines.Continuation&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Short boxShort(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.DebugProbesKt kotlin.coroutines.Continuation&lt;T&gt; probeCoroutineCreated(kotlin.coroutines.Continuation&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.DebugMetadataKt java.lang.String[] getSpilledVariableFieldMapping(kotlin.coroutines.jvm.internal.BaseContinuationImpl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl kotlin.coroutines.Continuation&lt;kotlin.Unit&gt; create(kotlin.coroutines.Continuation&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.CompletedContinuation java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.RestrictedSuspendLambda java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.BaseContinuationImpl kotlin.coroutines.Continuation&lt;kotlin.Unit&gt; create(java.lang.Object, kotlin.coroutines.Continuation&lt;?&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Double boxDouble(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Character boxChar(char)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.jvm.internal.Boxing java.lang.Long boxLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

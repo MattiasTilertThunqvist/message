@@ -1,0 +1,236 @@
+<root>
+    <item name='com.google.firebase.firestore.remote.ConnectivityMonitor.NetworkStatus REACHABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore com.google.firebase.firestore.core.Transaction createTransaction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore boolean isPermanentWriteError(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore RemoteStore(com.google.firebase.firestore.remote.RemoteStore.RemoteStoreCallback, com.google.firebase.firestore.local.LocalStore, com.google.firebase.firestore.remote.Datastore, com.google.firebase.firestore.util.AsyncQueue, com.google.firebase.firestore.remote.ConnectivityMonitor) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.remote.WatchChange decodeWatchChange(com.google.firestore.v1.ListenResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore boolean isSslHandshakeError(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore RemoteStore(com.google.firebase.firestore.remote.RemoteStore.RemoteStoreCallback, com.google.firebase.firestore.local.LocalStore, com.google.firebase.firestore.remote.Datastore, com.google.firebase.firestore.util.AsyncQueue, com.google.firebase.firestore.remote.ConnectivityMonitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChange.WatchTargetChangeType Current'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.SnapshotVersion decodeVersionFromListenResponse(com.google.firestore.v1.ListenResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.mutation.Mutation decodeMutation(com.google.firestore.v1.Write) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore void listen(com.google.firebase.firestore.local.QueryData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Write encodeMutation(com.google.firebase.firestore.model.mutation.Mutation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.remote.WatchChange decodeWatchChange(com.google.firestore.v1.ListenResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.mutation.Mutation decodeMutation(com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Stream.State Open'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Stream.State Starting'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.SnapshotVersion decodeVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore com.google.android.gms.tasks.Task&lt;java.util.List&lt;com.google.firebase.firestore.model.mutation.MutationResult&gt;&gt; commit(java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.MaybeDocument decodeMaybeDocument(com.google.firestore.v1.BatchGetDocumentsResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.mutation.MutationResult decodeMutationResult(com.google.firestore.v1.WriteResult, com.google.firebase.firestore.model.SnapshotVersion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.SnapshotVersion decodeVersionFromListenResponse(com.google.firestore.v1.ListenResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChange.WatchTargetChangeType Reset'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Stream.State Error'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Stream.State Initial'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore boolean isPermanentError(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.value.ObjectValue decodeFields(java.util.Map&lt;java.lang.String,com.google.firestore.v1.Value&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Document encodeDocument(com.google.firebase.firestore.model.DocumentKey, com.google.firebase.firestore.model.value.ObjectValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Target.QueryTarget encodeQueryTarget(com.google.firebase.firestore.core.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.DocumentKey decodeKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Value encodeValue(com.google.firebase.firestore.model.value.FieldValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Stream.State Backoff'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.AndroidConnectivityMonitor AndroidConnectivityMonitor(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChange.WatchTargetChangeType NoChange'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.Timestamp decodeTimestamp(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore.RemoteStoreCallback void handleSuccessfulWrite(com.google.firebase.firestore.model.mutation.MutationBatchResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer java.lang.String encodeKey(com.google.firebase.firestore.model.DocumentKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore RemoteStore(com.google.firebase.firestore.remote.RemoteStore.RemoteStoreCallback, com.google.firebase.firestore.local.LocalStore, com.google.firebase.firestore.remote.Datastore, com.google.firebase.firestore.util.AsyncQueue, com.google.firebase.firestore.remote.ConnectivityMonitor) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.SnapshotVersion decodeVersion(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Target encodeTarget(com.google.firebase.firestore.local.QueryData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.value.FieldValue decodeValue(com.google.firestore.v1.Value)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WriteStream.Callback void onWriteResponse(com.google.firebase.firestore.model.SnapshotVersion, java.util.List&lt;com.google.firebase.firestore.model.mutation.MutationResult&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChange.WatchTargetChangeType Removed'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WriteStream void onNext(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.core.Query decodeDocumentsTarget(com.google.firestore.v1.Target.DocumentsTarget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteStore.RemoteStoreCallback void handleRemoteEvent(com.google.firebase.firestore.remote.RemoteEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Stream.StreamCallback void onClose(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Target.DocumentsTarget encodeDocumentsTarget(com.google.firebase.firestore.core.Query) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore com.google.android.gms.tasks.Task&lt;java.util.List&lt;com.google.firebase.firestore.model.MaybeDocument&gt;&gt; lookup(java.util.List&lt;com.google.firebase.firestore.model.DocumentKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.core.Query decodeQueryTarget(com.google.firestore.v1.Target.QueryTarget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firestore.v1.Document encodeDocument(com.google.firebase.firestore.model.DocumentKey, com.google.firebase.firestore.model.value.ObjectValue) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.ConnectivityMonitor.NetworkStatus UNREACHABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.value.ObjectValue decodeFields(java.util.Map&lt;java.lang.String,com.google.firestore.v1.Value&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.MaybeDocument decodeMaybeDocument(com.google.firestore.v1.BatchGetDocumentsResponse)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchStream void onNext(com.google.firestore.v1.ListenResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.value.FieldValue decodeValue(com.google.firestore.v1.Value) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChange.WatchTargetChangeType Added'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChangeAggregator void handleExistenceFilter(com.google.firebase.firestore.remote.WatchChange.ExistenceFilterWatchChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.core.Query decodeQueryTarget(com.google.firestore.v1.Target.QueryTarget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChangeAggregator com.google.firebase.firestore.remote.RemoteEvent createRemoteEvent(com.google.firebase.firestore.model.SnapshotVersion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore boolean isPermanentError(com.google.firebase.firestore.FirebaseFirestoreException.Code) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.DocumentKey decodeKey(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer java.util.Map&lt;java.lang.String,java.lang.String&gt; encodeListenRequestLabels(com.google.firebase.firestore.local.QueryData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WriteStream void onNext(com.google.firestore.v1.WriteResponse) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChangeAggregator void handleDocumentChange(com.google.firebase.firestore.remote.WatchChange.DocumentChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchChangeAggregator void handleTargetChange(com.google.firebase.firestore.remote.WatchChange.WatchTargetChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.Timestamp decodeTimestamp(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.protobuf.Timestamp encodeTimestamp(com.google.firebase.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer RemoteSerializer(com.google.firebase.firestore.model.DatabaseId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.core.Query decodeDocumentsTarget(com.google.firestore.v1.Target.DocumentsTarget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.firebase.firestore.model.mutation.MutationResult decodeMutationResult(com.google.firestore.v1.WriteResult, com.google.firebase.firestore.model.SnapshotVersion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchStream void onNext(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.Datastore Datastore(com.google.firebase.firestore.core.DatabaseInfo, com.google.firebase.firestore.util.AsyncQueue, com.google.firebase.firestore.auth.CredentialsProvider, android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.RemoteSerializer com.google.protobuf.Timestamp encodeVersion(com.google.firebase.firestore.model.SnapshotVersion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.remote.WatchStream void watchQuery(com.google.firebase.firestore.local.QueryData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

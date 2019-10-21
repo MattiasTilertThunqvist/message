@@ -1,0 +1,11 @@
+<root>
+    <item name='io.opencensus.trace.unsafe.ContextUtils io.opencensus.trace.Span getValue(io.grpc.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.unsafe.ContextUtils io.grpc.Context withValue(io.grpc.Context, io.opencensus.trace.Span) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.unsafe.ContextUtils io.opencensus.trace.Span getValue(io.grpc.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

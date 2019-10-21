@@ -1,0 +1,47 @@
+<root>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postAtTime(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postDelayed(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.BundleKt android.os.Bundle bundleOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postDelayed$default(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.PersistableBundleKt android.os.PersistableBundle persistableBundleOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.TraceKt T trace(java.lang.String, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postAtTime$default(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.TraceKt T trace(java.lang.String, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postDelayed(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postAtTime$default(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postAtTime(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postAtTime(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.HandlerKt java.lang.Runnable postDelayed(android.os.Handler, long, java.lang.Object, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.BundleKt android.os.Bundle bundleOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.os.PersistableBundleKt android.os.PersistableBundle persistableBundleOf(kotlin.Pair&lt;java.lang.String,? extends java.lang.Object&gt;...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

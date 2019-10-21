@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.test.internal.runner.InstrumentationConnection androidx.test.internal.runner.InstrumentationConnection getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.InstrumentationConnection BROADCAST_FILTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

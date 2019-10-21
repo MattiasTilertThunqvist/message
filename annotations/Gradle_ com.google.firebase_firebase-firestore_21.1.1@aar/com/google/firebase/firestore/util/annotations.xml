@@ -1,0 +1,89 @@
+<root>
+    <item name='com.google.firebase.firestore.util.AsyncQueue com.google.firebase.firestore.util.AsyncQueue.DelayedTask enqueueAfterDelay(com.google.firebase.firestore.util.AsyncQueue.TimerId, long, java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId WRITE_STREAM_CONNECTION_BACKOFF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Supplier T get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util com.google.firebase.firestore.FirebaseFirestoreException exceptionFromStatus(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId GARBAGE_COLLECTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Logger.Level NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId RETRY_TRANSACTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId LISTEN_STREAM_CONNECTION_BACKOFF'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util java.lang.String toDebugString(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util java.util.List&lt;java.lang.Object&gt; collectUpdateArguments(int, java.lang.Object, java.lang.Object, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue com.google.android.gms.tasks.Task&lt;TResult&gt; callTask(java.util.concurrent.Executor, java.util.concurrent.Callable&lt;com.google.android.gms.tasks.Task&lt;TResult&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util java.util.Comparator&lt;T&gt; comparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Consumer void accept(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util java.util.List&lt;java.lang.Object&gt; collectUpdateArguments(int, java.lang.Object, java.lang.Object, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.FileUtil void delete(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId ALL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue java.util.concurrent.Executor getExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Executors BACKGROUND_EXECUTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util com.google.android.gms.tasks.Continuation&lt;java.lang.Void,java.lang.Void&gt; voidErrorTransformer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId LISTEN_STREAM_IDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Executors DIRECT_EXECUTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.ApiUtil java.lang.AssertionError newAssertionError(java.lang.String, java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId WRITE_STREAM_IDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Logger.Level DEBUG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Util com.google.firebase.firestore.FirebaseFirestoreException exceptionFromStatus(io.grpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.AsyncQueue.TimerId ONLINE_STATE_TIMEOUT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.util.Logger.Level WARN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

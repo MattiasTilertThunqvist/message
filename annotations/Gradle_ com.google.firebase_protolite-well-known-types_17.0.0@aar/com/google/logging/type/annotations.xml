@@ -1,0 +1,206 @@
+<root>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearCacheHit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setCacheValidatedWithOriginServer(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearCacheValidatedWithOriginServer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setServerIp(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearCacheFillBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity CRITICAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setCacheLookup(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setProtocolBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setLatency(com.google.protobuf.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity WARNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearRequestMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setStatus(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setProtocolBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity DEBUG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity UNRECOGNIZED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearRequestUrl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestMethod(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setUserAgentBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearProtocol()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRefererBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearRemoteIp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity INFO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearUserAgent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setReferer(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRemoteIpBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setServerIp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearReferer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setUserAgent(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setProtocol(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRemoteIp(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRemoteIpBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setCacheFillBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setServerIpBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setResponseSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity EMERGENCY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestMethodBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearLatency()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setProtocol(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder mergeLatency(com.google.protobuf.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity NOTICE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setCacheHit(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setLatency(com.google.protobuf.Duration.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestUrlBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearRequestSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity com.google.protobuf.Internal.EnumLiteMap&lt;com.google.logging.type.LogSeverity&gt; internalGetValueMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setLatency(com.google.protobuf.Duration.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setReferer(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestMethodBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearServerIp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRemoteIp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setUserAgentBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestUrlBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearResponseSize()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder clearCacheLookup()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setServerIpBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest com.google.logging.type.HttpRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setLatency(com.google.protobuf.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setUserAgent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRequestMethod(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.LogSeverity ALERT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.logging.type.HttpRequest.Builder com.google.logging.type.HttpRequest.Builder setRefererBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

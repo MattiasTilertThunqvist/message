@@ -1,0 +1,263 @@
+<root>
+    <item name='androidx.core.view.ViewGroupKt.iterator.1 java.lang.Object next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt boolean isEmpty(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt java.util.Iterator&lt;android.view.View&gt; iterator(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void updateMarginsRelative$default(android.view.ViewGroup.MarginLayoutParams, int, int, int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void doOnNextLayout(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt android.graphics.Bitmap drawToBitmap$default(android.view.View, android.graphics.Bitmap.Config, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt android.graphics.Bitmap drawToBitmap(android.view.View, android.graphics.Bitmap.Config) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void updateLayoutParams(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.ViewGroup.LayoutParams,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt java.util.Iterator&lt;android.view.MenuItem&gt; iterator(android.view.Menu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt.iterator.1 android.view.MenuItem next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void forEachIndexed(android.view.ViewGroup, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt java.lang.Runnable postDelayed(android.view.View, long, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void setPadding(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt boolean isNotEmpty(android.view.Menu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt java.lang.Runnable postOnAnimationDelayed(android.view.View, long, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt boolean isInvisible(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt android.graphics.Bitmap drawToBitmap$default(android.view.View, android.graphics.Bitmap.Config, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt boolean contains(android.view.ViewGroup, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt int getMarginRight(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt java.lang.Runnable postDelayed(android.view.View, long, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt android.view.View get(android.view.ViewGroup, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void updatePadding$default(android.view.View, int, int, int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void minusAssign(android.view.ViewGroup, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void doOnNextLayout(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt.doOnLayout..inlined.doOnNextLayout.1 void onLayoutChange(android.view.View, int, int, int, int, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void doOnLayout(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt android.graphics.Bitmap drawToBitmap(android.view.View, android.graphics.Bitmap.Config) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt kotlin.sequences.Sequence&lt;android.view.MenuItem&gt; getChildren(android.view.Menu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt int getSize(android.view.Menu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt boolean isEmpty(android.view.Menu) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void updatePaddingRelative$default(android.view.View, int, int, int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt android.view.MenuItem get(android.view.Menu, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void forEachIndexed(android.view.ViewGroup, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt boolean isVisible(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt.children.1 java.util.Iterator&lt;android.view.View&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt boolean contains(android.view.Menu, android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt int getMarginLeft(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void updatePaddingRelative(android.view.View, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void plusAssign(android.view.ViewGroup, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void updateMargins(android.view.ViewGroup.MarginLayoutParams, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void setGone(android.view.View, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt boolean contains(android.view.ViewGroup, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt void forEach(android.view.Menu, kotlin.jvm.functions.Function1&lt;? super android.view.MenuItem,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt.doOnNextLayout.1 void onLayoutChange(android.view.View, int, int, int, int, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt androidx.core.view.OneShotPreDrawListener doOnPreDraw(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void minusAssign(android.view.ViewGroup, android.view.View) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void updateMarginsRelative(android.view.ViewGroup.MarginLayoutParams, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt java.lang.Runnable postOnAnimationDelayed(android.view.View, long, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt boolean isGone(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt void minusAssign(android.view.Menu, android.view.MenuItem) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void doOnLayout(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt android.view.View get(android.view.ViewGroup, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt kotlin.sequences.Sequence&lt;android.view.View&gt; getChildren(android.view.ViewGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt java.util.Iterator&lt;android.view.View&gt; iterator(android.view.ViewGroup)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt.iterator.1 java.lang.Object next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt.children.1 java.util.Iterator&lt;android.view.MenuItem&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt boolean contains(android.view.Menu, android.view.MenuItem) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt int getSize(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt androidx.core.view.OneShotPreDrawListener doOnPreDraw(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void forEach(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void plusAssign(android.view.ViewGroup, android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void setInvisible(android.view.View, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt java.lang.Runnable postDelayed(android.view.View, long, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt boolean isNotEmpty(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt kotlin.sequences.Sequence&lt;android.view.MenuItem&gt; getChildren(android.view.Menu)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt int getMarginTop(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt void forEachIndexed(android.view.Menu, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.MenuItem,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt void forEach(android.view.Menu, kotlin.jvm.functions.Function1&lt;? super android.view.MenuItem,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void setVisible(android.view.View, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt android.view.MenuItem get(android.view.Menu, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt void minusAssign(android.view.Menu, android.view.MenuItem) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt int getMarginEnd(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void updateLayoutParams(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.ViewGroup.LayoutParams,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt.iterator.1 android.view.View next()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt androidx.core.view.OneShotPreDrawListener doOnPreDraw(android.view.View, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt android.graphics.Bitmap drawToBitmap(android.view.View, android.graphics.Bitmap.Config)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void forEach(android.view.ViewGroup, kotlin.jvm.functions.Function1&lt;? super android.view.View,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void setMargins(android.view.ViewGroup.MarginLayoutParams, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt kotlin.sequences.Sequence&lt;android.view.View&gt; getChildren(android.view.ViewGroup) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt android.graphics.Bitmap drawToBitmap$default(android.view.View, android.graphics.Bitmap.Config, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt void forEachIndexed(android.view.Menu, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super android.view.MenuItem,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt java.lang.Runnable postOnAnimationDelayed(android.view.View, long, kotlin.jvm.functions.Function0&lt;kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.MenuKt java.util.Iterator&lt;android.view.MenuItem&gt; iterator(android.view.Menu)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewGroupKt void updateMargins$default(android.view.ViewGroup.MarginLayoutParams, int, int, int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt int getMarginBottom(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt void updatePadding(android.view.View, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.view.ViewKt int getMarginStart(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,176 @@
+<root>
+    <item name='androidx.core.text.StringKt java.lang.String htmlEncode(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder italic(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder underline(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannedStringKt android.text.Spanned toSpanned(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder scale(android.text.SpannableStringBuilder, float, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder backgroundColor(android.text.SpannableStringBuilder, int, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder strikeThrough(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt void set(android.text.Spannable, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.HtmlKt android.text.Spanned parseAsHtml$default(java.lang.String, int, android.text.Html.ImageGetter, android.text.Html.TagHandler, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder scale(android.text.SpannableStringBuilder, float, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.CharSequenceKt boolean isDigitsOnly(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object[], kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder italic(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt android.text.Spannable toSpannable(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder bold(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder color(android.text.SpannableStringBuilder, int, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder strikeThrough(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt void set(android.text.Spannable, int, int, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.CharSequenceKt int trimmedLength(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt void clearSpans(android.text.Spannable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder subscript(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.HtmlKt java.lang.String toHtml(android.text.Spanned, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.StringKt java.lang.String htmlEncode(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.HtmlKt android.text.Spanned parseAsHtml(java.lang.String, int, android.text.Html.ImageGetter, android.text.Html.TagHandler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder superscript(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder scale(android.text.SpannableStringBuilder, float, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object[], kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder backgroundColor(android.text.SpannableStringBuilder, int, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder bold(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder superscript(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt void set(android.text.Spannable, kotlin.ranges.IntRange, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.HtmlKt java.lang.String toHtml(android.text.Spanned, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder backgroundColor(android.text.SpannableStringBuilder, int, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder subscript(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt void set(android.text.Spannable, kotlin.ranges.IntRange, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object[], kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder underline(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannedStringKt android.text.Spanned toSpanned(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.HtmlKt java.lang.String toHtml$default(android.text.Spanned, int, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder superscript(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannedString buildSpannedString(kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.LocaleKt int getLayoutDirection(java.util.Locale) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder underline(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object[], kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder subscript(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder color(android.text.SpannableStringBuilder, int, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.HtmlKt android.text.Spanned parseAsHtml(java.lang.String, int, android.text.Html.ImageGetter, android.text.Html.TagHandler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannedString buildSpannedString(kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder color(android.text.SpannableStringBuilder, int, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder italic(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt void set(android.text.Spannable, kotlin.ranges.IntRange, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder bold(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder strikeThrough(android.text.SpannableStringBuilder, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringKt android.text.Spannable toSpannable(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.SpannableStringBuilderKt android.text.SpannableStringBuilder inSpans(android.text.SpannableStringBuilder, java.lang.Object, kotlin.jvm.functions.Function1&lt;? super android.text.SpannableStringBuilder,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

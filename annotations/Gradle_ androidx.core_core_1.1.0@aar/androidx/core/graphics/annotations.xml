@@ -1,0 +1,167 @@
+<root>
+    <item name='androidx.core.graphics.ColorUtils void blendHSL(float[], float[], float, float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils double distanceEuclidean(double[], double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl java.lang.reflect.Method obtainAbortCreationMethod(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathParser.PathDataNode void interpolatePathDataNode(androidx.core.graphics.PathParser.PathDataNode, androidx.core.graphics.PathParser.PathDataNode, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatUtil java.io.File getTempFile(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void blendLAB(double[], double[], double, double[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils int HSLToColor(float[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void colorToXYZ(int, double[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl java.lang.reflect.Method obtainAddFontFromAssetManagerMethod(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathSegment PathSegment(android.graphics.PointF, float, android.graphics.PointF, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl android.graphics.Typeface createFromFontInfo(android.content.Context, android.os.CancellationSignal, androidx.core.provider.FontsContractCompat.FontInfo[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatUtil java.nio.ByteBuffer copyToDirectBuffer(android.content.Context, android.content.res.Resources, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompat android.graphics.Typeface createFromResourcesFontFile(android.content.Context, android.content.res.Resources, int, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathUtils java.util.Collection&lt;androidx.core.graphics.PathSegment&gt; flatten(android.graphics.Path)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathParser boolean interpolatePathDataNodes(androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[], float) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.BitmapCompat int getAllocationByteCount(android.graphics.Bitmap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void blendHSL(float[], float[], float, float[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void colorToHSL(int, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl android.graphics.Typeface createFromFontFamilyFilesResourceEntry(android.content.Context, androidx.core.content.res.FontResourcesParserCompat.FontFamilyFilesResourceEntry, android.content.res.Resources, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void colorToLAB(int, double[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils android.graphics.Color compositeColors(android.graphics.Color, android.graphics.Color) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void RGBToHSL(int, int, int, float[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl java.lang.reflect.Method obtainCreateFromFamiliesWithDefaultMethod(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompat android.graphics.Typeface findFromCache(android.content.res.Resources, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathParser boolean interpolatePathDataNodes(androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[], float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathParser boolean interpolatePathDataNodes(androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[], float) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompat android.graphics.Typeface createFromFontInfo(android.content.Context, android.os.CancellationSignal, androidx.core.provider.FontsContractCompat.FontInfo[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl java.lang.reflect.Method obtainFreezeMethod(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatUtil java.nio.ByteBuffer mmap(android.content.Context, android.os.CancellationSignal, android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void blendLAB(double[], double[], double, double[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathUtils java.util.Collection&lt;androidx.core.graphics.PathSegment&gt; flatten(android.graphics.Path, float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void LABToXYZ(double, double, double, double[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompat android.graphics.Typeface createFromResourcesFamilyXml(android.content.Context, androidx.core.content.res.FontResourcesParserCompat.FamilyResourceEntry, android.content.res.Resources, int, int, androidx.core.content.res.ResourcesCompat.FontCallback, android.os.Handler, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl java.lang.reflect.Method obtainAddFontFromBufferMethod(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void XYZToLAB(double, double, double, double[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathSegment android.graphics.PointF getEnd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils android.graphics.Color compositeColors(android.graphics.Color, android.graphics.Color) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathSegment PathSegment(android.graphics.PointF, float, android.graphics.PointF, float) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl java.lang.reflect.Constructor obtainFontFamilyCtor(java.lang.Class) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi28Impl java.lang.reflect.Method obtainCreateFromFamiliesWithDefaultMethod(java.lang.Class)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathUtils java.util.Collection&lt;androidx.core.graphics.PathSegment&gt; flatten(android.graphics.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void blendHSL(float[], float[], float, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils double distanceEuclidean(double[], double[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void RGBToLAB(int, int, int, double[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathParser.PathDataNode void nodesToPath(androidx.core.graphics.PathParser.PathDataNode[], android.graphics.Path) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathSegment android.graphics.PointF getStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompat android.graphics.Typeface create(android.content.Context, android.graphics.Typeface, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathParser void updateNodes(androidx.core.graphics.PathParser.PathDataNode[], androidx.core.graphics.PathParser.PathDataNode[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.PathUtils java.util.Collection&lt;androidx.core.graphics.PathSegment&gt; flatten(android.graphics.Path, float) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void RGBToXYZ(int, int, int, double[]) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatUtil boolean copyToFile(java.io.File, android.content.res.Resources, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.ColorUtils void blendLAB(double[], double[], double, double[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.TypefaceCompatApi26Impl android.graphics.Typeface createFromResourcesFontFile(android.content.Context, android.content.res.Resources, int, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,119 @@
+<root>
+    <item name='com.google.firebase.firestore.local.ReferenceSet void addReferences(com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence void clearPersistence(android.content.Context, com.google.firebase.firestore.model.DatabaseId, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LocalStore LocalStore(com.google.firebase.firestore.local.Persistence, com.google.firebase.firestore.local.QueryEngine, com.google.firebase.firestore.auth.User) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SimpleQueryEngine com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,com.google.firebase.firestore.model.Document&gt; getDocumentsMatchingQuery(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.local.QueryData, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LruDelegate com.google.firebase.firestore.local.LruGarbageCollector getGarbageCollector()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.local.LruGarbageCollector.Params com.google.firebase.firestore.local.LruGarbageCollector.Params Default()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryData com.google.firebase.firestore.local.QueryData withSequenceNumber(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence SQLitePersistence(android.content.Context, java.lang.String, com.google.firebase.firestore.model.DatabaseId, com.google.firebase.firestore.local.LocalSerializer, com.google.firebase.firestore.local.LruGarbageCollector.Params) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.MemoryPersistence com.google.firebase.firestore.local.MemoryPersistence createEagerGcMemoryPersistence()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LocalStore com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,com.google.firebase.firestore.model.MaybeDocument&gt; applyRemoteEvent(com.google.firebase.firestore.remote.RemoteEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryEngine com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,com.google.firebase.firestore.model.Document&gt; getDocumentsMatchingQuery(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.local.QueryData, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.local.MemoryPersistence com.google.firebase.firestore.local.MemoryPersistence createEagerGcMemoryPersistence(com.google.firebase.firestore.local.StatsCollector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryPurpose EXISTENCE_FILTER_MISMATCH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryPurpose LIMBO_RESOLUTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.IndexFreeQueryEngine com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,com.google.firebase.firestore.model.Document&gt; getDocumentsMatchingQuery(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.local.QueryData, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.MemoryPersistence com.google.firebase.firestore.local.MemoryPersistence createLruGcMemoryPersistence(com.google.firebase.firestore.local.LruGarbageCollector.Params, com.google.firebase.firestore.local.StatsCollector, com.google.firebase.firestore.local.LocalSerializer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryPurpose LISTEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LocalStore com.google.firebase.firestore.local.LocalWriteResult writeLocally(java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryData com.google.firebase.firestore.local.QueryData withResumeToken(com.google.protobuf.ByteString, com.google.firebase.firestore.model.SnapshotVersion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LocalStore LocalStore(com.google.firebase.firestore.local.Persistence, com.google.firebase.firestore.local.QueryEngine, com.google.firebase.firestore.auth.User) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence void clearPersistence(android.content.Context, com.google.firebase.firestore.model.DatabaseId, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LruGarbageCollector com.google.firebase.firestore.local.LruGarbageCollector.Scheduler newScheduler(com.google.firebase.firestore.util.AsyncQueue, com.google.firebase.firestore.local.LocalStore)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence SQLitePersistence(android.content.Context, java.lang.String, com.google.firebase.firestore.model.DatabaseId, com.google.firebase.firestore.local.LocalSerializer, com.google.firebase.firestore.local.StatsCollector, com.google.firebase.firestore.local.LruGarbageCollector.Params) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence java.lang.String databaseName(java.lang.String, com.google.firebase.firestore.model.DatabaseId) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.ReferenceSet void removeReferences(com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence com.google.firebase.firestore.local.ReferenceDelegate getReferenceDelegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LruGarbageCollector.Params com.google.firebase.firestore.local.LruGarbageCollector.Params Disabled()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LocalViewChanges com.google.firebase.firestore.local.LocalViewChanges fromViewSnapshot(int, com.google.firebase.firestore.core.ViewSnapshot) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.IndexManager java.util.List&lt;com.google.firebase.firestore.model.ResourcePath&gt; getCollectionParents(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.local.LocalViewChanges com.google.firebase.firestore.local.LocalViewChanges fromViewSnapshot(int, com.google.firebase.firestore.core.ViewSnapshot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.IndexManager void addToCollectionParentIndex(com.google.firebase.firestore.model.ResourcePath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.local.IndexedQueryEngine com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,com.google.firebase.firestore.model.Document&gt; getDocumentsMatchingQuery(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.local.QueryData, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.LruGarbageCollector.Params com.google.firebase.firestore.local.LruGarbageCollector.Params WithCacheSizeBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.QueryData com.google.firebase.firestore.local.QueryData withLastLimboFreeSnapshotVersion(com.google.firebase.firestore.model.SnapshotVersion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.local.SQLitePersistence com.google.firebase.firestore.local.SQLiteLruReferenceDelegate getReferenceDelegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.android.gms.common.internal.constants.ListAppsActivityContract EXTRA_PRESELECTED_FILTER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.internal.constants.ListAppsActivityContract ACTION_APPS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

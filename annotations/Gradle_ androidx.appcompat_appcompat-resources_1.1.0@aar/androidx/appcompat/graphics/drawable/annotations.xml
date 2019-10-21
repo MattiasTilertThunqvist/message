@@ -1,0 +1,20 @@
+<root>
+    <item name='androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat android.graphics.drawable.Drawable mutate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat void addState(int[], android.graphics.drawable.Drawable, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat void addTransition(int, int, T, boolean) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat createFromXmlInner(android.content.Context, android.content.res.Resources, org.xmlpull.v1.XmlPullParser, android.util.AttributeSet, android.content.res.Resources.Theme) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat void inflate(android.content.Context, android.content.res.Resources, org.xmlpull.v1.XmlPullParser, android.util.AttributeSet, android.content.res.Resources.Theme) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat androidx.appcompat.graphics.drawable.AnimatedStateListDrawableCompat createFromXmlInner(android.content.Context, android.content.res.Resources, org.xmlpull.v1.XmlPullParser, android.util.AttributeSet, android.content.res.Resources.Theme)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

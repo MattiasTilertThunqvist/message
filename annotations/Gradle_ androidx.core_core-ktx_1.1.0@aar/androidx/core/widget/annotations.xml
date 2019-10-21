@@ -1,0 +1,77 @@
+<root>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.1 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.1 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.2 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doBeforeTextChanged(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doOnTextChanged(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.3 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doAfterTextChanged(android.widget.TextView, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener$default(android.widget.TextView, kotlin.jvm.functions.Function4, kotlin.jvm.functions.Function4, kotlin.jvm.functions.Function1, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener$default(android.widget.TextView, kotlin.jvm.functions.Function4, kotlin.jvm.functions.Function4, kotlin.jvm.functions.Function1, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doOnTextChanged(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.1 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doBeforeTextChanged(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.2 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.2 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt.addTextChangedListener.2 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doOnTextChanged(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doAfterTextChanged(android.widget.TextView, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doAfterTextChanged(android.widget.TextView, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher doBeforeTextChanged(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.widget.TextViewKt android.text.TextWatcher addTextChangedListener(android.widget.TextView, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.CharSequence,? super java.lang.Integer,? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;, kotlin.jvm.functions.Function1&lt;? super android.text.Editable,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

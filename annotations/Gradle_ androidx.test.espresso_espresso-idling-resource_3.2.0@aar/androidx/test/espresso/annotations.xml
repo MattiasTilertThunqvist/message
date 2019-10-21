@@ -1,0 +1,11 @@
+<root>
+    <item name='androidx.test.espresso.IdlingRegistry java.util.Collection&lt;android.os.Looper&gt; getLoopers()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.IdlingRegistry java.util.Collection&lt;androidx.test.espresso.IdlingResource&gt; getResources()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.IdlingRegistry androidx.test.espresso.IdlingRegistry getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

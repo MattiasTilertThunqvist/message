@@ -1,0 +1,17 @@
+<root>
+    <item name='com.google.android.gms.common.config.GservicesValue com.google.android.gms.common.config.GservicesValue&lt;java.lang.Boolean&gt; value(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.config.GservicesValue com.google.android.gms.common.config.GservicesValue&lt;java.lang.Float&gt; value(java.lang.String, java.lang.Float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.config.GservicesValue com.google.android.gms.common.config.GservicesValue&lt;java.lang.Integer&gt; value(java.lang.String, java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.config.GservicesValue com.google.android.gms.common.config.GservicesValue&lt;java.lang.String&gt; value(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.config.GservicesValue com.google.android.gms.common.config.GservicesValue&lt;java.lang.Long&gt; value(java.lang.String, java.lang.Long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

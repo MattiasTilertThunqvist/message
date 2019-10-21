@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.core.location.LocationKt double component1(android.location.Location) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.location.LocationKt double component2(android.location.Location) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

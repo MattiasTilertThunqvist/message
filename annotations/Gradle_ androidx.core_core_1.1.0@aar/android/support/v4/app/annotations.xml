@@ -1,0 +1,17 @@
+<root>
+    <item name='android.support.v4.app.INotificationSideChannel.Stub android.os.IBinder asBinder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.app.RemoteActionCompatParcelizer void write(androidx.core.app.RemoteActionCompat, androidx.versionedparcelable.VersionedParcel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.app.RemoteActionCompatParcelizer androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.app.RemoteActionCompatParcelizer void write(androidx.core.app.RemoteActionCompat, androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='android.support.v4.app.RemoteActionCompatParcelizer androidx.core.app.RemoteActionCompat read(androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

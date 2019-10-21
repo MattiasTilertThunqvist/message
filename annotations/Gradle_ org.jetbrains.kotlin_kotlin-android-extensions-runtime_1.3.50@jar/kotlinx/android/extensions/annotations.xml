@@ -1,0 +1,20 @@
+<root>
+    <item name='kotlinx.android.extensions.CacheImplementation.Companion kotlinx.android.extensions.CacheImplementation getDEFAULT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.extensions.CacheImplementation HASH_MAP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.extensions.CacheImplementation SPARSE_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.extensions.CacheImplementation Companion'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.extensions.CacheImplementation NO_CACHE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlinx.android.extensions.CacheImplementation kotlinx.android.extensions.CacheImplementation access$getDEFAULT$cp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

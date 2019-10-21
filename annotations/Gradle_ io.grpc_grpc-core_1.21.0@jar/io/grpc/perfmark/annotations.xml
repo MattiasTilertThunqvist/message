@@ -1,0 +1,26 @@
+<root>
+    <item name='io.grpc.perfmark.InternalPerfMark io.grpc.perfmark.PerfTag createPerfTag(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.InternalPerfMark io.grpc.perfmark.PerfTag createPerfTag(long, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.InternalPerfMark io.grpc.perfmark.PerfTag createPerfTag(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.PerfMark io.grpc.perfmark.PerfTag createTag(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.PerfMark io.grpc.perfmark.PerfTag createTag(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.PerfMark io.grpc.perfmark.PerfMarkTask task(io.grpc.perfmark.PerfTag, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.PerfMark io.grpc.perfmark.PerfMarkTask task(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.perfmark.PerfMark io.grpc.perfmark.PerfTag createTag(long, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

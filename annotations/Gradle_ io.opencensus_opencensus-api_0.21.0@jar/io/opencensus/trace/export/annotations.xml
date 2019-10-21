@@ -1,0 +1,329 @@
+<root>
+    <item name='io.opencensus.trace.export.SampledSpanStore io.opencensus.trace.export.SampledSpanStore.Summary getSummary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary create(java.util.Map&lt;io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries,java.lang.Integer&gt;, java.util.Map&lt;io.opencensus.trace.Status.CanonicalCode,java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.common.Timestamp getStartTimestamp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries SECONDx1_SECONDx10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.Links java.util.List&lt;io.opencensus.trace.Link&gt; getLinks()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvent io.opencensus.trace.export.SpanData.TimedEvent&lt;T&gt; create(io.opencensus.common.Timestamp, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries MILLIx100_SECONDx1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.PerSpanNameSummary io.opencensus.trace.export.RunningSpanStore.PerSpanNameSummary create(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.Summary io.opencensus.trace.export.RunningSpanStore.Summary create(java.util.Map&lt;java.lang.String,io.opencensus.trace.export.RunningSpanStore.PerSpanNameSummary&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries MILLIx1_MILLIx10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary create(java.util.Map&lt;io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries,java.lang.Integer&gt;, java.util.Map&lt;io.opencensus.trace.Status.CanonicalCode,java.lang.Integer&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore void registerSpanNamesForCollection(java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvent T getEvent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvents io.opencensus.trace.export.SpanData.TimedEvents&lt;T&gt; create(java.util.List&lt;io.opencensus.trace.export.SpanData.TimedEvent&lt;T&gt;&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.Summary io.opencensus.trace.export.SampledSpanStore.Summary create(java.util.Map&lt;java.lang.String,io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.ErrorFilter io.opencensus.trace.export.SampledSpanStore.ErrorFilter create(java.lang.String, io.opencensus.trace.Status.CanonicalCode, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries MICROSx100_MILLIx1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvent io.opencensus.trace.export.SpanData.TimedEvent&lt;T&gt; create(io.opencensus.common.Timestamp, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.ExportComponent io.opencensus.trace.export.RunningSpanStore getRunningSpanStore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary java.util.Map&lt;io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries,java.lang.Integer&gt; getNumbersOfLatencySampledSpans()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries ZERO_MICROSx10'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary create(java.util.Map&lt;io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries,java.lang.Integer&gt;, java.util.Map&lt;io.opencensus.trace.Status.CanonicalCode,java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 9'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries SECONDx10_SECONDx100'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.Filter io.opencensus.trace.export.RunningSpanStore.Filter create(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.NetworkEvent&gt; getNetworkEvents()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.Summary java.util.Map&lt;java.lang.String,io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary&gt; getPerSpanNameSummary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanExporter io.opencensus.trace.export.SpanExporter getNoopSpanExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvent io.opencensus.trace.export.SpanData.TimedEvent&lt;T&gt; create(io.opencensus.common.Timestamp, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt; getAnnotations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvents io.opencensus.trace.export.SpanData.TimedEvents&lt;T&gt; create(java.util.List&lt;io.opencensus.trace.export.SpanData.TimedEvent&lt;T&gt;&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.SpanContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.Summary io.opencensus.trace.export.RunningSpanStore.Summary create(java.util.Map&lt;java.lang.String,io.opencensus.trace.export.RunningSpanStore.PerSpanNameSummary&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.Links io.opencensus.trace.export.SpanData.Links create(java.util.List&lt;io.opencensus.trace.Link&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyFilter io.opencensus.trace.export.SampledSpanStore.LatencyFilter create(java.lang.String, long, long, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.Summary io.opencensus.trace.export.SampledSpanStore.Summary create(java.util.Map&lt;java.lang.String,io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.ErrorFilter java.lang.String getSpanName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.Summary java.util.Map&lt;java.lang.String,io.opencensus.trace.export.RunningSpanStore.PerSpanNameSummary&gt; getPerSpanNameSummary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.ExportComponent io.opencensus.trace.export.ExportComponent newNoopExportComponent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries MICROSx10_MICROSx100'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 8'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.Attributes io.opencensus.trace.export.SpanData.Attributes create(java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore java.util.Collection&lt;io.opencensus.trace.export.SpanData&gt; getErrorSampledSpans(io.opencensus.trace.export.SampledSpanStore.ErrorFilter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.Attributes io.opencensus.trace.export.SpanData.Attributes create(java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyFilter io.opencensus.trace.export.SampledSpanStore.LatencyFilter create(java.lang.String, long, long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.Attributes java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt; getAttributeMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore java.util.Collection&lt;io.opencensus.trace.export.SpanData&gt; getLatencySampledSpans(io.opencensus.trace.export.SampledSpanStore.LatencyFilter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.Links io.opencensus.trace.export.SpanData.Links create(java.util.List&lt;io.opencensus.trace.Link&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries MILLIx10_MILLIx100'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvent io.opencensus.common.Timestamp getTimestamp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.ExportComponent io.opencensus.trace.export.SpanExporter getSpanExporter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore io.opencensus.trace.export.RunningSpanStore.Summary getSummary()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyBucketBoundaries SECONDx100_MAX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData.TimedEvents java.util.List&lt;io.opencensus.trace.export.SpanData.TimedEvent&lt;T&gt;&gt; getEvents()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.Filter io.opencensus.trace.export.RunningSpanStore.Filter create(java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore.Filter java.lang.String getSpanName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData.Links getLinks()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.ErrorFilter io.opencensus.trace.export.SampledSpanStore.ErrorFilter create(java.lang.String, io.opencensus.trace.Status.CanonicalCode, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.LatencyFilter java.lang.String getSpanName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.ExportComponent io.opencensus.trace.export.SampledSpanStore getSampledSpanStore()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.MessageEvent&gt; getMessageEvents()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.RunningSpanStore java.util.Collection&lt;io.opencensus.trace.export.SpanData&gt; getRunningSpans(io.opencensus.trace.export.RunningSpanStore.Filter) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore void unregisterSpanNamesForCollection(java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.export.SpanData io.opencensus.trace.export.SpanData create(io.opencensus.trace.SpanContext, io.opencensus.trace.SpanId, java.lang.Boolean, java.lang.String, io.opencensus.trace.Span.Kind, io.opencensus.common.Timestamp, io.opencensus.trace.export.SpanData.Attributes, io.opencensus.trace.export.SpanData.TimedEvents&lt;io.opencensus.trace.Annotation&gt;, io.opencensus.trace.export.SpanData.TimedEvents&lt;? extends io.opencensus.trace.BaseMessageEvent&gt;, io.opencensus.trace.export.SpanData.Links, java.lang.Integer, io.opencensus.trace.Status, io.opencensus.common.Timestamp) 7'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.export.SampledSpanStore.PerSpanNameSummary java.util.Map&lt;io.opencensus.trace.Status.CanonicalCode,java.lang.Integer&gt; getNumbersOfErrorSampledSpans()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

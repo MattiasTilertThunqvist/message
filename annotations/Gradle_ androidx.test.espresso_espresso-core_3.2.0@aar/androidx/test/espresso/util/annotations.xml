@@ -1,0 +1,53 @@
+<root>
+    <item name='androidx.test.espresso.util.ActivityLifecycles boolean hasTransitioningActivities(androidx.test.runner.lifecycle.ActivityLifecycleMonitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.EspressoOptional java.lang.Iterable&lt;T&gt; presentInstances(java.lang.Iterable&lt;? extends androidx.test.espresso.core.internal.deps.guava.base.Optional&lt;? extends T&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.EspressoOptional androidx.test.espresso.util.EspressoOptional&lt;T&gt; absent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.TreeIterables java.lang.Iterable&lt;android.view.View&gt; breadthFirstViewTraversal(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.TreeIterables java.lang.Iterable&lt;android.view.View&gt; depthFirstViewTraversal(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.ActivityLifecycles boolean hasForegroundActivities(androidx.test.runner.lifecycle.ActivityLifecycleMonitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.EspressoOptional androidx.test.espresso.util.EspressoOptional&lt;T&gt; of(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.HumanReadables java.lang.String describe(android.database.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.TreeIterables java.lang.Iterable&lt;androidx.test.espresso.util.TreeIterables.ViewAndDistance&gt; depthFirstViewTraversalWithDistance(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.EspressoOptional java.lang.Iterable&lt;T&gt; presentInstances(java.lang.Iterable&lt;? extends androidx.test.espresso.core.internal.deps.guava.base.Optional&lt;? extends T&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.EspressoOptional androidx.test.espresso.util.EspressoOptional&lt;T&gt; fromNullable(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.TreeIterables java.lang.Iterable&lt;android.view.View&gt; breadthFirstViewTraversal(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.ActivityLifecycles boolean hasVisibleActivities(androidx.test.runner.lifecycle.ActivityLifecycleMonitor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.TreeIterables java.lang.Iterable&lt;androidx.test.espresso.util.TreeIterables.ViewAndDistance&gt; depthFirstViewTraversalWithDistance(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.TreeIterables java.lang.Iterable&lt;android.view.View&gt; depthFirstViewTraversal(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.HumanReadables java.lang.String getViewHierarchyErrorMessage(android.view.View, java.util.List&lt;android.view.View&gt;, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.util.EspressoOptional androidx.test.espresso.util.EspressoOptional&lt;T&gt; of(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,77 @@
+<root>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp initializeApp(android.content.Context, com.google.firebase.FirebaseOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp java.lang.String getPersistenceKey(java.lang.String, com.google.firebase.FirebaseOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder Builder(com.google.firebase.FirebaseOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setStorageBucket(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setApiKey(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp initializeApp(android.content.Context, com.google.firebase.FirebaseOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setGaTrackingId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setApplicationId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp getInstance(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp initializeApp(android.content.Context, com.google.firebase.FirebaseOptions, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp DEFAULT_APP_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp initializeApp(android.content.Context, com.google.firebase.FirebaseOptions, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp initializeApp(android.content.Context, com.google.firebase.FirebaseOptions, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setGcmSenderId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setDatabaseUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp getInstance(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp com.google.firebase.FirebaseApp getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp java.util.List&lt;com.google.firebase.FirebaseApp&gt; getApps(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseApp java.lang.String getPersistenceKey(java.lang.String, com.google.firebase.FirebaseOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.FirebaseOptions.Builder com.google.firebase.FirebaseOptions.Builder setProjectId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

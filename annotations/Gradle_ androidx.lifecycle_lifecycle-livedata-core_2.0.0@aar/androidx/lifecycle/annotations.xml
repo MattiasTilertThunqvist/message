@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.lifecycle.LiveData void observe(androidx.lifecycle.LifecycleOwner, androidx.lifecycle.Observer&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

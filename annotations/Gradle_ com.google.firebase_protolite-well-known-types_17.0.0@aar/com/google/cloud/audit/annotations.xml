@@ -1,0 +1,311 @@
+<root>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder mergeAuthenticationInfo(com.google.cloud.audit.AuthenticationInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder clearPermission()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearResponse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo.Builder com.google.cloud.audit.AuthenticationInfo.Builder setPrincipalEmailBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequest(com.google.protobuf.Struct)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder clearResource()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo.Builder com.google.cloud.audit.AuthenticationInfo.Builder setPrincipalEmailBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerSuppliedUserAgentBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceData(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setResourceBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthenticationInfo(com.google.cloud.audit.AuthenticationInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setMethodName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResponse(com.google.protobuf.Struct.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequestMetadata(com.google.cloud.audit.RequestMetadata.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo.Builder com.google.cloud.audit.AuthenticationInfo.Builder setPrincipalEmail(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthenticationInfo(com.google.cloud.audit.AuthenticationInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog com.google.cloud.audit.AuditLog getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearAuthenticationInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setMethodName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setMethodNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearRequestMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(com.google.cloud.audit.AuthorizationInfo.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceData(com.google.protobuf.Any) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder clearCallerSuppliedUserAgent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(com.google.cloud.audit.AuthorizationInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder clearCallerIp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder mergeServiceData(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo.Builder com.google.cloud.audit.AuthenticationInfo.Builder setPrincipalEmail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResourceNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerSuppliedUserAgent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo.Builder com.google.cloud.audit.AuthenticationInfo.Builder clearPrincipalEmail()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerSuppliedUserAgentBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo com.google.cloud.audit.AuthorizationInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearServiceData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResourceName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceData(com.google.protobuf.Any.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setResource(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthenticationInfo(com.google.cloud.audit.AuthenticationInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerIpBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setNumResponseItems(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResponse(com.google.protobuf.Struct) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearResourceName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceData(com.google.protobuf.Any.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerIpBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata com.google.cloud.audit.RequestMetadata getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder removeAuthorizationInfo(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearRequest()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResponse(com.google.protobuf.Struct)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResourceName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(com.google.cloud.audit.AuthorizationInfo.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerIp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder mergeRequestMetadata(com.google.cloud.audit.RequestMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthenticationInfo com.google.cloud.audit.AuthenticationInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerSuppliedUserAgent(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setStatus(com.google.rpc.Status.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResourceNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(com.google.cloud.audit.AuthorizationInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder mergeResponse(com.google.protobuf.Struct)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearAuthorizationInfo()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setResource(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAllAuthorizationInfo(java.lang.Iterable&lt;? extends com.google.cloud.audit.AuthorizationInfo&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearMethodName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequestMetadata(com.google.cloud.audit.RequestMetadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setStatus(com.google.rpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setStatus(com.google.rpc.Status.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setMethodNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setPermission(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setServiceNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequest(com.google.protobuf.Struct.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder clearGranted()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequestMetadata(com.google.cloud.audit.RequestMetadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setResponse(com.google.protobuf.Struct.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setPermissionBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder mergeStatus(com.google.rpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setStatus(com.google.rpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequest(com.google.protobuf.Struct.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.RequestMetadata.Builder com.google.cloud.audit.RequestMetadata.Builder setCallerIp(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setResourceBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setGranted(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearServiceName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequestMetadata(com.google.cloud.audit.RequestMetadata.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder clearNumResponseItems()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setPermission(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setAuthenticationInfo(com.google.cloud.audit.AuthenticationInfo.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder mergeRequest(com.google.protobuf.Struct)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder setRequest(com.google.protobuf.Struct) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuthorizationInfo.Builder com.google.cloud.audit.AuthorizationInfo.Builder setPermissionBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.audit.AuditLog.Builder com.google.cloud.audit.AuditLog.Builder addAuthorizationInfo(int, com.google.cloud.audit.AuthorizationInfo.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

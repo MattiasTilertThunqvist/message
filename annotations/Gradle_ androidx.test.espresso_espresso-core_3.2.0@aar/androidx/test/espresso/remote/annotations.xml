@@ -1,0 +1,32 @@
+<root>
+    <item name='androidx.test.espresso.remote.NoopRemoteInteraction java.util.concurrent.Callable&lt;java.lang.Void&gt; createRemoteCheckCallable(org.hamcrest.Matcher&lt;androidx.test.espresso.Root&gt;, org.hamcrest.Matcher&lt;android.view.View&gt;, java.util.Map&lt;java.lang.String,android.os.IBinder&gt;, androidx.test.espresso.ViewAssertion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.remote.RemoteInteraction java.util.concurrent.Callable&lt;java.lang.Void&gt; createRemoteCheckCallable(org.hamcrest.Matcher&lt;androidx.test.espresso.Root&gt;, org.hamcrest.Matcher&lt;android.view.View&gt;, java.util.Map&lt;java.lang.String,android.os.IBinder&gt;, androidx.test.espresso.ViewAssertion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.remote.RemoteInteraction java.util.concurrent.Callable&lt;java.lang.Void&gt; createRemotePerformCallable(org.hamcrest.Matcher&lt;androidx.test.espresso.Root&gt;, org.hamcrest.Matcher&lt;android.view.View&gt;, java.util.Map&lt;java.lang.String,android.os.IBinder&gt;, androidx.test.espresso.ViewAction...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.remote.Bindable java.lang.String getId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.test.espresso.remote.RemoteInteraction BUNDLE_EXECUTION_STATUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.remote.ConstructorInvocation ConstructorInvocation(java.lang.Class&lt;?&gt;, java.lang.Class&lt;? extends java.lang.annotation.Annotation&gt;, java.lang.Class&lt;?&gt;...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.remote.NoopRemoteInteraction java.util.concurrent.Callable&lt;java.lang.Void&gt; createRemotePerformCallable(org.hamcrest.Matcher&lt;androidx.test.espresso.Root&gt;, org.hamcrest.Matcher&lt;android.view.View&gt;, java.util.Map&lt;java.lang.String,android.os.IBinder&gt;, androidx.test.espresso.ViewAction...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
