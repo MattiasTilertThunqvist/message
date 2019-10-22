@@ -10,6 +10,7 @@ import android.provider.MediaStore
 import android.util.Log
 import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.FirebaseStorage
 import kotlinx.android.synthetic.main.activity_main.*
 import java.util.*
@@ -20,7 +21,6 @@ class RegisterActivity : AppCompatActivity() {
 
     val selectImageRequestCode = 0
     var selectedPhotoUri: Uri? = null
-
 
     // Lifecycle
 
@@ -42,7 +42,7 @@ class RegisterActivity : AppCompatActivity() {
         }
     }
 
-    // Handle select image
+    // Handle image
 
     private fun selectPhoto() {
         val intent = Intent(Intent.ACTION_PICK)
@@ -62,7 +62,6 @@ class RegisterActivity : AppCompatActivity() {
             select_photo_button_register.setBackgroundDrawable(bitmapDrawable)
         }
     }
-
 
     // Register user
 
@@ -91,15 +90,40 @@ class RegisterActivity : AppCompatActivity() {
     }
 
     private fun uploadImageToStorage() {
-        if(selectedPhotoUri == null) return
+        val selectedPhotoUri = selectedPhotoUri?.let { it } ?: return
 
         val filename = UUID.randomUUID().toString()
         val reference = FirebaseStorage.getInstance().getReference("/images/$filename")
 
-        reference.putFile(selectedPhotoUri!!)
+        reference.putFile(selectedPhotoUri)
+            .addOnSuccessListener {
+
+                reference.downloadUrl.addOnSuccessListener { profileImageUrl ->
+                    saveUserToFirestore(profileImageUrl.toString())
+                }
+            }
+    }
+
+    private fun saveUserToFirestore(profileImageUrl: String) {
+        val uid = FirebaseAuth.getInstance().uid.toString()
+        val username = username_edittext_register.text.toString()
+        val user = User(uid, username, profileImageUrl)
+
+        val reference = FirebaseFirestore.getInstance().collection("users").document(uid)
+        reference.set(user)
             .addOnSuccessListener {
 
             }
 
+            .addOnFailureListener {
+
+            }
     }
 }
+
+
+data class User(
+    val uid: String,
+    val username: String,
+    val profileImageUrl: String
+)
