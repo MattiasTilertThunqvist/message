@@ -28,6 +28,12 @@ class RegisterActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        // NOTE: Only for testing
+        button_test.setOnClickListener {
+            val intent = Intent(this, ChatOverviewActivity::class.java)
+            startActivity(intent)
+        }
+
         select_photo_button_register.setOnClickListener {
             selectPhoto()
         }
@@ -115,8 +121,8 @@ class RegisterActivity : AppCompatActivity() {
 
             }
 
-            .addOnFailureListener {
-
+            .addOnFailureListener { exception ->
+                Log.d("RegisterActivity", "Failed to save user to Firestore: $exception")
             }
     }
 }
@@ -127,3 +133,7 @@ data class User(
     val username: String,
     val profileImageUrl: String
 )
+
+
+
+

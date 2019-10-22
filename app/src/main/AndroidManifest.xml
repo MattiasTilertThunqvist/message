@@ -18,6 +18,13 @@
         </activity>
 
         <activity android:name=".LoginActivity"></activity>
+
+        <activity android:name=".ChatOverviewActivity"></activity>
+
+        <activity android:name=".ChatActivity"></activity>
+
+        <activity android:name=".NewChatActivity"></activity>
+
     </application>
 
 </manifest>
