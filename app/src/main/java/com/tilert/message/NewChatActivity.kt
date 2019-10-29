@@ -1,5 +1,6 @@
 package com.tilert.message
 
+import android.content.Intent
 import android.os.Bundle
 import android.os.PersistableBundle
 import androidx.appcompat.app.AppCompatActivity
@@ -14,10 +15,6 @@ class NewChatActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_new_chat)
         setup()
-
-        floatingActionButton_new_chat.setOnClickListener {
-            finish()
-        }
     }
 
     private fun setup() {
@@ -34,6 +31,12 @@ class NewChatActivity: AppCompatActivity() {
         adapter.add(UserItem())
         adapter.add(UserItem())
         adapter.add(UserItem())
+
+        adapter.setOnItemClickListener { item, view ->
+            val intent = Intent(view.context, ChatActivity::class.java)
+            startActivity(intent)
+            finish()
+        }
     }
 }
 

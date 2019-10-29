@@ -21,9 +21,17 @@
 
         <activity android:name=".ChatOverviewActivity"></activity>
 
-        <activity android:name=".ChatActivity"></activity>
+        <activity android:name=".ChatActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ChatOverviewActivity"/>
+        </activity>
 
-        <activity android:name=".NewChatActivity"></activity>
+        <activity android:name=".NewChatActivity">
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".ChatOverviewActivity"/>
+        </activity>
 
     </application>
 

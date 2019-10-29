@@ -36,26 +36,26 @@ class ChatOverviewActivity: AppCompatActivity() {
         val adapter = GroupAdapter<GroupieViewHolder>()
         recyclerview_chat_overview.adapter = adapter
 
-        val chatItem = ChatItem()
+        val chatOverviewItem = ChatOverviewItem()
 
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
-        adapter.add(chatItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
+        adapter.add(chatOverviewItem)
 
         adapter.setOnItemClickListener { item, view ->
-            val intent = Intent(this, ChatActivity::class.java)
+            val intent = Intent(view.context, ChatActivity::class.java)
             startActivity(intent)
         }
     }
 }
 
-class ChatItem: Item<GroupieViewHolder>() {
+class ChatOverviewItem: Item<GroupieViewHolder>() {
 
     override fun bind(viewHolder: GroupieViewHolder, position: Int) {
 

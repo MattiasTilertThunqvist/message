@@ -16,17 +16,4 @@
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 
-    <com.google.android.material.floatingactionbutton.FloatingActionButton
-        android:id="@+id/floatingActionButton_new_chat"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
-        android:layout_marginEnd="33dp"
-        android:layout_marginBottom="33dp"
-        android:clickable="true"
-        app:layout_constraintBottom_toBottomOf="@+id/recyclerview_new_chat"
-        app:layout_constraintEnd_toEndOf="@+id/recyclerview_new_chat"
-        app:maxImageSize="25dp"
-        app:rippleColor="@android:color/white"
-        app:srcCompat="@drawable/ic_close" />
-
 </androidx.constraintlayout.widget.ConstraintLayout>
