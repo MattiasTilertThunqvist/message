@@ -19,11 +19,17 @@ class ChatActivity: AppCompatActivity() {
     private fun setup() {
         supportActionBar?.title = "Username"
 
-        val adapter = GroupAdapter<GroupieViewHolder>()
+        val adapter1 = GroupAdapter<GroupieViewHolder>()
+        recyclerview_chat.adapter = adapter1
 
+        val chatOverviewItem = ChatOverviewItem()
 
+        adapter1.add(chatOverviewItem)
+        adapter1.add(chatOverviewItem)
+        adapter1.add(chatOverviewItem)
+        adapter1.add(chatOverviewItem)
+        adapter1.add(chatOverviewItem)
 
-        recyclerview_chat_log.adapter = adapter
     }
 }
 
@@ -34,7 +40,6 @@ class ChatItem: Item<GroupieViewHolder>() {
     }
 
     override fun getLayout(): Int {
-        //TODO: Create layout recource file for row
-        
+        return R.layout.chat_row_sender
     }
 }

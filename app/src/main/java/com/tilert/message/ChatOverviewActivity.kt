@@ -21,7 +21,6 @@ class ChatOverviewActivity: AppCompatActivity() {
         floatingActionButton_chat_overview.setOnClickListener {
             val intent = Intent(this, NewChatActivity::class.java)
             startActivity(intent)
-
         }
     }
 
