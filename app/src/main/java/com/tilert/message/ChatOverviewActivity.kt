@@ -17,7 +17,7 @@ class ChatOverviewActivity: AppCompatActivity() {
         setContentView(R.layout.activity_chat_overview)
         setup()
 
-        new_chat_button_chatoverview.setOnClickListener {
+        floatingActionButton_chat_overview.setOnClickListener {
             val intent = Intent(this, NewChatActivity::class.java)
             startActivity(intent)
 

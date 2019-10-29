@@ -6,19 +6,6 @@
     android:layout_height="match_parent"
     android:background="@color/colorPrimaryDark">
 
-    <Button
-        android:id="@+id/new_chat_button_chatoverview"
-        android:layout_width="80dp"
-        android:layout_height="80dp"
-        android:layout_marginEnd="33dp"
-        android:layout_marginBottom="33dp"
-        android:background="@drawable/new_chat_round_red_button"
-        android:text="+"
-        android:textColor="#FFFFFF"
-        android:textSize="50sp"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent" />
-
     <androidx.recyclerview.widget.RecyclerView
         android:id="@+id/recyclerview_chat_overview"
         app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
@@ -28,4 +15,17 @@
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
+
+    <com.google.android.material.floatingactionbutton.FloatingActionButton
+        android:id="@+id/floatingActionButton_chat_overview"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="33dp"
+        android:layout_marginBottom="33dp"
+        android:clickable="true"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="@+id/recyclerview_chat_overview"
+        app:maxImageSize="30dp"
+        app:rippleColor="@android:color/white"
+        app:srcCompat="@drawable/ic_add" />
 </androidx.constraintlayout.widget.ConstraintLayout>

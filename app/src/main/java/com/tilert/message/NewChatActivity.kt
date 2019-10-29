@@ -14,6 +14,10 @@ class NewChatActivity: AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_new_chat)
         setup()
+
+        floatingActionButton_new_chat.setOnClickListener {
+            finish()
+        }
     }
 
     private fun setup() {
