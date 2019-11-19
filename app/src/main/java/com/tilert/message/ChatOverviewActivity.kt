@@ -2,10 +2,10 @@ package com.tilert.message
 
 import android.content.Intent
 import android.os.Bundle
-import android.os.PersistableBundle
 import android.view.Menu
-import android.widget.Toast
+import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.auth.FirebaseAuth
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
@@ -16,6 +16,7 @@ class ChatOverviewActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_chat_overview)
+        verifyUserIsLoggedIn()
         setup()
 
         floatingActionButton_chat_overview.setOnClickListener {
@@ -27,6 +28,48 @@ class ChatOverviewActivity: AppCompatActivity() {
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
         menuInflater.inflate(R.menu.nav_menu_chat_overview, menu)
         return super.onCreateOptionsMenu(menu)
+    }
+
+    override fun onOptionsItemSelected(item: MenuItem?): Boolean {
+        when (item?.itemId) {
+            R.id.action_settings -> {
+
+            }
+
+            R.id.action_term_conditions -> {
+
+            }
+
+            R.id.action_licenses -> {
+
+            }
+
+            R.id.action_logout -> {
+                FirebaseAuth.getInstance().signOut()
+                startRegisterActivity()
+            }
+
+            R.id.action_delete_account -> {
+
+            }
+        }
+
+
+        return super.onOptionsItemSelected(item)
+    }
+
+    private fun startRegisterActivity() {
+        val intent = Intent(this,  RegisterActivity::class.java)
+        intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK.or(Intent.FLAG_ACTIVITY_NEW_TASK)
+        startActivity(intent)
+    }
+
+    private fun verifyUserIsLoggedIn() {
+        val uid = FirebaseAuth.getInstance().uid
+
+        if (uid == null) {
+            startRegisterActivity()
+        }
     }
 
     private fun setup() {

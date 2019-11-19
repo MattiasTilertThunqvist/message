@@ -12,7 +12,7 @@ import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.FirebaseStorage
-import kotlinx.android.synthetic.main.activity_main.*
+import kotlinx.android.synthetic.main.activity_register.*
 import java.util.*
 
 class RegisterActivity : AppCompatActivity() {
@@ -26,13 +26,7 @@ class RegisterActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_main)
-
-        // NOTE: Only for testing
-        button_test.setOnClickListener {
-            val intent = Intent(this, ChatOverviewActivity::class.java)
-            startActivity(intent)
-        }
+        setContentView(R.layout.activity_register)
 
         select_photo_button_register.setOnClickListener {
             selectPhoto()
@@ -64,13 +58,12 @@ class RegisterActivity : AppCompatActivity() {
 
             selectedPhotoUri = data.data // Represents the location for the image on the device
             val bitmap = MediaStore.Images.Media.getBitmap(contentResolver, selectedPhotoUri)
-            val bitmapDrawable = BitmapDrawable(bitmap)
-            select_photo_button_register.setBackgroundDrawable(bitmapDrawable)
+            select_photo_imageview_register.setImageBitmap(bitmap)
+            select_photo_button_register.alpha = 0f
         }
     }
 
     // Register user
-
     private fun registerUser() {
         val email = email_edittext_register.text.toString()
         val password = password_edittext_register.text.toString()
@@ -118,7 +111,9 @@ class RegisterActivity : AppCompatActivity() {
         val reference = FirebaseFirestore.getInstance().collection("users").document(uid)
         reference.set(user)
             .addOnSuccessListener {
-
+                val intent = Intent(this, ChatOverviewActivity::class.java)
+                intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK.or(Intent.FLAG_ACTIVITY_NEW_TASK)
+                startActivity(intent)
             }
 
             .addOnFailureListener { exception ->
