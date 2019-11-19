@@ -111,6 +111,7 @@ class RegisterActivity : AppCompatActivity() {
         val reference = FirebaseFirestore.getInstance().collection("users").document(uid)
         reference.set(user)
             .addOnSuccessListener {
+                Log.d("RegisterActivity", "Successfully saved user to Firestore")
                 val intent = Intent(this, ChatOverviewActivity::class.java)
                 intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK.or(Intent.FLAG_ACTIVITY_NEW_TASK)
                 startActivity(intent)
@@ -123,11 +124,9 @@ class RegisterActivity : AppCompatActivity() {
 }
 
 
-data class User(
-    val uid: String,
-    val username: String,
-    val profileImageUrl: String
-)
+data class User(val uid: String, val username: String, val profileImageUrl: String) {
+    constructor() : this("", "", "")
+}
 
 
 
