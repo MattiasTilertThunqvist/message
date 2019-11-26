@@ -43,7 +43,9 @@ class NewChatActivity: AppCompatActivity() {
             }
 
             adapter.setOnItemClickListener { item, view ->
-                startChatActivity ()
+                val userItem = item as UserItem
+                val user = userItem.user
+                startChatActivity(user)
             }
 
             recyclerview_new_chat.adapter = adapter
@@ -54,12 +56,18 @@ class NewChatActivity: AppCompatActivity() {
         }
     }
 
-    private fun startChatActivity() {
+    companion object {
+        val USER_KEY = "USER_KEY"
+    }
+
+    private fun startChatActivity(user: User) {
         val intent = Intent(this, ChatActivity::class.java)
+        intent.putExtra(USER_KEY, user)
         startActivity(intent)
         finish()
     }
 }
+
 
 class UserItem(val user: User): Item<GroupieViewHolder>() {
 

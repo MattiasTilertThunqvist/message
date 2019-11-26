@@ -4,6 +4,11 @@ apply plugin: 'kotlin-android'
 
 apply plugin: 'kotlin-android-extensions'
 
+androidExtensions {
+    // Allow parcelization of User objects so that it can be passed as putExtra in intents
+    experimental = true
+}
+
 android {
     compileSdkVersion 28
     defaultConfig {
