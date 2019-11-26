@@ -1,8 +1,7 @@
-package com.tilert.message
+package com.tilert.message.onboarding
 
 import android.app.Activity
 import android.content.Intent
-import android.graphics.drawable.BitmapDrawable
 import android.net.Uri
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
@@ -12,6 +11,9 @@ import android.widget.Toast
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.google.firebase.storage.FirebaseStorage
+import com.tilert.message.messages.ChatOverviewActivity
+import com.tilert.message.R
+import com.tilert.message.models.User
 import kotlinx.android.synthetic.main.activity_register.*
 import java.util.*
 
@@ -121,11 +123,6 @@ class RegisterActivity : AppCompatActivity() {
                 Log.d("RegisterActivity", "Failed to save user to Firestore: $exception")
             }
     }
-}
-
-
-data class User(val uid: String, val username: String, val profileImageUrl: String) {
-    constructor() : this("", "", "")
 }
 
 

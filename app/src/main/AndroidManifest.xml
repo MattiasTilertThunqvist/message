@@ -12,7 +12,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
 
-        <activity android:name=".ChatOverviewActivity">
+        <activity android:name=".messages.ChatOverviewActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -20,7 +20,7 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".RegisterActivity">
+        <activity android:name=".onboarding.RegisterActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -28,18 +28,18 @@
             </intent-filter>
         </activity>
 
-        <activity android:name=".LoginActivity"></activity>
+        <activity android:name=".onboarding.LoginActivity"></activity>
 
-        <activity android:name=".ChatActivity">
+        <activity android:name=".messages.ChatActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ChatOverviewActivity"/>
+                android:value=".messages.ChatOverviewActivity"/>
         </activity>
 
-        <activity android:name=".NewChatActivity">
+        <activity android:name=".messages.NewChatActivity">
             <meta-data
                 android:name="android.support.PARENT_ACTIVITY"
-                android:value=".ChatOverviewActivity"/>
+                android:value=".messages.ChatOverviewActivity"/>
         </activity>
 
     </application>
