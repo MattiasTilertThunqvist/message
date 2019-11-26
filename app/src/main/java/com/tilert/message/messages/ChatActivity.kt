@@ -19,16 +19,16 @@ class ChatActivity: AppCompatActivity() {
     private fun setup() {
         supportActionBar?.title = "Username"
 
-        val adapter1 = GroupAdapter<GroupieViewHolder>()
-        recyclerview_chat.adapter = adapter1
+        val adapter = GroupAdapter<GroupieViewHolder>()
+        recyclerview_chat_log.adapter = adapter
 
-        val chatOverviewItem = ChatOverviewItem()
+        val chatItem = ChatItem()
 
-        adapter1.add(chatOverviewItem)
-        adapter1.add(chatOverviewItem)
-        adapter1.add(chatOverviewItem)
-        adapter1.add(chatOverviewItem)
-        adapter1.add(chatOverviewItem)
+        adapter.add(chatItem)
+        adapter.add(chatItem)
+        adapter.add(chatItem)
+        adapter.add(chatItem)
+        adapter.add(chatItem)
 
     }
 }
