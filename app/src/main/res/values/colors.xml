@@ -4,5 +4,6 @@
     <color name="colorPrimaryDark">#242129</color>
     <color name="colorAccent">#F23F5C</color>
     <color name="messageDarkGrey">#242129</color>
+    <color name="messageLightGrey">#3F3F3F</color>
     <color name="messageRed">#F23F5C</color>
 </resources>

@@ -40,6 +40,6 @@ class ChatItem: Item<GroupieViewHolder>() {
     }
 
     override fun getLayout(): Int {
-        return R.layout.chat_row_sender
+        return R.layout.chat_row_from
     }
 }
