@@ -2,11 +2,14 @@ package com.tilert.message.messages
 
 import android.content.Intent
 import android.os.Bundle
+import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
+import com.google.firebase.firestore.FirebaseFirestore
 import com.tilert.message.R
+import com.tilert.message.models.User
 import com.tilert.message.onboarding.RegisterActivity
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
@@ -15,10 +18,15 @@ import kotlinx.android.synthetic.main.activity_chat_overview.*
 
 class ChatOverviewActivity: AppCompatActivity() {
 
+    companion object {
+        var currentUser: User? = null
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_chat_overview)
         verifyUserIsLoggedIn()
+        fetchCurrentUser()
         setup()
 
         floatingActionButton_chat_overview.setOnClickListener {
@@ -72,6 +80,17 @@ class ChatOverviewActivity: AppCompatActivity() {
         if (uid == null) {
             startRegisterActivity()
         }
+    }
+
+    private fun fetchCurrentUser() {
+        val uid = FirebaseAuth.getInstance().uid
+        val ref = FirebaseFirestore.getInstance().collection("users").document("$uid")
+
+        ref.get()
+            .addOnSuccessListener {
+                currentUser = it.toObject(User::class.java)
+                Log.d("ChatOverViewActivity", "Current user: ${currentUser?.username}")
+            }
     }
 
     private fun setup() {
