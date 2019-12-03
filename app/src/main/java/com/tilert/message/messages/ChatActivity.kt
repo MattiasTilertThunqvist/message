@@ -42,7 +42,10 @@ class ChatActivity: AppCompatActivity() {
     }
 
     private fun listenForMessages() {
-        messagesFirestoreRef.addSnapshotListener { snapshot, exception ->
+        val fromId = FirebaseAuth.getInstance().uid
+        val toId = toUser?.uid
+        val documentRef = messagesFirestoreRef.document("$fromId").collection("$toId")
+        documentRef.addSnapshotListener { snapshot, exception ->
             exception?.let { exception ->
                 Log.d("ChatActivity", exception.localizedMessage)
                 return@addSnapshotListener
@@ -65,17 +68,28 @@ class ChatActivity: AppCompatActivity() {
     }
 
     private fun handleSendMessage() {
-        val documentRef = messagesFirestoreRef.document()
+        val fromId = FirebaseAuth.getInstance().uid.let { it } ?: return
+        val toId = intent.getParcelableExtra<User>(NewChatActivity.USER_KEY).uid
+
+        val documentRef = messagesFirestoreRef.document("$fromId").collection("$toId").document()
+        val toDocumentRef = messagesFirestoreRef.document("$toId").collection("$fromId").document()
 
         val id = documentRef.id
         val text = edittext_chat_log.text.toString()
-        val fromId = FirebaseAuth.getInstance().uid.let { it } ?: return
-        val toId = intent.getParcelableExtra<User>(NewChatActivity.USER_KEY).uid
         val timestamp = System.currentTimeMillis() / 1000 // Convert to seconds
 
         val chatMessage = ChatMessage(id, text, fromId, toId, timestamp)
 
         documentRef.set(chatMessage)
+            .addOnSuccessListener {
+                edittext_chat_log.text.clear()
+                recyclerview_chat_log.scrollToPosition(adapter.itemCount -1)
+            }
+            .addOnFailureListener {
+                Toast.makeText(this, "Couldn't send message", Toast.LENGTH_LONG).show()
+            }
+
+        toDocumentRef.set(chatMessage)
             .addOnFailureListener {
                 Toast.makeText(this, "Couldn't send message", Toast.LENGTH_LONG).show()
             }
