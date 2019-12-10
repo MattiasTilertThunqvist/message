@@ -20,7 +20,8 @@ import kotlinx.android.synthetic.main.chat_row_to.view.*
 class ChatActivity: AppCompatActivity() {
 
     val adapter = GroupAdapter<GroupieViewHolder>()
-    val messagesFirestoreRef = FirebaseFirestore.getInstance().collection("messages")
+    val messagesFirestoreRef = FirebaseFirestore.getInstance().collection("userMessages")
+    val latestMessagesFirestoreRef = FirebaseFirestore.getInstance().collection("latestMessages")
     var toUser: User? = null
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -51,8 +52,12 @@ class ChatActivity: AppCompatActivity() {
                 return@addSnapshotListener
             }
 
+            // Remove items from adapter
+            adapter.clear()
+
             val snapshot = snapshot.let { it } ?: return@addSnapshotListener
 
+            // Layout objects in recyclerview
             snapshot.forEach {
                 val chatMessage = it.toObject(ChatMessage::class.java)
 
@@ -93,6 +98,14 @@ class ChatActivity: AppCompatActivity() {
             .addOnFailureListener {
                 Toast.makeText(this, "Couldn't send message", Toast.LENGTH_LONG).show()
             }
+
+         // Set latest message for logged in user
+        val latestMessagesRef = latestMessagesFirestoreRef.document("$fromId").collection("messages").document("$toId")
+        latestMessagesRef.set(chatMessage)
+
+        // Set latest message for receiving user
+        val latestMessagesToRef = latestMessagesFirestoreRef.document("$toId").collection("messages").document("$fromId")
+        latestMessagesToRef.set(chatMessage)
     }
 }
 
