@@ -6,8 +6,10 @@ import android.util.Log
 import android.view.Menu
 import android.view.MenuItem
 import androidx.appcompat.app.AppCompatActivity
+import androidx.recyclerview.widget.DividerItemDecoration
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
+import com.squareup.picasso.Picasso
 import com.tilert.message.R
 import com.tilert.message.models.ChatMessage
 import com.tilert.message.models.User
@@ -29,17 +31,11 @@ class ChatOverviewActivity: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_chat_overview)
-        recyclerview_chat_overview.adapter = adapter
 
         verifyUserIsLoggedIn()
         fetchCurrentUser()
         setup()
         listenForLatestMessages()
-
-        floatingActionButton_chat_overview.setOnClickListener {
-            val intent = Intent(this, NewChatActivity::class.java)
-            startActivity(intent)
-        }
     }
 
     override fun onCreateOptionsMenu(menu: Menu?): Boolean {
@@ -103,7 +99,18 @@ class ChatOverviewActivity: AppCompatActivity() {
     private fun setup() {
         supportActionBar?.title = "Chats"
 
+        floatingActionButton_chat_overview.setOnClickListener {
+            val intent = Intent(this, NewChatActivity::class.java)
+            startActivity(intent)
+        }
 
+        recyclerview_chat_overview.adapter = adapter
+        recyclerview_chat_overview.addItemDecoration(DividerItemDecoration(this, DividerItemDecoration.VERTICAL))
+
+        adapter.setOnItemClickListener { item, view ->
+            val intent = Intent(view.context, ChatActivity::class.java)
+            startActivity(intent)
+        }
     }
 
     private fun listenForLatestMessages() {
@@ -117,7 +124,7 @@ class ChatOverviewActivity: AppCompatActivity() {
             }
 
             // Remove items from adapter
-            adapter.clear()
+             adapter.clear()
 
             val snapshot = snapshot.let { it } ?: return@addSnapshotListener
 
@@ -125,27 +132,40 @@ class ChatOverviewActivity: AppCompatActivity() {
             snapshot.forEach {
                 val chatMessage = it.toObject(ChatMessage::class.java)
 
-                val chatOverviewItem = ChatOverviewItem(chatMessage.text, chatMessage.fromId, chatMessage.timestamp)
-                adapter.add(chatOverviewItem)
+                // Extract partnerId
+                val chatPartnerId: String
+                if (chatMessage.fromId == FirebaseAuth.getInstance().uid) {
+                    chatPartnerId = chatMessage.toId
+                } else {
+                    chatPartnerId = chatMessage.fromId
+                }
 
+                val ref = FirebaseFirestore.getInstance().collection("users").document("$chatPartnerId")
+                ref.get().addOnSuccessListener {
+                    if (it == null) {
+                        Log.d("ChatOverViewActivity", "Failed to get chat partner from firestore")
+                        return@addOnSuccessListener
+                    }
 
+                    val userChatPartner = it.toObject(User::class.java) ?: return@addOnSuccessListener
 
-                // Move to separate method and handle
-                adapter.setOnItemClickListener { item, view ->
-                    val intent = Intent(view.context, ChatActivity::class.java)
-                    startActivity(intent)
+                    val chatOverviewItem = ChatOverviewItem(chatMessage.text,userChatPartner.username, userChatPartner.profileImageUrl, "MocketTimestamp")
+                    adapter.add(chatOverviewItem)
                 }
             }
         }
     }
 }
 
-class ChatOverviewItem(val text: String, val username: String, val timestamp: Long): Item<GroupieViewHolder>() {
+class ChatOverviewItem(val textMessage: String, val username: String, val profileImageUrl: String, val timestamp: String): Item<GroupieViewHolder>() {
 
     override fun bind(viewHolder: GroupieViewHolder, position: Int) {
         viewHolder.itemView.row_chat_overview_username.text = username
-        viewHolder.itemView.row_chat_overview_message.text = text
-        viewHolder.itemView.row_chat_overview_timestamp.text = timestamp.toString()
+        viewHolder.itemView.row_chat_overview_message.text = textMessage
+        viewHolder.itemView.row_chat_overview_timestamp.text = timestamp
+
+        val targetImageView = viewHolder.itemView.row_chat_overview_profileImageView
+        Picasso.get().load(profileImageUrl).into(targetImageView)
     }
 
     override fun getLayout(): Int {
