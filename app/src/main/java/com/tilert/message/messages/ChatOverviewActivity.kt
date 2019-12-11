@@ -14,6 +14,7 @@ import com.tilert.message.R
 import com.tilert.message.models.ChatMessage
 import com.tilert.message.models.User
 import com.tilert.message.onboarding.RegisterActivity
+import com.tilert.message.views.ChatOverviewRow
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
@@ -23,9 +24,11 @@ import kotlinx.android.synthetic.main.user_row_chat_overview.view.*
 class ChatOverviewActivity: AppCompatActivity() {
 
     val adapter = GroupAdapter<GroupieViewHolder>()
+    var chatPartners = ArrayList<User>()
 
     companion object {
         var currentUser: User? = null
+        val TAG = "LatestMessages"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {
@@ -108,8 +111,9 @@ class ChatOverviewActivity: AppCompatActivity() {
         recyclerview_chat_overview.addItemDecoration(DividerItemDecoration(this, DividerItemDecoration.VERTICAL))
 
         adapter.setOnItemClickListener { item, view ->
-            val intent = Intent(view.context, ChatActivity::class.java)
-            startActivity(intent)
+            val index = adapter.getAdapterPosition(item)
+            val chatPartner = chatPartners[index]
+            startChatActivity(chatPartner)
         }
     }
 
@@ -124,7 +128,10 @@ class ChatOverviewActivity: AppCompatActivity() {
             }
 
             // Remove items from adapter
-             adapter.clear()
+            adapter.clear()
+
+            // Remove users. The order of the list may have changed due to new messages.
+            chatPartners.clear()
 
             val snapshot = snapshot.let { it } ?: return@addSnapshotListener
 
@@ -147,28 +154,19 @@ class ChatOverviewActivity: AppCompatActivity() {
                         return@addOnSuccessListener
                     }
 
-                    val userChatPartner = it.toObject(User::class.java) ?: return@addOnSuccessListener
+                    val chatPartner = it.toObject(User::class.java) ?: return@addOnSuccessListener
+                    chatPartners.add(chatPartner)
 
-                    val chatOverviewItem = ChatOverviewItem(chatMessage.text,userChatPartner.username, userChatPartner.profileImageUrl, "MocketTimestamp")
+                    val chatOverviewItem = ChatOverviewRow(chatMessage.text, chatPartner.username, chatPartner.profileImageUrl, "MocketTimestamp")
                     adapter.add(chatOverviewItem)
                 }
             }
         }
     }
-}
 
-class ChatOverviewItem(val textMessage: String, val username: String, val profileImageUrl: String, val timestamp: String): Item<GroupieViewHolder>() {
-
-    override fun bind(viewHolder: GroupieViewHolder, position: Int) {
-        viewHolder.itemView.row_chat_overview_username.text = username
-        viewHolder.itemView.row_chat_overview_message.text = textMessage
-        viewHolder.itemView.row_chat_overview_timestamp.text = timestamp
-
-        val targetImageView = viewHolder.itemView.row_chat_overview_profileImageView
-        Picasso.get().load(profileImageUrl).into(targetImageView)
-    }
-
-    override fun getLayout(): Int {
-        return R.layout.user_row_chat_overview
+    private fun startChatActivity(chatPartner: User) {
+        val intent = Intent(this, ChatActivity::class.java)
+        intent.putExtra(NewChatActivity.USER_KEY, chatPartner)
+        startActivity(intent)
     }
 }

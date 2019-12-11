@@ -69,6 +69,7 @@ class ChatActivity: AppCompatActivity() {
                 }
             }
 
+            scrollToBottom()
         }
     }
 
@@ -88,7 +89,7 @@ class ChatActivity: AppCompatActivity() {
         documentRef.set(chatMessage)
             .addOnSuccessListener {
                 edittext_chat_log.text.clear()
-                recyclerview_chat_log.scrollToPosition(adapter.itemCount -1)
+                scrollToBottom()
             }
             .addOnFailureListener {
                 Toast.makeText(this, "Couldn't send message", Toast.LENGTH_LONG).show()
@@ -106,6 +107,10 @@ class ChatActivity: AppCompatActivity() {
         // Set latest message for receiving user
         val latestMessagesToRef = latestMessagesFirestoreRef.document("$toId").collection("messages").document("$fromId")
         latestMessagesToRef.set(chatMessage)
+    }
+
+    private fun scrollToBottom() {
+        recyclerview_chat_log.scrollToPosition(adapter.itemCount -1)
     }
 }
 
