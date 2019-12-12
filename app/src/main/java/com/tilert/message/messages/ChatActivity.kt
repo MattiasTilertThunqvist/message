@@ -17,6 +17,7 @@ import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
 import kotlinx.android.synthetic.main.activity_chat.*
 import kotlinx.android.synthetic.main.chat_row_from.view.*
+import java.text.DateFormat
 
 class ChatActivity: AppCompatActivity() {
 
@@ -94,8 +95,7 @@ class ChatActivity: AppCompatActivity() {
 
         val id = documentRef.id
         val text = edittext_chat_log.text.toString()
-        val timestamp = System.currentTimeMillis() / 1000 // Convert to seconds
-
+        val timestamp = System.currentTimeMillis()
         val chatMessage = ChatMessage(id, text, fromId, toId, timestamp)
 
         documentRef.set(chatMessage)

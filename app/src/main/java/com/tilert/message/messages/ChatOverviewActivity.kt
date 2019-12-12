@@ -9,7 +9,6 @@ import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.DividerItemDecoration
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
-import com.squareup.picasso.Picasso
 import com.tilert.message.R
 import com.tilert.message.models.ChatMessage
 import com.tilert.message.models.User
@@ -17,9 +16,8 @@ import com.tilert.message.onboarding.RegisterActivity
 import com.tilert.message.views.ChatOverviewRow
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
-import com.xwray.groupie.Item
 import kotlinx.android.synthetic.main.activity_chat_overview.*
-import kotlinx.android.synthetic.main.user_row_chat_overview.view.*
+import java.text.DateFormat
 
 class ChatOverviewActivity: AppCompatActivity() {
 
@@ -151,12 +149,16 @@ class ChatOverviewActivity: AppCompatActivity() {
                     }
 
                     val chatPartner = it.toObject(User::class.java) ?: return@addOnSuccessListener
-
-                    val chatOverviewItem = ChatOverviewRow(chatMessage.text, chatPartner, "MocketTimestamp")
+                    val displayableDateTime = convertTimestampToTime(chatMessage.timestamp)
+                    val chatOverviewItem = ChatOverviewRow(chatMessage.text, chatPartner, displayableDateTime)
                     adapter.add(chatOverviewItem)
                 }
             }
         }
+    }
+
+    private fun convertTimestampToTime(timestamp: Long): String {
+        return DateFormat.getTimeInstance(DateFormat.SHORT).format(timestamp)
     }
 
     private fun startChatActivity(chatPartner: User) {
