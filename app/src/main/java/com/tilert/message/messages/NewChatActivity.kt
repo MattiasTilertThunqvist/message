@@ -42,7 +42,7 @@ class NewChatActivity: AppCompatActivity() {
             for (document in result) {
                 val user = document.toObject(User::class.java)
 
-                // Make sure that the user itself is not displayed. A user can not chat with himself.
+                // Make sure that the user itself is not displayed. Users can not chat with themselves.
                 if (user.uid != FirebaseAuth.getInstance().uid) {
                     adapter.add(UserRow(user))
                 }

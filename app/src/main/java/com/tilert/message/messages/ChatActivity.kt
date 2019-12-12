@@ -45,6 +45,13 @@ class ChatActivity: AppCompatActivity() {
         button_send_chat_log.setOnClickListener {
             handleSendMessage()
         }
+
+        recyclerview_chat_log.addOnLayoutChangeListener { view, left, top, right, bottom, leftWas, topWas, rightWas, bottomWas ->
+            // Scroll to bottom of recyclerview when keyboard opens
+            if (bottom != bottomWas) {
+                scrollToBottom()
+            }
+        }
     }
 
     private fun listenForMessages() {
