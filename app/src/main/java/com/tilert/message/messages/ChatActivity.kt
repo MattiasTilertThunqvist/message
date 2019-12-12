@@ -6,7 +6,6 @@ import android.widget.Toast
 import androidx.appcompat.app.AppCompatActivity
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
-import com.squareup.picasso.Picasso
 import com.tilert.message.models.User
 import com.tilert.message.R
 import com.tilert.message.models.ChatMessage
@@ -14,10 +13,7 @@ import com.tilert.message.views.ChatRowFrom
 import com.tilert.message.views.ChatRowTo
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
-import com.xwray.groupie.Item
 import kotlinx.android.synthetic.main.activity_chat.*
-import kotlinx.android.synthetic.main.chat_row_from.view.*
-import java.text.DateFormat
 
 class ChatActivity: AppCompatActivity() {
 
@@ -70,10 +66,13 @@ class ChatActivity: AppCompatActivity() {
 
             val snapshot = snapshot.let { it } ?: return@addSnapshotListener
 
-            // Layout objects in recyclerview
-            snapshot.forEach {
-                val chatMessage = it.toObject(ChatMessage::class.java)
+            var chatMessages = ArrayList<ChatMessage>()
+            snapshot.forEach { chatMessages.add(it.toObject(ChatMessage::class.java)) }
 
+            // Sort the list based on when it was sent
+            val sortedChatMessages = chatMessages.sortedBy { it.timestamp }
+
+            sortedChatMessages.forEach { chatMessage ->
                 if (chatMessage.fromId == FirebaseAuth.getInstance().uid) {
                     val currentUser = ChatOverviewActivity.currentUser ?: return@addSnapshotListener
                     adapter.add(ChatRowFrom(chatMessage.text, currentUser))
