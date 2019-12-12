@@ -129,12 +129,15 @@ class ChatOverviewActivity: AppCompatActivity() {
 
             val snapshot = snapshot.let { it } ?: return@addSnapshotListener
 
-            // Layout objects in recyclerview
-            snapshot.forEach {
-                val chatMessage = it.toObject(ChatMessage::class.java)
+            var chatMessages = ArrayList<ChatMessage>()
+            snapshot.forEach { chatMessages.add(it.toObject(ChatMessage::class.java)) }
 
-                // Extract partnerId
+            val sortedChatMessages = chatMessages.sortedBy { it.timestamp }
+
+            // Layout objects in recyclerview
+            sortedChatMessages.forEach { chatMessage ->
                 val chatPartnerId: String
+                // Extract partnerId
                 if (chatMessage.fromId == FirebaseAuth.getInstance().uid) {
                     chatPartnerId = chatMessage.toId
                 } else {

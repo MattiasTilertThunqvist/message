@@ -72,6 +72,7 @@ class ChatActivity: AppCompatActivity() {
             // Sort the list based on when it was sent
             val sortedChatMessages = chatMessages.sortedBy { it.timestamp }
 
+            // Layout objects in recyclerview
             sortedChatMessages.forEach { chatMessage ->
                 if (chatMessage.fromId == FirebaseAuth.getInstance().uid) {
                     val currentUser = ChatOverviewActivity.currentUser ?: return@addSnapshotListener
