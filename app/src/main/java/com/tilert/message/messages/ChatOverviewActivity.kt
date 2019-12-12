@@ -166,7 +166,7 @@ class ChatOverviewActivity: AppCompatActivity() {
 
     private fun startChatActivity(chatPartner: User) {
         val intent = Intent(this, ChatActivity::class.java)
-        intent.putExtra(NewChatActivity.USER_KEY, chatPartner)
+        intent.putExtra(ChatActivity.USER_KEY, chatPartner)
         startActivity(intent)
     }
 }

@@ -24,6 +24,10 @@ class ChatActivity: AppCompatActivity() {
     val latestMessagesFirestoreRef = FirebaseFirestore.getInstance().collection("latestMessages")
     var toUser: User? = null
 
+    companion object {
+        val USER_KEY = "USER_KEY"
+    }
+
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_chat)
@@ -32,7 +36,7 @@ class ChatActivity: AppCompatActivity() {
     }
 
     private fun setup() {
-        toUser = intent.getParcelableExtra<User>(NewChatActivity.USER_KEY)
+        toUser = intent.getParcelableExtra<User>(USER_KEY)
         supportActionBar?.title = toUser?.username
 
         recyclerview_chat_log.adapter = adapter
@@ -75,7 +79,7 @@ class ChatActivity: AppCompatActivity() {
 
     private fun handleSendMessage() {
         val fromId = FirebaseAuth.getInstance().uid.let { it } ?: return
-        val toId = intent.getParcelableExtra<User>(NewChatActivity.USER_KEY).uid
+        val toId = intent.getParcelableExtra<User>(USER_KEY).uid
 
         val documentRef = messagesFirestoreRef.document("$fromId").collection("$toId").document()
         val toDocumentRef = messagesFirestoreRef.document("$toId").collection("$fromId").document()

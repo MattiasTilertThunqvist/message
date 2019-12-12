@@ -56,13 +56,9 @@ class NewChatActivity: AppCompatActivity() {
         }
     }
 
-    companion object {
-        val USER_KEY = "USER_KEY"
-    }
-
     private fun startChatActivity(user: User) {
         val intent = Intent(this, ChatActivity::class.java)
-        intent.putExtra(USER_KEY, user)
+        intent.putExtra(ChatActivity.USER_KEY, user)
         startActivity(intent)
         finish()
     }
