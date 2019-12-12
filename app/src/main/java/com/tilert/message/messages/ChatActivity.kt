@@ -10,12 +10,13 @@ import com.squareup.picasso.Picasso
 import com.tilert.message.models.User
 import com.tilert.message.R
 import com.tilert.message.models.ChatMessage
+import com.tilert.message.views.ChatRowFrom
+import com.tilert.message.views.ChatRowTo
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
 import kotlinx.android.synthetic.main.activity_chat.*
 import kotlinx.android.synthetic.main.chat_row_from.view.*
-import kotlinx.android.synthetic.main.chat_row_to.view.*
 
 class ChatActivity: AppCompatActivity() {
 
@@ -67,9 +68,9 @@ class ChatActivity: AppCompatActivity() {
 
                 if (chatMessage.fromId == FirebaseAuth.getInstance().uid) {
                     val currentUser = ChatOverviewActivity.currentUser ?: return@addSnapshotListener
-                    adapter.add(ChatItemFrom(chatMessage.text, currentUser))
+                    adapter.add(ChatRowFrom(chatMessage.text, currentUser))
                 } else {
-                    adapter.add(ChatItemTo(chatMessage.text, toUser!!))
+                    adapter.add(ChatRowTo(chatMessage.text, toUser!!))
                 }
             }
 
@@ -115,35 +116,5 @@ class ChatActivity: AppCompatActivity() {
 
     private fun scrollToBottom() {
         recyclerview_chat_log.scrollToPosition(adapter.itemCount -1)
-    }
-}
-
-class ChatItemFrom(val text: String, val user: User): Item<GroupieViewHolder>() {
-
-    override fun bind(viewHolder: GroupieViewHolder, position: Int) {
-        viewHolder.itemView.textView_chat_row_from.text = text
-
-        val uri = user.profileImageUrl
-        val targetImageView = viewHolder.itemView.imageView_chat_row_from
-        Picasso.get().load(uri).into(targetImageView)
-    }
-
-    override fun getLayout(): Int {
-        return R.layout.chat_row_from
-    }
-}
-
-class ChatItemTo(val text: String, val user: User): Item<GroupieViewHolder>() {
-
-    override fun bind(viewHolder: GroupieViewHolder, position: Int) {
-        viewHolder.itemView.textView_chat_row_to.text = text
-
-        val uri = user.profileImageUrl
-        val targetImageView = viewHolder.itemView.imageView_chat_row_to
-        Picasso.get().load(uri).into(targetImageView)
-    }
-
-    override fun getLayout(): Int {
-        return R.layout.chat_row_to
     }
 }

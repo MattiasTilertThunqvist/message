@@ -8,6 +8,7 @@ import com.google.firebase.firestore.FirebaseFirestore
 import com.squareup.picasso.Picasso
 import com.tilert.message.R
 import com.tilert.message.models.User
+import com.tilert.message.views.UserRow
 import com.xwray.groupie.GroupAdapter
 import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
@@ -39,11 +40,11 @@ class NewChatActivity: AppCompatActivity() {
 
             for (document in result) {
                 val user = document.toObject(User::class.java)
-                adapter.add(UserItem(user))
+                adapter.add(UserRow(user))
             }
 
             adapter.setOnItemClickListener { item, view ->
-                val userItem = item as UserItem
+                val userItem = item as UserRow
                 val user = userItem.user
                 startChatActivity(user)
             }
@@ -61,19 +62,5 @@ class NewChatActivity: AppCompatActivity() {
         intent.putExtra(ChatActivity.USER_KEY, user)
         startActivity(intent)
         finish()
-    }
-}
-
-
-class UserItem(val user: User): Item<GroupieViewHolder>() {
-
-    override fun bind(viewHolder: GroupieViewHolder, position: Int) {
-        viewHolder.itemView.username_textview_new_chat.text = user.username
-        Picasso.get().isLoggingEnabled = true
-        Picasso.get().load(user.profileImageUrl).into(viewHolder.itemView.profile_imageview_new_chat)
-    }
-
-    override fun getLayout(): Int {
-        return R.layout.user_row_new_chat
     }
 }
