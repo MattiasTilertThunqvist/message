@@ -7,15 +7,15 @@ import com.xwray.groupie.GroupieViewHolder
 import com.xwray.groupie.Item
 import kotlinx.android.synthetic.main.user_row_chat_overview.view.*
 
-class ChatOverviewRow(val textMessage: String, val username: String, val profileImageUrl: String, val timestamp: String): Item<GroupieViewHolder>() {
+class ChatOverviewRow(val textMessage: String, val user: User, val timestamp: String): Item<GroupieViewHolder>() {
 
     override fun bind(viewHolder: GroupieViewHolder, position: Int) {
-        viewHolder.itemView.row_chat_overview_username.text = username
+        viewHolder.itemView.row_chat_overview_username.text = user.username
         viewHolder.itemView.row_chat_overview_message.text = textMessage
         viewHolder.itemView.row_chat_overview_timestamp.text = timestamp
 
         val targetImageView = viewHolder.itemView.row_chat_overview_profileImageView
-        Picasso.get().load(profileImageUrl).into(targetImageView)
+        Picasso.get().load(user.profileImageUrl).into(targetImageView)
     }
 
     override fun getLayout(): Int {

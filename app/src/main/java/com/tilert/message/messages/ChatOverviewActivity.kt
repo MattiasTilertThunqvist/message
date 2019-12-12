@@ -24,7 +24,6 @@ import kotlinx.android.synthetic.main.user_row_chat_overview.view.*
 class ChatOverviewActivity: AppCompatActivity() {
 
     val adapter = GroupAdapter<GroupieViewHolder>()
-    var chatPartners = ArrayList<User>()
 
     companion object {
         var currentUser: User? = null
@@ -111,8 +110,8 @@ class ChatOverviewActivity: AppCompatActivity() {
         recyclerview_chat_overview.addItemDecoration(DividerItemDecoration(this, DividerItemDecoration.VERTICAL))
 
         adapter.setOnItemClickListener { item, view ->
-            val index = adapter.getAdapterPosition(item)
-            val chatPartner = chatPartners[index]
+            val chatOverviewRow = item as ChatOverviewRow
+            val chatPartner = chatOverviewRow.user
             startChatActivity(chatPartner)
         }
     }
@@ -129,9 +128,6 @@ class ChatOverviewActivity: AppCompatActivity() {
 
             // Remove items from adapter
             adapter.clear()
-
-            // Remove users. The order of the list may have changed due to new messages.
-            chatPartners.clear()
 
             val snapshot = snapshot.let { it } ?: return@addSnapshotListener
 
@@ -155,9 +151,8 @@ class ChatOverviewActivity: AppCompatActivity() {
                     }
 
                     val chatPartner = it.toObject(User::class.java) ?: return@addOnSuccessListener
-                    chatPartners.add(chatPartner)
 
-                    val chatOverviewItem = ChatOverviewRow(chatMessage.text, chatPartner.username, chatPartner.profileImageUrl, "MocketTimestamp")
+                    val chatOverviewItem = ChatOverviewRow(chatMessage.text, chatPartner, "MocketTimestamp")
                     adapter.add(chatOverviewItem)
                 }
             }

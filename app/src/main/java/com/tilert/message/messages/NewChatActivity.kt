@@ -44,8 +44,8 @@ class NewChatActivity: AppCompatActivity() {
             }
 
             adapter.setOnItemClickListener { item, view ->
-                val userItem = item as UserRow
-                val user = userItem.user
+                val userRow = item as UserRow
+                val user = userRow.user
                 startChatActivity(user)
             }
 
