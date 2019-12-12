@@ -4,6 +4,7 @@ import android.content.Intent
 import android.os.Bundle
 import android.util.Log
 import androidx.appcompat.app.AppCompatActivity
+import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.firestore.FirebaseFirestore
 import com.squareup.picasso.Picasso
 import com.tilert.message.R
@@ -40,7 +41,11 @@ class NewChatActivity: AppCompatActivity() {
 
             for (document in result) {
                 val user = document.toObject(User::class.java)
-                adapter.add(UserRow(user))
+
+                // Make sure that the user itself is not displayed. A user can not chat with himself.
+                if (user.uid != FirebaseAuth.getInstance().uid) {
+                    adapter.add(UserRow(user))
+                }
             }
 
             adapter.setOnItemClickListener { item, view ->
