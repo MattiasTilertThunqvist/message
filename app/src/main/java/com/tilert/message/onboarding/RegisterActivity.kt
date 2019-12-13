@@ -121,6 +121,7 @@ class RegisterActivity : AppCompatActivity() {
 
             .addOnFailureListener { exception ->
                 Log.d("RegisterActivity", "Failed to save user to Firestore: $exception")
+                Toast.makeText(this, "Failed to create account", Toast.LENGTH_SHORT).show()
             }
     }
 }

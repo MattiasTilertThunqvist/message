@@ -62,14 +62,7 @@ class ChatOverviewActivity: AppCompatActivity() {
             }
         }
 
-
         return super.onOptionsItemSelected(item)
-    }
-
-    private fun startRegisterActivity() {
-        val intent = Intent(this, RegisterActivity::class.java)
-        intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK.or(Intent.FLAG_ACTIVITY_NEW_TASK)
-        startActivity(intent)
     }
 
     private fun verifyUserIsLoggedIn() {
@@ -78,6 +71,12 @@ class ChatOverviewActivity: AppCompatActivity() {
         if (uid == null) {
             startRegisterActivity()
         }
+    }
+
+    private fun startRegisterActivity() {
+        val intent = Intent(this, RegisterActivity::class.java)
+        intent.flags = Intent.FLAG_ACTIVITY_CLEAR_TASK.or(Intent.FLAG_ACTIVITY_NEW_TASK)
+        startActivity(intent)
     }
 
     private fun fetchCurrentUser() {
