@@ -1,6 +1,7 @@
 package com.tilert.message.messages
 
 import android.content.Intent
+import android.net.Uri
 import android.os.Bundle
 import android.util.Log
 import android.view.Menu
@@ -45,25 +46,19 @@ class ChatOverviewActivity: AppCompatActivity() {
 
     override fun onOptionsItemSelected(item: MenuItem?): Boolean {
         when (item?.itemId) {
-            R.id.action_settings -> {
-
-            }
-
             R.id.action_term_conditions -> {
-
+                val uri = Uri.parse("https://www.termsfeed.com/blog/sample-terms-and-conditions-template/")
+                startWebBrowser(uri)
             }
 
             R.id.action_licenses -> {
-
+                val uri = Uri.parse("https://www.lawinsider.com/clause/software-license")
+                startWebBrowser(uri)
             }
 
             R.id.action_logout -> {
                 FirebaseAuth.getInstance().signOut()
                 startRegisterActivity()
-            }
-
-            R.id.action_delete_account -> {
-
             }
         }
 
@@ -168,5 +163,10 @@ class ChatOverviewActivity: AppCompatActivity() {
         val intent = Intent(this, ChatActivity::class.java)
         intent.putExtra(ChatActivity.USER_KEY, chatPartner)
         startActivity(intent)
+    }
+
+    private fun startWebBrowser(uri: Uri) {
+        val browserIntent = Intent(Intent.ACTION_VIEW, uri)
+        startActivity(browserIntent)
     }
 }

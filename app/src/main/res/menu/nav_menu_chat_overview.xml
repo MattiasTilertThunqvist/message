@@ -10,12 +10,6 @@
         app:showAsAction="always">
 
         <menu>
-
-            <item
-                android:id="@+id/action_settings"
-                android:title="Profile settings"
-                app:showAsAction="ifRoom" />
-
             <item
                 android:id="@+id/action_term_conditions"
                 android:title="Terms and conditions" />
@@ -26,10 +20,6 @@
                 android:id="@+id/action_logout"
                 android:title="Log out"
                 app:showAsAction="ifRoom" />
-            <item
-                android:id="@+id/action_delete_account"
-                android:title="Delete account" />
-
         </menu>
 
     </item>
