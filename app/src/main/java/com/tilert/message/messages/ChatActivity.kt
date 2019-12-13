@@ -87,16 +87,18 @@ class ChatActivity: AppCompatActivity() {
     }
 
     private fun handleSendMessage() {
+        val text = edittext_chat_log.text.toString()
+        if (text == "") return
+
         val fromId = FirebaseAuth.getInstance().uid.let { it } ?: return
         val toId = intent.getParcelableExtra<User>(USER_KEY).uid
 
         val documentRef = messagesFirestoreRef.document("$fromId").collection("$toId").document()
         val toDocumentRef = messagesFirestoreRef.document("$toId").collection("$fromId").document()
 
-        val id = documentRef.id
-        val text = edittext_chat_log.text.toString()
+        val documentId = documentRef.id
         val timestamp = System.currentTimeMillis()
-        val chatMessage = ChatMessage(id, text, fromId, toId, timestamp)
+        val chatMessage = ChatMessage(documentId, text, fromId, toId, timestamp)
 
         documentRef.set(chatMessage)
             .addOnSuccessListener {
