@@ -58,6 +58,7 @@ class ChatOverviewActivity: AppCompatActivity() {
 
             R.id.action_logout -> {
                 FirebaseAuth.getInstance().signOut()
+                adapter.clear()
                 startRegisterActivity()
             }
         }
