@@ -70,8 +70,8 @@ class RegisterActivity : AppCompatActivity() {
         val email = email_edittext_register.text.toString()
         val password = password_edittext_register.text.toString()
 
-        if(email.isEmpty() || password.isEmpty()) {
-            Toast.makeText(this, "Plese enter email/password", Toast.LENGTH_SHORT).show()
+        if(email.isEmpty() || password.isEmpty() || username_edittext_register.text.toString().isEmpty()) {
+            Toast.makeText(this, "Plese enter text in all fields", Toast.LENGTH_SHORT).show()
             return
         }
 
