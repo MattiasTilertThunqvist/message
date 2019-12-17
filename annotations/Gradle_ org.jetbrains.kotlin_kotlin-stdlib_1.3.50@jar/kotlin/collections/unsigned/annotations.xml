@@ -1,0 +1,26 @@
+<root>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.1 kotlin.UInt get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.3 java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.2 java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.1 java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.4 kotlin.UShort get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.2 kotlin.ULong get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.3 kotlin.UByte get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.collections.unsigned.UArraysKt___UArraysJvmKt.asList.4 java.lang.Object get(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

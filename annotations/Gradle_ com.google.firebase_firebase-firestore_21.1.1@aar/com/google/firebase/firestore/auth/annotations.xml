@@ -1,0 +1,20 @@
+<root>
+    <item name='com.google.firebase.firestore.auth.EmptyCredentialsProvider void setChangeListener(com.google.firebase.firestore.util.Listener&lt;com.google.firebase.firestore.auth.User&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.auth.FirebaseAuthCredentialsProvider void setChangeListener(com.google.firebase.firestore.util.Listener&lt;com.google.firebase.firestore.auth.User&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.auth.CredentialsProvider void setChangeListener(com.google.firebase.firestore.util.Listener&lt;com.google.firebase.firestore.auth.User&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.auth.User UNAUTHENTICATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.auth.FirebaseAuthCredentialsProvider FirebaseAuthCredentialsProvider(com.google.firebase.auth.internal.InternalAuthProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

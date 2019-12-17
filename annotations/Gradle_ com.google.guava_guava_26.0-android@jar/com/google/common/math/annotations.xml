@@ -1,0 +1,254 @@
+<root>
+    <item name='com.google.common.math.Stats double meanOf(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator void addAll(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.Scale com.google.common.math.Quantiles.ScaleAndIndexes indexes(int...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats double meanOf(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath java.math.BigInteger floorPowerOfTwo(java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles com.google.common.math.Quantiles.ScaleAndIndex median()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath int log10(java.math.BigInteger, java.math.RoundingMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath double mean(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath int roundToInt(double, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndex double compute(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndexes java.util.Map&lt;java.lang.Integer,java.lang.Double&gt; compute(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator void addAll(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStatsAccumulator com.google.common.math.Stats yStats()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation com.google.common.math.LinearTransformation forNaN()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.Scale com.google.common.math.Quantiles.ScaleAndIndexes indexes(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles com.google.common.math.Quantiles.Scale scale(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator void addAll(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndexes java.util.Map&lt;java.lang.Integer,java.lang.Double&gt; computeInPlace(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath java.math.BigInteger sqrt(java.math.BigInteger, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation com.google.common.math.LinearTransformation inverse()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndex double compute(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath java.math.BigInteger ceilingPowerOfTwo(java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(java.lang.Iterable&lt;? extends java.lang.Number&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath boolean isPowerOfTwo(java.math.BigInteger) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.IntMath int log2(int, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStatsAccumulator com.google.common.math.LinearTransformation leastSquaresFit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats fromByteArray(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation.LinearTransformationBuilder com.google.common.math.LinearTransformation and(double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStatsAccumulator void addAll(com.google.common.math.PairedStats) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats double meanOf(int...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStatsAccumulator com.google.common.math.PairedStats snapshot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(long...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndex double compute(java.util.Collection&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStats com.google.common.math.LinearTransformation leastSquaresFit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator com.google.common.math.Stats snapshot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LongMath int log2(long, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation com.google.common.math.LinearTransformation vertical(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.IntMath int log10(int, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.IntMath int sqrt(int, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation com.google.common.math.LinearTransformation horizontal(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LongMath int log10(long, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStats com.google.common.math.PairedStats fromByteArray(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(java.util.Iterator&lt;? extends java.lang.Number&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator void addAll(com.google.common.math.Stats) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(double...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStatsAccumulator com.google.common.math.Stats xStats()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator void addAll(java.lang.Iterable&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath java.math.BigInteger roundToBigInteger(double, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndexes java.util.Map&lt;java.lang.Integer,java.lang.Double&gt; compute(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats double meanOf(java.util.Iterator&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(int...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.Scale com.google.common.math.Quantiles.ScaleAndIndexes indexes(java.util.Collection&lt;java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats double meanOf(java.lang.Iterable&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath int log2(java.math.BigInteger, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath double mean(java.util.Iterator&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation.LinearTransformationBuilder com.google.common.math.LinearTransformation withSlope(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.Scale com.google.common.math.Quantiles.ScaleAndIndexes indexes(java.util.Collection&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles com.google.common.math.Quantiles.Scale percentiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath double mean(java.lang.Iterable&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LinearTransformation com.google.common.math.LinearTransformation.LinearTransformationBuilder mapping(double, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats fromByteArray(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.Scale com.google.common.math.Quantiles.ScaleAndIndex index(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LongMath long sqrt(long, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndex double computeInPlace(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.StatsAccumulator void addAll(java.util.Iterator&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles com.google.common.math.Quantiles.Scale quartiles()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.IntMath int divide(int, int, java.math.RoundingMode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath long roundToLong(double, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndexes java.util.Map&lt;java.lang.Integer,java.lang.Double&gt; compute(java.util.Collection&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(java.util.Iterator&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath int log10(java.math.BigInteger, java.math.RoundingMode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.PairedStats com.google.common.math.PairedStats fromByteArray(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(java.lang.Iterable&lt;? extends java.lang.Number&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath int log2(java.math.BigInteger, java.math.RoundingMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath double mean(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.DoubleMath double mean(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.LongMath long divide(long, long, java.math.RoundingMode) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndex double compute(double...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.BigIntegerMath java.math.BigInteger sqrt(java.math.BigInteger, java.math.RoundingMode) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Stats com.google.common.math.Stats of(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.math.Quantiles.ScaleAndIndexes java.util.Map&lt;java.lang.Integer,java.lang.Double&gt; compute(long...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

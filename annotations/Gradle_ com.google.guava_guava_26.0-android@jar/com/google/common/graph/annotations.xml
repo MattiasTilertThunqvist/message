@@ -1,0 +1,761 @@
+<root>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.Network&lt;N,E&gt; transpose(com.google.common.graph.Network&lt;N,E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graph java.util.Set&lt;com.google.common.graph.EndpointPair&lt;N&gt;&gt; incidentEdges(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;N&gt; expectedNodeCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph boolean hasEdgeConnecting(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs boolean hasCycle(com.google.common.graph.Graph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph V edgeValueOrDefault(N, N, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ImmutableNetwork&lt;N,E&gt; copyOf(com.google.common.graph.Network&lt;N,E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;N,V&gt; allowsSelfLoops(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.Graph&lt;N&gt; transitiveClosure(com.google.common.graph.Graph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.graph.EndpointPair&lt;N&gt; ordered(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableNetwork&lt;N,E&gt; copyOf(com.google.common.graph.Network&lt;N,E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph com.google.common.graph.ImmutableGraph&lt;N&gt; copyOf(com.google.common.graph.ImmutableGraph&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network java.util.Set&lt;N&gt; nodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.AbstractNetwork java.util.Set&lt;E&gt; adjacentEdges(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graph java.util.Set&lt;N&gt; successors(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph java.lang.Object edgeValueOrDefault(java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph V putEdgeValue(N, N, V) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ElementOrder.Type UNORDERED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;N1,V&gt; nodeOrder(com.google.common.graph.ElementOrder&lt;N1&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph com.google.common.graph.ElementOrder&lt;N&gt; nodeOrder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.MutableNetwork boolean addEdge(N, N, E) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E&gt; expectedNodeCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableValueGraph&lt;N,V&gt; copyOf(com.google.common.graph.ValueGraph&lt;N,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N1,E&gt; nodeOrder(com.google.common.graph.ElementOrder&lt;N1&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractNetwork java.util.Set&lt;E&gt; adjacentEdges(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableValueGraph&lt;N,V&gt; inducedSubgraph(com.google.common.graph.ValueGraph&lt;N,V&gt;, java.lang.Iterable&lt;? extends N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser com.google.common.graph.Traverser&lt;N&gt; forTree(com.google.common.graph.SuccessorsFunction&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser com.google.common.graph.Traverser&lt;N&gt; forGraph(com.google.common.graph.SuccessorsFunction&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;java.lang.Object,java.lang.Object&gt; undirected()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.ImmutableGraph&lt;N&gt; asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network java.util.Set&lt;E&gt; adjacentEdges(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.AbstractValueGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.SuccessorsFunction java.lang.Iterable&lt;? extends N&gt; successors(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.collect.UnmodifiableIterator&lt;N&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;N,V&gt; from(com.google.common.graph.ValueGraph&lt;N,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.graph.EndpointPair&lt;N&gt; unordered(N, N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;N&gt; from(com.google.common.graph.Graph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ElementOrder com.google.common.graph.ElementOrder&lt;S&gt; sorted(java.util.Comparator&lt;S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs boolean hasCycle(com.google.common.graph.Network&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.ImmutableValueGraph&lt;N,V&gt; copyOf(com.google.common.graph.ImmutableValueGraph&lt;N,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph java.util.Set&lt;com.google.common.graph.EndpointPair&lt;N&gt;&gt; edges()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E&gt; allowsSelfLoops(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;N1,V&gt; nodeOrder(com.google.common.graph.ElementOrder&lt;N1&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableGraph boolean addNode(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.ImmutableValueGraph&lt;N,V&gt; copyOf(com.google.common.graph.ValueGraph&lt;N,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractNetwork com.google.common.graph.Graph&lt;N&gt; asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableNetwork boolean addEdge(N, N, E) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.AbstractGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractGraph java.util.Set incidentEdges(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph boolean addNode(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableValueGraph&lt;N,V&gt; inducedSubgraph(com.google.common.graph.ValueGraph&lt;N,V&gt;, java.lang.Iterable&lt;? extends N&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph V removeEdge(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;java.lang.Object,java.lang.Object&gt; directed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E&gt; expectedEdgeCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph com.google.common.graph.ImmutableGraph&lt;N&gt; copyOf(com.google.common.graph.ImmutableGraph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.MutableGraph boolean removeEdge(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPostOrder(java.lang.Iterable&lt;? extends N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;N&gt; allowsSelfLoops(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network boolean hasEdgeConnecting(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.Graph asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork java.util.Set successors(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ElementOrder.Type INSERTION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ElementOrder com.google.common.graph.ElementOrder&lt;S&gt; natural()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.EndpointPair java.util.Iterator iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableNetwork&lt;N,E&gt; copyOf(com.google.common.graph.Network&lt;N,E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph V putEdgeValue(N, N, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph com.google.common.graph.ImmutableGraph&lt;N&gt; copyOf(com.google.common.graph.Graph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network com.google.common.graph.EndpointPair&lt;N&gt; incidentNodes(E)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;N&gt; from(com.google.common.graph.Graph&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph java.util.Set successors(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ValueGraph V edgeValueOrDefault(N, N, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ValueGraph boolean hasEdgeConnecting(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs java.util.Set&lt;N&gt; reachableNodes(com.google.common.graph.Graph&lt;N&gt;, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableValueGraph&lt;N,V&gt; inducedSubgraph(com.google.common.graph.ValueGraph&lt;N,V&gt;, java.lang.Iterable&lt;? extends N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph boolean removeNode(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPostOrder(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph V removeEdge(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableNetwork&lt;N,E&gt; inducedSubgraph(com.google.common.graph.Network&lt;N,E&gt;, java.lang.Iterable&lt;? extends N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.ImmutableValueGraph&lt;N,V&gt; copyOf(com.google.common.graph.ImmutableValueGraph&lt;N,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractGraph java.util.Set incidentEdges(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N1,E&gt; nodeOrder(com.google.common.graph.ElementOrder&lt;N1&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableValueGraph&lt;N,V&gt; copyOf(com.google.common.graph.ValueGraph&lt;N,V&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableGraph boolean removeEdge(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ImmutableNetwork&lt;N,E&gt; copyOf(com.google.common.graph.ImmutableNetwork&lt;N,E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.ImmutableValueGraph&lt;N,V&gt; copyOf(com.google.common.graph.ValueGraph&lt;N,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableNetwork boolean removeEdge(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.MutableValueGraph V putEdgeValue(N, N, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E&gt; from(com.google.common.graph.Network&lt;N,E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network java.util.Set&lt;E&gt; adjacentEdges(E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Network java.util.Set&lt;N&gt; successors(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.Graph&lt;N&gt; transpose(com.google.common.graph.Graph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.Graph asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; breadthFirst(N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.AbstractNetwork boolean hasEdgeConnecting(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableGraph&lt;N&gt; inducedSubgraph(com.google.common.graph.Graph&lt;N&gt;, java.lang.Iterable&lt;? extends N&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graph boolean hasEdgeConnecting(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableNetwork&lt;N,E&gt; inducedSubgraph(com.google.common.graph.Network&lt;N,E&gt;, java.lang.Iterable&lt;? extends N&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph java.util.Set&lt;N&gt; nodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;java.lang.Object,java.lang.Object&gt; directed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph java.util.Set&lt;com.google.common.graph.EndpointPair&lt;N&gt;&gt; incidentEdges(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractValueGraph java.util.Set incidentEdges(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E1&gt; edgeOrder(com.google.common.graph.ElementOrder&lt;E1&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph com.google.common.graph.ImmutableGraph&lt;N&gt; copyOf(com.google.common.graph.Graph&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E&gt; allowsParallelEdges(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ElementOrder com.google.common.graph.ElementOrder&lt;S&gt; unordered()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.EndpointPair incidentNodes(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractValueGraph com.google.common.graph.Graph&lt;N&gt; asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graph java.util.Set&lt;com.google.common.graph.EndpointPair&lt;N&gt;&gt; edges()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.MutableValueGraph&lt;N1,V1&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network com.google.common.graph.ElementOrder&lt;N&gt; nodeOrder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Network java.util.Set&lt;E&gt; incidentEdges(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;java.lang.Object&gt; undirected()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network java.util.Set&lt;E&gt; edges()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; breadthFirst(java.lang.Iterable&lt;? extends N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair N nodeU()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graph boolean hasEdgeConnecting(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork java.util.Set edges()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableGraph&lt;N&gt; copyOf(com.google.common.graph.Graph&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E1&gt; edgeOrder(com.google.common.graph.ElementOrder&lt;E1&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPreOrder(java.lang.Iterable&lt;? extends N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ElementOrder.Type SORTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network boolean hasEdgeConnecting(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableGraph&lt;N&gt; inducedSubgraph(com.google.common.graph.Graph&lt;N&gt;, java.lang.Iterable&lt;? extends N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableNetwork&lt;N,E&gt; inducedSubgraph(com.google.common.graph.Network&lt;N,E&gt;, java.lang.Iterable&lt;? extends N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;N,E&gt; from(com.google.common.graph.Network&lt;N,E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ElementOrder com.google.common.graph.ElementOrder.Type type()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractValueGraph java.util.Set incidentEdges(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ImmutableNetwork&lt;N,E&gt; copyOf(com.google.common.graph.ImmutableNetwork&lt;N,E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph java.util.Set&lt;N&gt; successors(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ValueGraph com.google.common.graph.Graph&lt;N&gt; asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPostOrder(N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.MutableGraph&lt;N1&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableGraph boolean removeNode(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.graph.EndpointPair&lt;N&gt; unordered(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ElementOrder com.google.common.graph.ElementOrder&lt;S&gt; insertion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ImmutableNetwork&lt;N,E&gt; copyOf(com.google.common.graph.Network&lt;N,E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.Graph&lt;N&gt; transitiveClosure(com.google.common.graph.Graph&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ImmutableGraph&lt;N&gt; asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPostOrder(java.lang.Iterable&lt;? extends N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPreOrder(N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;N,V&gt; expectedNodeCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;N1&gt; nodeOrder(com.google.common.graph.ElementOrder&lt;N1&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.ValueGraph&lt;N,V&gt; transpose(com.google.common.graph.ValueGraph&lt;N,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.graph.EndpointPair&lt;N&gt; ordered(N, N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph java.util.Set nodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.NetworkBuilder&lt;java.lang.Object,java.lang.Object&gt; undirected()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ElementOrder edgeOrder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractValueGraph boolean hasEdgeConnecting(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableNetwork boolean removeNode(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.NetworkBuilder com.google.common.graph.MutableNetwork&lt;N1,E1&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.EndpointPair N adjacentNode(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork java.util.Set incidentEdges(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; breadthFirst(java.lang.Iterable&lt;? extends N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair N nodeV()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableGraph&lt;N&gt; copyOf(com.google.common.graph.Graph&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser com.google.common.graph.Traverser&lt;N&gt; forTree(com.google.common.graph.SuccessorsFunction&lt;N&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;java.lang.Object&gt; directed()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph com.google.common.graph.ElementOrder nodeOrder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.MutableNetwork boolean addEdge(N, N, E) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.MutableNetwork boolean addNode(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.graph.EndpointPair&lt;N&gt; unordered(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.GraphBuilder com.google.common.graph.GraphBuilder&lt;N1&gt; nodeOrder(com.google.common.graph.ElementOrder&lt;N1&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraphBuilder com.google.common.graph.ValueGraphBuilder&lt;N,V&gt; from(com.google.common.graph.ValueGraph&lt;N,V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractNetwork boolean hasEdgeConnecting(N, N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.ImmutableGraph java.util.Set successors(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair N adjacentNode(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ValueGraph java.util.Set&lt;com.google.common.graph.EndpointPair&lt;N&gt;&gt; incidentEdges(N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.AbstractValueGraph java.util.Set edges()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graphs com.google.common.graph.MutableGraph&lt;N&gt; inducedSubgraph(com.google.common.graph.Graph&lt;N&gt;, java.lang.Iterable&lt;? extends N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Graph java.util.Set&lt;com.google.common.graph.EndpointPair&lt;N&gt;&gt; incidentEdges(N)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPreOrder(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser com.google.common.graph.Traverser&lt;N&gt; forGraph(com.google.common.graph.SuccessorsFunction&lt;N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork java.util.Set nodes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; breadthFirst(N) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.EndpointPair com.google.common.graph.EndpointPair&lt;N&gt; ordered(N, N) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableValueGraph java.lang.Object edgeValueOrDefault(java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.AbstractGraph java.util.Set edges()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.ImmutableNetwork com.google.common.graph.ElementOrder nodeOrder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.common.graph.Network com.google.common.graph.ElementOrder&lt;E&gt; edgeOrder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Traverser java.lang.Iterable&lt;N&gt; depthFirstPreOrder(java.lang.Iterable&lt;? extends N&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.common.graph.Network com.google.common.graph.Graph&lt;N&gt; asGraph()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

@@ -1,0 +1,407 @@
+<root>
+    <item name='androidx.appcompat.app.AlertController.AlertParams AlertParams(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar WindowDecorActionBar(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatSeekBar createSeekBar(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar void addTab(androidx.appcompat.app.ActionBar.Tab, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatToggleButton createToggleButton(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setMessage(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatAutoCompleteTextView createAutoCompleteTextView(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setMultiChoiceItems(android.database.Cursor, java.lang.String, java.lang.String, android.content.DialogInterface.OnMultiChoiceClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatActivity void onCreateSupportNavigateUpTaskStack(androidx.core.app.TaskStackBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatMultiAutoCompleteTextView createMultiAutoCompleteTextView(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setContentDescription(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setNegativeButtonIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setPositiveButton(java.lang.CharSequence, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setTitle(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder android.content.Context getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setItems(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setTabListener(androidx.appcompat.app.ActionBar.TabListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setMultiChoiceItems(int, boolean[], android.content.DialogInterface.OnMultiChoiceClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar void addTab(androidx.appcompat.app.ActionBar.Tab, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setContentDescription(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar void removeTab(androidx.appcompat.app.ActionBar.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.app.AppCompatDelegate create(android.app.Activity, androidx.appcompat.app.AppCompatCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setCustomView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setText(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatCheckBox createCheckBox(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setOnCancelListener(android.content.DialogInterface.OnCancelListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.ActionModeImpl ActionModeImpl(androidx.appcompat.app.WindowDecorActionBar, android.content.Context, androidx.appcompat.view.ActionMode.Callback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setContentDescription(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar WindowDecorActionBar(android.app.Dialog) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog show()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.app.AppCompatDelegate create(android.app.Dialog, androidx.appcompat.app.AppCompatCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.app.AppCompatDelegate create(android.content.Context, android.app.Activity, androidx.appcompat.app.AppCompatCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setOnItemSelectedListener(android.widget.AdapterView.OnItemSelectedListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setPositiveButton(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setText(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar void addTab(androidx.appcompat.app.ActionBar.Tab, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setOnKeyListener(android.content.DialogInterface.OnKeyListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatImageButton createImageButton(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.ActionModeImpl android.view.Menu getMenu()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setNegativeButton(java.lang.CharSequence, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setCustomView(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.app.ActionBarDrawerToggle.Delegate getDrawerToggleDelegate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setView(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setTabListener(androidx.appcompat.app.ActionBar.TabListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar androidx.appcompat.app.ActionBar.Tab newTab()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDialogFragment android.app.Dialog onCreateDialog(android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatActivity boolean dispatchKeyEvent(android.view.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setCustomView(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setItems(java.lang.CharSequence[], android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setTitle(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar void addTab(androidx.appcompat.app.ActionBar.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setOnDismissListener(android.content.DialogInterface.OnDismissListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatTextView createTextView(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar void addTab(androidx.appcompat.app.ActionBar.Tab, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar void setCustomView(android.view.View, androidx.appcompat.app.ActionBar.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setSingleChoiceItems(java.lang.CharSequence[], int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setTag(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.view.ActionMode startSupportActionMode(androidx.appcompat.view.ActionMode.Callback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar void addTab(androidx.appcompat.app.ActionBar.Tab, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar void removeTab(androidx.appcompat.app.ActionBar.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setInverseBackgroundForced(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setAdapter(android.widget.ListAdapter, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setSingleChoiceItems(int, int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertController.AlertParams mContext'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertController.RecycleListView RecycleListView(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setNegativeButton(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatEditText createEditText(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.app.AppCompatDelegate create(android.content.Context, android.view.Window, androidx.appcompat.app.AppCompatCallback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate androidx.appcompat.app.AppCompatDelegate create(android.app.Dialog, androidx.appcompat.app.AppCompatCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setSingleChoiceItems(android.database.Cursor, int, java.lang.String, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setText(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatButton createButton(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar boolean onMenuKeyEvent(android.view.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setRecycleOnMeasureEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatDelegate android.view.View createView(android.view.View, java.lang.String, android.content.Context, android.util.AttributeSet) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setTag(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setCursor(android.database.Cursor, android.content.DialogInterface.OnClickListener, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setNeutralButton(java.lang.CharSequence, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatRatingBar createRatingBar(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.LayoutParams LayoutParams(androidx.appcompat.app.ActionBar.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatSpinner createSpinner(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.ActionModeImpl android.view.MenuInflater getMenuInflater()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setIcon(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setIconAttribute(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar void addTab(androidx.appcompat.app.ActionBar.Tab, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setMultiChoiceItems(java.lang.CharSequence[], boolean[], android.content.DialogInterface.OnMultiChoiceClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar androidx.appcompat.app.ActionBar.Tab newTab()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar WindowDecorActionBar(android.app.Activity, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setNeutralButtonIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setMessage(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar void setCustomView(android.view.View, androidx.appcompat.app.ActionBar.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertController.RecycleListView RecycleListView(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setContentDescription(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setCustomView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setPositiveButtonIcon(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setView(android.view.View, int, int, int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatImageView createImageView(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setIcon(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatCheckedTextView createCheckedTextView(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setCancelable(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.Tab androidx.appcompat.app.ActionBar.Tab setIcon(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar void addTab(androidx.appcompat.app.ActionBar.Tab) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setSingleChoiceItems(android.widget.ListAdapter, int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setCustomTitle(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.ActionBar.LayoutParams LayoutParams(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setNeutralButton(int, android.content.DialogInterface.OnClickListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.WindowDecorActionBar.TabImpl androidx.appcompat.app.ActionBar.Tab setText(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatSpinner createSpinner(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AppCompatViewInflater androidx.appcompat.widget.AppCompatRadioButton createRadioButton(android.content.Context, android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.app.AlertDialog.Builder androidx.appcompat.app.AlertDialog.Builder setView(android.view.View)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

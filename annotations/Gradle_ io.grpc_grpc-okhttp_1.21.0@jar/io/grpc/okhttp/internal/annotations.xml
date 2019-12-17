@@ -1,0 +1,467 @@
+<root>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder cipherSuites(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util EMPTY_STRING_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform void configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List&lt;io.grpc.okhttp.internal.Protocol&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform.TlsExtensionType NPN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_DES_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_EXPORT_WITH_RC4_40_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util boolean skipAll(okio.Source, int, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol io.grpc.okhttp.internal.Protocol get(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder Builder(io.grpc.okhttp.internal.ConnectionSpec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder cipherSuites(io.grpc.okhttp.internal.CipherSuite...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.TlsVersion SSL_3_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform byte[] concatLengthPrefixed(java.util.List&lt;io.grpc.okhttp.internal.Protocol&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder cipherSuites(io.grpc.okhttp.internal.CipherSuite...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol GRPC_EXP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder tlsVersions(io.grpc.okhttp.internal.TlsVersion...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util okio.ByteString sha1(okio.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform void connectSocket(java.net.Socket, java.net.InetSocketAddress, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_NULL_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_EXPORT_WITH_DES40_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_NULL_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol HTTP_1_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_EXPORT_WITH_RC4_40_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util EMPTY_BYTE_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_AES_256_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol HTTP_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_WITH_DES_CBC_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_EXPORT_WITH_RC4_40_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_AES_256_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_EXPORT_WITH_DES_CBC_40_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec void apply(javax.net.ssl.SSLSocket, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_RC4_128_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_anon_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_NULL_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform.TlsExtensionType ALPN_AND_NPN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.TlsVersion TLS_1_0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform io.grpc.okhttp.internal.Platform.TlsExtensionType getTlsExtensionType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util java.lang.String md5Hex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol io.grpc.okhttp.internal.Protocol get(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_WITH_3DES_EDE_CBC_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_WITH_DES_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_EXPORT_WITH_RC4_40_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.TlsVersion TLS_1_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util java.lang.String toHumanReadableAscii(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder tlsVersions(io.grpc.okhttp.internal.TlsVersion...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder tlsVersions(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec COMPATIBLE_TLS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform.TlsExtensionType NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_NULL_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_NULL_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec CLEARTEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OkHostnameVerifier INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util T[] intersect(java.lang.Class&lt;T&gt;, T[], T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OptionalMethod java.lang.Object invoke(T, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OptionalMethod java.lang.Object invokeOptional(T, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_NULL_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util java.util.List&lt;T&gt; immutableList(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec MODERN_TLS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_anon_WITH_NULL_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform java.lang.String getSelectedProtocol(javax.net.ssl.SSLSocket) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol SPDY_3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.TlsVersion TLS_1_2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec.Builder supportsTlsExtensions(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OptionalMethod boolean isSupported(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_AES_256_CBC_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_anon_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_RC4_128_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util boolean isAndroidGetsocknameError(java.lang.AssertionError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_EXPORT_WITH_DES40_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform io.grpc.okhttp.internal.Platform get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Platform void configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List&lt;io.grpc.okhttp.internal.Protocol&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util java.util.concurrent.ThreadFactory threadFactory(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_ECDSA_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_AES_256_CBC_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OptionalMethod java.lang.Object invokeOptionalWithoutCheckedException(T, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_AES_256_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util boolean skipAll(okio.Source, int, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OptionalMethod java.lang.Object invokeWithoutCheckedException(T, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_EMPTY_RENEGOTIATION_INFO_SCSV'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_NULL_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_anon_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_DES_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_EXPORT_WITH_DES40_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_WITH_RC4_128_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Protocol HTTP_1_1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_AES_256_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_RC4_128_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_RSA_WITH_AES_128_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.OkHostnameVerifier java.util.List&lt;java.lang.String&gt; allSubjectAltNames(java.security.cert.X509Certificate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_DES_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_AES_256_CBC_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.TlsVersion io.grpc.okhttp.internal.TlsVersion forJavaName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_WITH_DES_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite io.grpc.okhttp.internal.CipherSuite forJavaName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDHE_RSA_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_AES_128_GCM_SHA256'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.Util java.lang.String shaBase64(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_KRB5_EXPORT_WITH_DES_CBC_40_MD5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DH_anon_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.ConnectionSpec.Builder io.grpc.okhttp.internal.ConnectionSpec build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_anon_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_RSA_WITH_AES_128_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_ECDH_ECDSA_WITH_3DES_EDE_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_DSS_EXPORT_WITH_DES40_CBC_SHA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.internal.CipherSuite TLS_DHE_RSA_WITH_AES_256_GCM_SHA384'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

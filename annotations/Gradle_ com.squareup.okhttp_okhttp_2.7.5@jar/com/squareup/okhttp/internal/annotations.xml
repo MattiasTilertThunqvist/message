@@ -1,0 +1,239 @@
+<root>
+    <item name='com.squareup.okhttp.internal.Internal void addLenient(com.squareup.okhttp.Headers.Builder, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util T[] intersect(java.lang.Class&lt;T&gt;, T[], T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.InternalCache void trackResponse(com.squareup.okhttp.internal.http.CacheStrategy) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.lang.String shaBase64(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform void log(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util boolean skipAll(okio.Source, int, java.util.concurrent.TimeUnit) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.HttpUrl getHttpUrlChecked(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.internal.io.RealConnection get(com.squareup.okhttp.ConnectionPool, com.squareup.okhttp.Address, com.squareup.okhttp.internal.http.StreamAllocation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform com.squareup.okhttp.internal.Platform get()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void callEnqueue(com.squareup.okhttp.Call, com.squareup.okhttp.Callback, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal boolean connectionBecameIdle(com.squareup.okhttp.ConnectionPool, com.squareup.okhttp.internal.io.RealConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.InternalCache void remove(com.squareup.okhttp.Request) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.internal.InternalCache internalCache(com.squareup.okhttp.OkHttpClient) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform void connectSocket(java.net.Socket, java.net.InetSocketAddress, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.DiskLruCache java.util.Iterator&lt;com.squareup.okhttp.internal.DiskLruCache.Snapshot&gt; snapshots()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.HttpUrl getHttpUrlChecked(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.ConnectionSpecSelector com.squareup.okhttp.ConnectionSpec configureSecureSocket(javax.net.ssl.SSLSocket)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.lang.String toHumanReadableAscii(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform void configureTlsExtensions(javax.net.ssl.SSLSocket, java.lang.String, java.util.List&lt;com.squareup.okhttp.Protocol&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.InternalCache com.squareup.okhttp.internal.http.CacheRequest put(com.squareup.okhttp.Response) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util EMPTY_STRING_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void addLenient(com.squareup.okhttp.Headers.Builder, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void put(com.squareup.okhttp.ConnectionPool, com.squareup.okhttp.internal.io.RealConnection) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void apply(com.squareup.okhttp.ConnectionSpec, javax.net.ssl.SSLSocket, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Version java.lang.String userAgent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.internal.RouteDatabase routeDatabase(com.squareup.okhttp.ConnectionPool)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void setCache(com.squareup.okhttp.OkHttpClient, com.squareup.okhttp.internal.InternalCache) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.InternalCache void update(com.squareup.okhttp.Response, com.squareup.okhttp.Response) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.internal.http.StreamAllocation callEngineGetStreamAllocation(com.squareup.okhttp.Call) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void addLenient(com.squareup.okhttp.Headers.Builder, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform com.squareup.okhttp.internal.tls.TrustRootIndex trustRootIndex(javax.net.ssl.X509TrustManager)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.util.concurrent.ThreadFactory threadFactory(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.internal.RouteDatabase routeDatabase(com.squareup.okhttp.ConnectionPool) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.lang.String md5Hex(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void addLenient(com.squareup.okhttp.Headers.Builder, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform com.squareup.okhttp.internal.tls.TrustRootIndex trustRootIndex(javax.net.ssl.X509TrustManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util boolean skipAll(okio.Source, int, java.util.concurrent.TimeUnit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal com.squareup.okhttp.internal.http.StreamAllocation callEngineGetStreamAllocation(com.squareup.okhttp.Call)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.lang.String hostHeader(com.squareup.okhttp.HttpUrl) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util EMPTY_BYTE_ARRAY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal void apply(com.squareup.okhttp.ConnectionSpec, javax.net.ssl.SSLSocket, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.lang.String[] concat(java.lang.String[], java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Platform java.lang.String getPrefix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.InternalCache void update(com.squareup.okhttp.Response, com.squareup.okhttp.Response) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.DiskLruCache com.squareup.okhttp.internal.DiskLruCache create(com.squareup.okhttp.internal.io.FileSystem, java.io.File, int, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util okio.ByteString sha1(okio.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.InternalCache com.squareup.okhttp.Response get(com.squareup.okhttp.Request) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.lang.String[] concat(java.lang.String[], java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util boolean isAndroidGetsocknameError(java.lang.AssertionError) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.Internal boolean connectionBecameIdle(com.squareup.okhttp.ConnectionPool, com.squareup.okhttp.internal.io.RealConnection) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.squareup.okhttp.internal.Util java.util.List&lt;T&gt; immutableList(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.squareup.okhttp.internal.DiskLruCache.Editor okio.Sink newSink(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

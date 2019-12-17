@@ -1,0 +1,23 @@
+<root>
+    <item name='androidx.core.database.CursorKt java.lang.Integer getIntOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.CursorKt byte[] getBlobOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.CursorKt java.lang.Long getLongOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.CursorKt java.lang.Short getShortOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.CursorKt java.lang.Float getFloatOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.CursorKt java.lang.Double getDoubleOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.database.CursorKt java.lang.String getStringOrNull(android.database.Cursor, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

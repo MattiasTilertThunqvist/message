@@ -1,0 +1,401 @@
+<root>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedDoubleGauge addDerivedDoubleGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedLongGauge void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToLongFunction&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.LongGauge addLongGauge(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleCumulative io.opencensus.metrics.DoubleCumulative.DoublePoint getDefaultTimeSeries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleGauge io.opencensus.metrics.DoubleGauge.DoublePoint getDefaultTimeSeries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LabelKey io.opencensus.metrics.LabelKey create(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.LongGauge io.opencensus.metrics.LongGauge.LongPoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setLabelKeys(java.util.List&lt;io.opencensus.metrics.LabelKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedDoubleGauge void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToDoubleFunction&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setUnit(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.LongGauge addLongGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedDoubleCumulative void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToDoubleFunction&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedLongCumulative void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setUnit(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleGauge io.opencensus.metrics.DoubleGauge.DoublePoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedDoubleGauge addDerivedDoubleGauge(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.LongCumulative addLongCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedLongCumulative void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToLongFunction&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongGauge io.opencensus.metrics.LongGauge.LongPoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedDoubleGauge addDerivedDoubleGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongCumulative void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedDoubleGauge void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.LongCumulative addLongCumulative(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LabelKey java.lang.String getKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricsComponent io.opencensus.metrics.export.ExportComponent getExportComponent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setConstantLabels(java.util.Map&lt;io.opencensus.metrics.LabelKey,io.opencensus.metrics.LabelValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LabelKey io.opencensus.metrics.LabelKey create(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.LabelKey java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DoubleCumulative addDoubleCumulative(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedLongGauge addDerivedLongGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleGauge void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleCumulative io.opencensus.metrics.DoubleCumulative.DoublePoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedLongGauge void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToLongFunction&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedDoubleGauge void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToDoubleFunction&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongCumulative io.opencensus.metrics.LongCumulative.LongPoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DoubleCumulative addDoubleCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DoubleGauge addDoubleGauge(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongCumulative io.opencensus.metrics.LongCumulative.LongPoint getDefaultTimeSeries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedLongGauge void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedDoubleCumulative void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToDoubleFunction&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedDoubleCumulative addDerivedDoubleCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongCumulative io.opencensus.metrics.LongCumulative.LongPoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongGauge void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedDoubleCumulative addDerivedDoubleCumulative(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleCumulative void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedLongCumulative addDerivedLongCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedLongCumulative void createTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;, T, io.opencensus.common.ToLongFunction&lt;T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DoubleGauge addDoubleGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricsComponent io.opencensus.metrics.MetricRegistry getMetricRegistry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleCumulative io.opencensus.metrics.DoubleCumulative.DoublePoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedLongGauge addDerivedLongGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DoubleGauge io.opencensus.metrics.DoubleGauge.DoublePoint getOrCreateTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedLongGauge addDerivedLongGauge(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setConstantLabels(java.util.Map&lt;io.opencensus.metrics.LabelKey,io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LabelKey io.opencensus.metrics.LabelKey create(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedLongCumulative addDerivedLongCumulative(java.lang.String, io.opencensus.metrics.MetricOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DoubleCumulative addDoubleCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LongGauge io.opencensus.metrics.LongGauge.LongPoint getDefaultTimeSeries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.LongGauge addLongGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedDoubleCumulative addDerivedDoubleCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DoubleGauge addDoubleGauge(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.LabelValue io.opencensus.metrics.LabelValue create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setLabelKeys(java.util.List&lt;io.opencensus.metrics.LabelKey&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.LongCumulative addLongCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricRegistry io.opencensus.metrics.DerivedLongCumulative addDerivedLongCumulative(java.lang.String, io.opencensus.metrics.MetricOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.MetricOptions.Builder io.opencensus.metrics.MetricOptions.Builder setDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.DerivedDoubleCumulative void removeTimeSeries(java.util.List&lt;io.opencensus.metrics.LabelValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

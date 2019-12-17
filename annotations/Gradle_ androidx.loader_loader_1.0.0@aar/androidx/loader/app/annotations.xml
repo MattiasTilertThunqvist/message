@@ -1,0 +1,23 @@
+<root>
+    <item name='androidx.loader.app.LoaderManager void dump(java.lang.String, java.io.FileDescriptor, java.io.PrintWriter, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.loader.app.LoaderManager androidx.loader.app.LoaderManager getInstance(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.loader.app.LoaderManagerImpl.LoaderInfo void dump(java.lang.String, java.io.FileDescriptor, java.io.PrintWriter, java.lang.String[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.loader.app.LoaderManager androidx.loader.app.LoaderManager getInstance(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.loader.app.LoaderManager androidx.loader.content.Loader&lt;D&gt; restartLoader(int, android.os.Bundle, androidx.loader.app.LoaderManager.LoaderCallbacks&lt;D&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

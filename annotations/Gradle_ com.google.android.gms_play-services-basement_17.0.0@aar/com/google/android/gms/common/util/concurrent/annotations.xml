@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.android.gms.common.util.concurrent.NamedThreadFactory NamedThreadFactory(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.concurrent.NamedThreadFactory java.lang.Thread newThread(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.concurrent.NumberedThreadFactory NumberedThreadFactory(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.concurrent.NumberedThreadFactory java.lang.Thread newThread(java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

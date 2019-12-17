@@ -1,0 +1,38 @@
+<root>
+    <item name='androidx.versionedparcelable.ParcelUtils void putVersionedParcelableList(android.os.Bundle, java.lang.String, java.util.List&lt;? extends androidx.versionedparcelable.VersionedParcelable&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.VersionedParcel java.lang.Throwable getRootCause(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.VersionedParcel void writeToParcel(T, androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.ParcelUtils android.os.Parcelable toParcelable(androidx.versionedparcelable.VersionedParcelable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.ParcelUtils void putVersionedParcelableList(android.os.Bundle, java.lang.String, java.util.List&lt;? extends androidx.versionedparcelable.VersionedParcelable&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.ParcelImpl CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.ParcelUtils T fromParcelable(android.os.Parcelable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.VersionedParcel java.lang.Throwable getRootCause(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.ParcelImpl ParcelImpl(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.ParcelImpl void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.versionedparcelable.VersionedParcel androidx.versionedparcelable.VersionedParcel createSubParcel()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

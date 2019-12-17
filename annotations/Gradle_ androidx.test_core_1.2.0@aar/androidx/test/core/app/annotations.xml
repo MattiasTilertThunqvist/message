@@ -1,0 +1,20 @@
+<root>
+    <item name='androidx.test.core.app.ActivityScenario androidx.test.core.app.ActivityScenario&lt;A&gt; launch(java.lang.Class&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.app.InstrumentationActivityInvoker.BootstrapActivity void onSaveInstanceState(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.app.ActivityScenario androidx.test.core.app.ActivityScenario&lt;A&gt; recreate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.app.ActivityScenario androidx.test.core.app.ActivityScenario&lt;A&gt; launch(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.app.ActivityScenario androidx.test.core.app.ActivityScenario&lt;A&gt; onActivity(androidx.test.core.app.ActivityScenario.ActivityAction&lt;A&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.app.ActivityScenario androidx.test.core.app.ActivityScenario&lt;A&gt; moveToState(androidx.lifecycle.Lifecycle.State)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

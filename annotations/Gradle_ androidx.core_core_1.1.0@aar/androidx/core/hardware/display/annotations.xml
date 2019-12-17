@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.core.hardware.display.DisplayManagerCompat androidx.core.hardware.display.DisplayManagerCompat getInstance(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.hardware.display.DisplayManagerCompat DISPLAY_CATEGORY_PRESENTATION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

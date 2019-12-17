@@ -1,0 +1,38 @@
+<root>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.2 void resume(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.2 void resume(kotlin.Unit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.2 void resumeWithException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.buildContinuationByInvokeCall.continuation.1 void resumeWithException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.1 void resume(kotlin.Unit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.buildContinuationByInvokeCall.continuation.1 void resume(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.buildContinuationByInvokeCall.continuation.1 void resume(kotlin.Unit) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.1 void resumeWithException(java.lang.Throwable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.1 void resume(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.2 kotlin.coroutines.experimental.CoroutineContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.createCoroutineUnchecked..inlined.buildContinuationByInvokeCall.IntrinsicsKt__IntrinsicsJvmKt.1 kotlin.coroutines.experimental.CoroutineContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.intrinsics.IntrinsicsKt__IntrinsicsJvmKt.buildContinuationByInvokeCall.continuation.1 kotlin.coroutines.experimental.CoroutineContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

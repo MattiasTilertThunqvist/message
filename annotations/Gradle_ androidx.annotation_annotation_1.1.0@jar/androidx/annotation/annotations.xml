@@ -1,0 +1,41 @@
+<root>
+    <item name='androidx.annotation.RestrictTo.Scope TESTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType GRAVITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.RestrictTo.Scope LIBRARY_GROUP_PREFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType COLOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.RestrictTo.Scope GROUP_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType INT_ENUM'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType INT_FLAG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.RestrictTo.Scope LIBRARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.RestrictTo.Scope LIBRARY_GROUP'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.RestrictTo.Scope SUBCLASSES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType RESOURCE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.annotation.InspectableProperty.ValueType INFERRED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,11 @@
+<root>
+    <item name='io.grpc.protobuf.lite.ProtoLiteUtils io.grpc.Metadata.BinaryMarshaller&lt;T&gt; metadataMarshaller(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.protobuf.lite.ProtoLiteUtils io.grpc.MethodDescriptor.Marshaller&lt;T&gt; marshaller(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.protobuf.lite.ProtoLiteUtils io.grpc.MethodDescriptor.Marshaller&lt;T&gt; marshaller(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

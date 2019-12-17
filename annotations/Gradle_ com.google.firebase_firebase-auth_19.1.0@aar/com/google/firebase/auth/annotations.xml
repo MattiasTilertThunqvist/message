@@ -1,0 +1,554 @@
+<root>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; reauthenticate(com.google.firebase.auth.AuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zzb(com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzai java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.AuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider com.google.firebase.auth.OAuthProvider.Builder newBuilder(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzj java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthProvider EMAIL_PASSWORD_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzk java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzg com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.zzg, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.PlayGamesAuthCredential, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider void zzc(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.AuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FederatedAuthProvider void zza(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.zzi java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzk java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider.ForceResendingToken com.google.firebase.auth.PhoneAuthProvider.ForceResendingToken zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzae com.google.firebase.auth.zzae zza(org.json.JSONObject) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzh java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.GoogleAuthCredential, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider.Builder com.google.firebase.auth.OAuthProvider.Builder setScopes(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzag java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthProvider PLAY_GAMES_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzw java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthProvider TWITTER_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuthUserCollisionException com.google.firebase.auth.FirebaseAuthUserCollisionException zza(com.google.firebase.auth.AuthCredential)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.GithubAuthCredential, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.firebase.auth.FirebaseUser zza(java.util.List&lt;? extends com.google.firebase.auth.UserInfo&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.zze java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzg com.google.firebase.auth.zzg zza(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzh java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzai java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zza(com.google.firebase.auth.FirebaseUser, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings.Builder com.google.firebase.auth.ActionCodeSettings.Builder setUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.PlayGamesAuthCredential, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider.Builder com.google.firebase.auth.OAuthProvider.Builder addCustomParameters(java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzah java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings.Builder com.google.firebase.auth.ActionCodeSettings.Builder setAndroidPackageName(java.lang.String, boolean, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings.Builder com.google.firebase.auth.ActionCodeSettings.Builder setDynamicLinkDomain(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FederatedAuthProvider void zzc(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuthUserCollisionException com.google.firebase.auth.FirebaseAuthUserCollisionException zzb(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider com.google.firebase.auth.OAuthProvider.Builder newBuilder(java.lang.String, com.google.firebase.auth.FirebaseAuth)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthProvider GITHUB_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth FirebaseAuth(com.google.firebase.FirebaseApp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.UserProfileChangeRequest.Builder com.google.firebase.auth.UserProfileChangeRequest.Builder setDisplayName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzah java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzg com.google.firebase.auth.zzg zza(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzw java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzj java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; updatePhoneNumber(com.google.firebase.auth.PhoneAuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; signInWithCredential(com.google.firebase.auth.AuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.firebase.auth.FirebaseUser zza(java.util.List&lt;? extends com.google.firebase.auth.UserInfo&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.firebase.auth.zzz zzh()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.GithubAuthCredential, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthProvider FACEBOOK_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzw java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.FacebookAuthCredential, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthProvider com.google.firebase.auth.AuthCredential getCredentialWithLink(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzj java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider.Builder com.google.firebase.auth.OAuthProvider.Builder addCustomParameters(java.util.Map&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzg CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; updateCurrentUser(com.google.firebase.auth.FirebaseUser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.GoogleAuthCredential, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings void zza(com.google.android.gms.internal.firebase_auth.zzgc) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzah java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.UserProfileChangeRequest CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzae org.json.JSONObject zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider.ForceResendingToken CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; reauthenticateAndRetrieveData(com.google.firebase.auth.AuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser void zzb(java.util.List&lt;com.google.firebase.auth.zzy&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider void zzb(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zze java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings.Builder com.google.firebase.auth.ActionCodeSettings.Builder setIOSBundleId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings.Builder com.google.firebase.auth.ActionCodeSettings build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.TwitterAuthCredential, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider com.google.firebase.auth.PhoneAuthProvider getInstance(com.google.firebase.auth.FirebaseAuth)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzaf java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; zza(com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.PhoneAuthCredential) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings com.google.firebase.auth.ActionCodeSettings.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; linkWithCredential(com.google.firebase.auth.AuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthProvider EMAIL_LINK_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zzc(com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzad java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.UserProfileChangeRequest.Builder com.google.firebase.auth.UserProfileChangeRequest.Builder setPhotoUri(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider com.google.firebase.auth.PhoneAuthCredential getCredential(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.FacebookAuthCredential, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.firebase.auth.FirebaseAuth getInstance(com.google.firebase.FirebaseApp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzae CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zze java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzaf java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzad java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzag java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzk java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FederatedAuthProvider void zzb(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.zzad java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; sendSignInLinkToEmail(java.lang.String, com.google.firebase.auth.ActionCodeSettings) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseUser com.google.firebase.auth.FirebaseUser zzb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential com.google.firebase.auth.PhoneAuthCredential zza(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuthUserCollisionException com.google.firebase.auth.FirebaseAuthUserCollisionException zza(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthProvider com.google.firebase.auth.AuthCredential getCredential(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider.Builder com.google.firebase.auth.OAuthProvider.Builder addCustomParameter(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzaf java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzai java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzh java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthProvider GOOGLE_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.AuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider PHONE_SIGN_IN_METHOD'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider com.google.firebase.auth.PhoneAuthProvider getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzz java.util.List&lt;com.google.firebase.auth.zzy&gt; zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthCredential com.google.firebase.auth.EmailAuthCredential zza(com.google.firebase.auth.FirebaseUser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzae com.google.firebase.auth.zzae zza(org.json.JSONObject)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider.Builder com.google.firebase.auth.OAuthProvider build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PlayGamesAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzag java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzg com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzx java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings com.google.firebase.auth.ActionCodeSettings zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzi java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.EmailAuthCredential com.google.firebase.auth.EmailAuthCredential zza(com.google.firebase.auth.FirebaseUser)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential com.google.firebase.auth.PhoneAuthCredential zza(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthCredential java.lang.String getProvider()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzx java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; zza(com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FacebookAuthCredential java.lang.String getSignInMethod()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.UserProfileChangeRequest.Builder com.google.firebase.auth.UserProfileChangeRequest build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GithubAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthProvider PROVIDER_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzi java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.FirebaseAuth com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zzc(com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.OAuthProvider void zza(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.PhoneAuthCredential java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzx java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.ActionCodeSettings.Builder com.google.firebase.auth.ActionCodeSettings.Builder setHandleCodeInApp(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.zzg com.google.firebase.auth.zzg zza(com.google.android.gms.internal.firebase_auth.zzft)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.GoogleAuthCredential com.google.firebase.auth.AuthCredential zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.TwitterAuthCredential com.google.android.gms.internal.firebase_auth.zzft zza(com.google.firebase.auth.TwitterAuthCredential, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

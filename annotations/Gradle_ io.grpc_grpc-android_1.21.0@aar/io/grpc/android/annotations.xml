@@ -1,0 +1,38 @@
+<root>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder transportExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder sslSocketFactory(javax.net.ssl.SSLSocketFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder forAddress(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder scheduledExecutorService(java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder forTarget(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder context(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.android.AndroidChannelBuilder fromBuilder(io.grpc.ManagedChannelBuilder&lt;?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.AndroidChannelBuilder io.grpc.ManagedChannel build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.android.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

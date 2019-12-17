@@ -1,0 +1,26 @@
+<root>
+    <item name='androidx.appcompat.widget.TintContextWrapper android.content.Context wrap(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.ResourceManagerInternal android.graphics.PorterDuffColorFilter getPorterDuffColorFilter(int, android.graphics.PorterDuff.Mode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.TintContextWrapper android.content.Context wrap(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.DrawableUtils android.graphics.Rect getOpticalBounds(android.graphics.drawable.Drawable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.DrawableUtils INSETS_NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.TintContextWrapper android.content.res.Resources getResources()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.ResourceManagerInternal android.graphics.PorterDuffColorFilter getPorterDuffColorFilter(int, android.graphics.PorterDuff.Mode) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.widget.VectorEnabledTintResources VectorEnabledTintResources(android.content.Context, android.content.res.Resources) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

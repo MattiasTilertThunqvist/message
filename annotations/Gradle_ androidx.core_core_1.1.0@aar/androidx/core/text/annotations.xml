@@ -1,0 +1,80 @@
+<root>
+    <item name='androidx.core.text.BidiFormatter.Builder androidx.core.text.BidiFormatter build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat androidx.core.text.PrecomputedTextCompat create(java.lang.CharSequence, androidx.core.text.PrecomputedTextCompat.Params) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicsCompat ANYRTL_LTR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicCompat boolean isRtl(java.lang.CharSequence, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.core.text.BidiFormatter.Builder androidx.core.text.BidiFormatter.Builder stereoReset(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat java.util.concurrent.Future&lt;androidx.core.text.PrecomputedTextCompat&gt; getTextFuture(java.lang.CharSequence, androidx.core.text.PrecomputedTextCompat.Params, java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.BidiFormatter boolean isRtl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.BidiFormatter androidx.core.text.BidiFormatter getInstance(java.util.Locale)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicsCompat LTR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.BidiFormatter androidx.core.text.BidiFormatter getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat androidx.core.text.PrecomputedTextCompat create(java.lang.CharSequence, androidx.core.text.PrecomputedTextCompat.Params)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicsCompat LOCALE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicsCompat RTL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.BidiFormatter.Builder androidx.core.text.BidiFormatter.Builder setTextDirectionHeuristic(androidx.core.text.TextDirectionHeuristicCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat.Params.Builder androidx.core.text.PrecomputedTextCompat.Params.Builder setHyphenationFrequency(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat androidx.core.text.PrecomputedTextCompat create(java.lang.CharSequence, androidx.core.text.PrecomputedTextCompat.Params) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat.Params.Builder androidx.core.text.PrecomputedTextCompat.Params.Builder setBreakStrategy(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat.Params.Builder androidx.core.text.PrecomputedTextCompat.Params build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.BidiFormatter boolean isRtl(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat.Params boolean equalsWithoutTextDirection(androidx.core.text.PrecomputedTextCompat.Params) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicsCompat FIRSTSTRONG_LTR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.TextDirectionHeuristicsCompat FIRSTSTRONG_RTL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat.Params.Builder androidx.core.text.PrecomputedTextCompat.Params.Builder setTextDirection(android.text.TextDirectionHeuristic)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.BidiFormatter androidx.core.text.BidiFormatter getInstance(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.text.PrecomputedTextCompat.Params Params(android.text.PrecomputedText.Params) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

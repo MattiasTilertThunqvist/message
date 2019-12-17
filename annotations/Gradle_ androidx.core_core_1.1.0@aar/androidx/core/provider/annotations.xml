@@ -1,0 +1,89 @@
+<root>
+    <item name='androidx.core.provider.FontsContractCompat void requestFont(android.content.Context, androidx.core.provider.FontRequest, androidx.core.provider.FontsContractCompat.FontRequestCallback, android.os.Handler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.FontInfo FontInfo(android.net.Uri, int, int, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.Columns ITALIC'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.Columns VARIATION_SETTINGS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.Columns FILE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat PARCEL_FONT_RESULTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat android.graphics.Typeface getFontSync(android.content.Context, androidx.core.provider.FontRequest, androidx.core.content.res.ResourcesCompat.FontCallback, android.os.Handler, boolean, int, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat androidx.core.provider.FontsContractCompat.FontFamilyResult fetchFonts(android.content.Context, android.os.CancellationSignal, androidx.core.provider.FontRequest)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat java.util.Map&lt;android.net.Uri,java.nio.ByteBuffer&gt; prepareFontData(android.content.Context, androidx.core.provider.FontsContractCompat.FontInfo[], android.os.CancellationSignal) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, java.util.List&lt;java.util.List&lt;byte[]&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, java.util.List&lt;java.util.List&lt;byte[]&gt;&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.FontInfo android.net.Uri getUri()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat android.content.pm.ProviderInfo getProvider(android.content.pm.PackageManager, androidx.core.provider.FontRequest, android.content.res.Resources) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat void requestFont(android.content.Context, androidx.core.provider.FontRequest, androidx.core.provider.FontsContractCompat.FontRequestCallback, android.os.Handler) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat androidx.core.provider.FontsContractCompat.FontFamilyResult fetchFonts(android.content.Context, android.os.CancellationSignal, androidx.core.provider.FontRequest) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat androidx.core.provider.FontsContractCompat.FontFamilyResult fetchFonts(android.content.Context, android.os.CancellationSignal, androidx.core.provider.FontRequest) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest java.lang.String getQuery()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest java.lang.String getProviderAuthority()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.Columns RESULT_CODE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, java.util.List&lt;java.util.List&lt;byte[]&gt;&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat android.graphics.Typeface buildTypeface(android.content.Context, android.os.CancellationSignal, androidx.core.provider.FontsContractCompat.FontInfo[]) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.Columns TTC_INDEX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest java.lang.String getProviderPackage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontRequest FontRequest(java.lang.String, java.lang.String, java.lang.String, java.util.List&lt;java.util.List&lt;byte[]&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat.Columns WEIGHT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.provider.FontsContractCompat android.content.pm.ProviderInfo getProvider(android.content.pm.PackageManager, androidx.core.provider.FontRequest, android.content.res.Resources) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

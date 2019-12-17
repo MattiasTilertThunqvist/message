@@ -1,0 +1,551 @@
+<root>
+    <item name='androidx.core.util.SparseIntArrayKt kotlin.collections.IntIterator valueIterator(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.PairKt android.util.Pair&lt;F,S&gt; toAndroidPair(kotlin.Pair&lt;? extends F,? extends S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt android.util.SparseArray&lt;T&gt; plus(android.util.SparseArray&lt;T&gt;, android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt boolean containsKey(android.util.SparseArray&lt;T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt T getOrDefault(android.util.SparseArray&lt;T&gt;, int, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean getOrElse(android.util.SparseBooleanArray, int, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt void putAll(android.util.SparseArray&lt;T&gt;, android.util.SparseArray&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt boolean isNotEmpty(android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt void forEach(android.util.SparseIntArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void tryWrite(android.util.AtomicFile, kotlin.jvm.functions.Function1&lt;? super java.io.FileOutputStream,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt int getSize(android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt boolean containsValue(android.util.SparseIntArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.PairKt S component2(android.util.Pair&lt;F,S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeText(android.util.AtomicFile, java.lang.String, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt kotlin.ranges.ClosedRange&lt;T&gt; toClosedRange(android.util.Range&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeText$default(android.util.AtomicFile, java.lang.String, java.nio.charset.Charset, int, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt void forEach(android.util.SparseBooleanArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Boolean,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt java.lang.String readText$default(android.util.AtomicFile, java.nio.charset.Charset, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeBytes(android.util.AtomicFile, byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.4 int sizeOf(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.PairKt kotlin.Pair&lt;F,S&gt; toKotlinPair(android.util.Pair&lt;F,S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean isEmpty(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; and(android.util.Range&lt;T&gt;, android.util.Range&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt kotlin.collections.LongIterator valueIterator(android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; toRange(kotlin.ranges.ClosedRange&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt.toClosedRange.1 boolean contains(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.HalfKt android.util.Half toHalf(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt boolean isNotEmpty(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt int getOrDefault(android.util.SparseIntArray, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.3 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseIntArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt void set(android.util.SparseBooleanArray, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt boolean containsKey(android.util.LongSparseArray&lt;T&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt int getSize(android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; rangeTo(T, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeText$default(android.util.AtomicFile, java.lang.String, java.nio.charset.Charset, int, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeText(android.util.AtomicFile, java.lang.String, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt boolean contains(android.util.SparseIntArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt T getOrDefault(android.util.LongSparseArray&lt;T&gt;, long, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt int getSize(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt void forEach(android.util.SparseBooleanArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Boolean,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeBytes(android.util.AtomicFile, byte[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt java.lang.String readText$default(android.util.AtomicFile, java.nio.charset.Charset, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt boolean contains(android.util.LongSparseArray&lt;T&gt;, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SizeKt float component1(android.util.SizeF) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt T getOrElse(android.util.SparseArray&lt;T&gt;, int, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt boolean contains(android.util.SparseArray&lt;T&gt;, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt android.util.SparseLongArray plus(android.util.SparseLongArray, android.util.SparseLongArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; rangeTo(T, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeText$default(android.util.AtomicFile, java.lang.String, java.nio.charset.Charset, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt boolean isNotEmpty(android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; and(android.util.Range&lt;T&gt;, android.util.Range&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.3 void invoke(boolean, K, V, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean getOrElse(android.util.SparseBooleanArray, int, kotlin.jvm.functions.Function0&lt;java.lang.Boolean&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; plus(android.util.Range&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt kotlin.collections.LongIterator keyIterator(android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.1 int invoke(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.PairKt android.util.Pair&lt;F,S&gt; toAndroidPair(kotlin.Pair&lt;? extends F,? extends S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt T getOrElse(android.util.LongSparseArray&lt;T&gt;, long, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.2 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; plus(android.util.Range&lt;T&gt;, android.util.Range&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt int getSize(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.1 int invoke(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.HalfKt android.util.Half toHalf(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt void set(android.util.LongSparseArray&lt;T&gt;, long, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt java.lang.String readText(android.util.AtomicFile, java.nio.charset.Charset)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean contains(android.util.SparseBooleanArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt android.util.LruCache lruCache$default(int, kotlin.jvm.functions.Function2, kotlin.jvm.functions.Function1, kotlin.jvm.functions.Function4, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt boolean containsValue(android.util.SparseArray&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt kotlin.ranges.ClosedRange&lt;T&gt; toClosedRange(android.util.Range&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; rangeTo(T, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt java.lang.String readText(android.util.AtomicFile, java.nio.charset.Charset) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt void forEach(android.util.SparseIntArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Integer,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt java.util.Iterator&lt;T&gt; valueIterator(android.util.LongSparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.3 void invoke(boolean, K, V, V) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt android.util.SparseLongArray plus(android.util.SparseLongArray, android.util.SparseLongArray) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt kotlin.collections.LongIterator valueIterator(android.util.SparseLongArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; and(android.util.Range&lt;T&gt;, android.util.Range&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; toRange(kotlin.ranges.ClosedRange&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt byte[] readBytes(android.util.AtomicFile)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void writeText(android.util.AtomicFile, java.lang.String, java.nio.charset.Charset) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SizeKt int component2(android.util.Size) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt void putAll(android.util.SparseBooleanArray, android.util.SparseBooleanArray) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt long getOrElse(android.util.SparseLongArray, int, kotlin.jvm.functions.Function0&lt;java.lang.Long&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt kotlin.collections.BooleanIterator valueIterator(android.util.SparseBooleanArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt kotlin.collections.LongIterator keyIterator(android.util.LongSparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.3 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.1 java.lang.Object invoke(java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt android.util.SparseIntArray plus(android.util.SparseIntArray, android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt java.lang.String readText(android.util.AtomicFile, java.nio.charset.Charset) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt java.util.Iterator&lt;T&gt; valueIterator(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt android.util.SparseLongArray plus(android.util.SparseLongArray, android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt T getOrElse(android.util.LongSparseArray&lt;T&gt;, long, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SizeKt int component1(android.util.Size) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt android.util.SparseBooleanArray plus(android.util.SparseBooleanArray, android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt boolean containsKey(android.util.SparseLongArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt void forEach(android.util.SparseLongArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Long,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt void forEach(android.util.SparseArray&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt int getOrElse(android.util.SparseIntArray, int, kotlin.jvm.functions.Function0&lt;java.lang.Integer&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt java.util.Iterator&lt;T&gt; valueIterator(android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt void putAll(android.util.SparseBooleanArray, android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt boolean isEmpty(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt android.util.LruCache&lt;K,V&gt; lruCache(int, kotlin.jvm.functions.Function2&lt;? super K,? super V,java.lang.Integer&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.Boolean,? super K,? super V,? super V,kotlin.Unit&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.HalfKt android.util.Half toHalf(short)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; plus(android.util.Range&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.4 void entryRemoved(boolean, K, V, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt void set(android.util.SparseLongArray, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt long getOrDefault(android.util.SparseLongArray, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt android.util.SparseBooleanArray plus(android.util.SparseBooleanArray, android.util.SparseBooleanArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.HalfKt android.util.Half toHalf(float)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.3 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt boolean remove(android.util.SparseIntArray, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt android.util.LongSparseArray&lt;T&gt; plus(android.util.LongSparseArray&lt;T&gt;, android.util.LongSparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt java.util.Iterator&lt;T&gt; valueIterator(android.util.SparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; plus(android.util.Range&lt;T&gt;, android.util.Range&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseLongArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt byte[] readBytes(android.util.AtomicFile) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt int getSize(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt long getOrElse(android.util.SparseLongArray, int, kotlin.jvm.functions.Function0&lt;java.lang.Long&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt boolean remove(android.util.SparseArray&lt;T&gt;, int, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; plus(android.util.Range&lt;T&gt;, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt boolean containsKey(android.util.SparseIntArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt android.util.LruCache&lt;K,V&gt; lruCache(int, kotlin.jvm.functions.Function2&lt;? super K,? super V,java.lang.Integer&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.Boolean,? super K,? super V,? super V,kotlin.Unit&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt boolean isEmpty(android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean isNotEmpty(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.4 void entryRemoved(boolean, K, V, V) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.PairKt kotlin.Pair&lt;F,S&gt; toKotlinPair(android.util.Pair&lt;F,S&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.4 V create(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt void set(android.util.SparseIntArray, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SizeKt float component2(android.util.SizeF) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean containsValue(android.util.SparseBooleanArray, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.PairKt F component1(android.util.Pair&lt;F,S&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt boolean contains(android.util.SparseLongArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt android.util.LongSparseArray&lt;T&gt; plus(android.util.LongSparseArray&lt;T&gt;, android.util.LongSparseArray&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt android.util.SparseArray&lt;T&gt; plus(android.util.SparseArray&lt;T&gt;, android.util.SparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt boolean remove(android.util.LongSparseArray&lt;T&gt;, long, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt kotlin.collections.IntIterator valueIterator(android.util.SparseIntArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt void putAll(android.util.SparseLongArray, android.util.SparseLongArray) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt int getOrElse(android.util.SparseIntArray, int, kotlin.jvm.functions.Function0&lt;java.lang.Integer&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt kotlin.collections.BooleanIterator valueIterator(android.util.SparseBooleanArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt android.util.LruCache&lt;K,V&gt; lruCache(int, kotlin.jvm.functions.Function2&lt;? super K,? super V,java.lang.Integer&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.Boolean,? super K,? super V,? super V,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt void forEach(android.util.LongSparseArray&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Long,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt void putAll(android.util.LongSparseArray&lt;T&gt;, android.util.LongSparseArray&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt android.util.SparseIntArray plus(android.util.SparseIntArray, android.util.SparseIntArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.3 java.lang.Object invoke(java.lang.Object, java.lang.Object, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.4 int sizeOf(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt T getOrElse(android.util.SparseArray&lt;T&gt;, int, kotlin.jvm.functions.Function0&lt;? extends T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.2 V invoke(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.RangeKt android.util.Range&lt;T&gt; plus(android.util.Range&lt;T&gt;, android.util.Range&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean containsKey(android.util.SparseBooleanArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt android.util.SparseArray&lt;T&gt; plus(android.util.SparseArray&lt;T&gt;, android.util.SparseArray&lt;T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt boolean isNotEmpty(android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.HalfKt android.util.Half toHalf(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean getOrDefault(android.util.SparseBooleanArray, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt void putAll(android.util.SparseIntArray, android.util.SparseIntArray) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt boolean containsValue(android.util.LongSparseArray&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt boolean remove(android.util.SparseBooleanArray, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.1 java.lang.Object invoke(java.lang.Object, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt android.util.SparseIntArray plus(android.util.SparseIntArray, android.util.SparseIntArray) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt void tryWrite(android.util.AtomicFile, kotlin.jvm.functions.Function1&lt;? super java.io.FileOutputStream,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt void set(android.util.SparseArray&lt;T&gt;, int, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt boolean isEmpty(android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt android.util.LongSparseArray&lt;T&gt; plus(android.util.LongSparseArray&lt;T&gt;, android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt boolean remove(android.util.SparseLongArray, int, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt void putAll(android.util.SparseArray&lt;T&gt;, android.util.SparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt void forEach(android.util.SparseArray&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super T,kotlin.Unit&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt.lruCache.1 INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseArray&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt android.util.SparseBooleanArray plus(android.util.SparseBooleanArray, android.util.SparseBooleanArray) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFileKt java.lang.String readText$default(android.util.AtomicFile, java.nio.charset.Charset, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt void forEach(android.util.SparseLongArray, kotlin.jvm.functions.Function2&lt;? super java.lang.Integer,? super java.lang.Long,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt void putAll(android.util.SparseLongArray, android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt boolean isEmpty(android.util.SparseLongArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseIntArrayKt void putAll(android.util.SparseIntArray, android.util.SparseIntArray) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseLongArrayKt boolean containsValue(android.util.SparseLongArray, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.SparseBooleanArrayKt kotlin.collections.IntIterator keyIterator(android.util.SparseBooleanArray)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LruCacheKt android.util.LruCache&lt;K,V&gt; lruCache(int, kotlin.jvm.functions.Function2&lt;? super K,? super V,java.lang.Integer&gt;, kotlin.jvm.functions.Function1&lt;? super K,? extends V&gt;, kotlin.jvm.functions.Function4&lt;? super java.lang.Boolean,? super K,? super V,? super V,kotlin.Unit&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt void forEach(android.util.LongSparseArray&lt;T&gt;, kotlin.jvm.functions.Function2&lt;? super java.lang.Long,? super T,kotlin.Unit&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.LongSparseArrayKt void putAll(android.util.LongSparseArray&lt;T&gt;, android.util.LongSparseArray&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

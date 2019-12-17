@@ -1,0 +1,35 @@
+<root>
+    <item name='io.opencensus.metrics.data.Exemplar io.opencensus.metrics.data.Exemplar create(double, io.opencensus.common.Timestamp, java.util.Map&lt;java.lang.String,io.opencensus.metrics.data.AttachmentValue&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.data.Exemplar io.opencensus.common.Timestamp getTimestamp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.data.Exemplar io.opencensus.metrics.data.Exemplar create(double, io.opencensus.common.Timestamp, java.util.Map&lt;java.lang.String,io.opencensus.metrics.data.AttachmentValue&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.data.Exemplar io.opencensus.metrics.data.Exemplar create(double, io.opencensus.common.Timestamp, java.util.Map&lt;java.lang.String,io.opencensus.metrics.data.AttachmentValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.data.AttachmentValue.AttachmentValueString io.opencensus.metrics.data.AttachmentValue.AttachmentValueString create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.metrics.data.Exemplar java.util.Map&lt;java.lang.String,io.opencensus.metrics.data.AttachmentValue&gt; getAttachments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.data.AttachmentValue java.lang.String getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.metrics.data.AttachmentValue.AttachmentValueString io.opencensus.metrics.data.AttachmentValue.AttachmentValueString create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

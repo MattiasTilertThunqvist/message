@@ -1,0 +1,8 @@
+<root>
+    <item name='androidx.core.net.ConnectivityManagerCompat boolean isActiveNetworkMetered(android.net.ConnectivityManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.net.ConnectivityManagerCompat android.net.NetworkInfo getNetworkInfoFromBroadcast(android.net.ConnectivityManager, android.content.Intent) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,71 @@
+<root>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet playSequentially(androidx.core.view.ViewPropertyAnimatorCompat, androidx.core.view.ViewPropertyAnimatorCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet setInterpolator(android.view.animation.Interpolator)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.StandaloneActionMode android.view.MenuInflater getMenuInflater()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet playSequentially(androidx.core.view.ViewPropertyAnimatorCompat, androidx.core.view.ViewPropertyAnimatorCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet setDuration(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ActionBarPolicy androidx.appcompat.view.ActionBarPolicy get(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet play(androidx.core.view.ViewPropertyAnimatorCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ContextThemeWrapper void onApplyThemeResource(android.content.res.Resources.Theme, int, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.SupportActionModeWrapper.CallbackWrapper android.view.ActionMode getActionModeWrapper(androidx.appcompat.view.ActionMode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ActionMode android.view.Menu getMenu()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.view.StandaloneActionMode StandaloneActionMode(android.content.Context, androidx.appcompat.widget.ActionBarContextView, androidx.appcompat.view.ActionMode.Callback, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ActionMode android.view.MenuInflater getMenuInflater()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.view.WindowCallbackWrapper android.view.Window.Callback getWrapped()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ActionMode.Callback boolean onActionItemClicked(androidx.appcompat.view.ActionMode, android.view.MenuItem) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.appcompat.view.SupportActionModeWrapper.CallbackWrapper boolean onActionItemClicked(androidx.appcompat.view.ActionMode, android.view.MenuItem) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.StandaloneActionMode boolean onSubMenuSelected(androidx.appcompat.view.menu.SubMenuBuilder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet setListener(androidx.core.view.ViewPropertyAnimatorListener)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.WindowCallbackWrapper WindowCallbackWrapper(android.view.Window.Callback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.SupportActionModeWrapper android.view.Menu getMenu()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.appcompat.view.ViewPropertyAnimatorCompatSet androidx.appcompat.view.ViewPropertyAnimatorCompatSet playSequentially(androidx.core.view.ViewPropertyAnimatorCompat, androidx.core.view.ViewPropertyAnimatorCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

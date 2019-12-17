@@ -1,0 +1,23 @@
+<root>
+    <item name='androidx.test.internal.runner.lifecycle.ActivityLifecycleMonitorImpl void removeLifecycleCallback(androidx.test.runner.lifecycle.ActivityLifecycleCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.lifecycle.ActivityLifecycleMonitorImpl void addLifecycleCallback(androidx.test.runner.lifecycle.ActivityLifecycleCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.lifecycle.ActivityLifecycleMonitorImpl androidx.test.runner.lifecycle.Stage getLifecycleStageOf(android.app.Activity) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.lifecycle.ApplicationLifecycleMonitorImpl void removeLifecycleCallback(androidx.test.runner.lifecycle.ApplicationLifecycleCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.lifecycle.ActivityLifecycleMonitorImpl java.util.Collection&lt;android.app.Activity&gt; getActivitiesInStage(androidx.test.runner.lifecycle.Stage) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.lifecycle.ApplicationLifecycleMonitorImpl void addLifecycleCallback(androidx.test.runner.lifecycle.ApplicationLifecycleCallback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.runner.lifecycle.ActivityLifecycleMonitorImpl java.util.Collection&lt;android.app.Activity&gt; getActivitiesInStage(androidx.test.runner.lifecycle.Stage)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

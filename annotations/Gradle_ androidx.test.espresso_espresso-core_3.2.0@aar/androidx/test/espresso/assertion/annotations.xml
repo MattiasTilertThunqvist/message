@@ -1,0 +1,125 @@
+<root>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyRightOf(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyRightOf(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isTopAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isAbove(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyAbove(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.LayoutAssertions androidx.test.espresso.ViewAssertion noMultilineButtons()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.LayoutAssertions androidx.test.espresso.ViewAssertion noEllipsizedText()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.LayoutAssertions androidx.test.espresso.ViewAssertion noOverlaps()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isLeftOf(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyAbove(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isBottomAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyAbove(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isRightAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isRightOf(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.ViewAssertions androidx.test.espresso.ViewAssertion matches(org.hamcrest.Matcher&lt;? super android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyLeftOf(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyLeftOf(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isRightAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.ViewAssertions androidx.test.espresso.ViewAssertion matches(org.hamcrest.Matcher&lt;? super android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isBelow(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyRightOf(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isRightOf(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.LayoutAssertions androidx.test.espresso.ViewAssertion noOverlaps(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isBottomAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyBelow(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.LayoutAssertions androidx.test.espresso.ViewAssertion noOverlaps(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isLeftAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyLeftOf(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.ViewAssertions androidx.test.espresso.ViewAssertion selectedDescendantsMatch(org.hamcrest.Matcher&lt;android.view.View&gt;, org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isBelow(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isLeftAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyBelow(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyLeftOf(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isAbove(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyRightOf(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyBelow(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isLeftOf(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isPartiallyBelow(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.ViewAssertions androidx.test.espresso.ViewAssertion doesNotExist()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isTopAlignedWith(org.hamcrest.Matcher&lt;android.view.View&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.assertion.PositionAssertions androidx.test.espresso.ViewAssertion isCompletelyAbove(org.hamcrest.Matcher&lt;android.view.View&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

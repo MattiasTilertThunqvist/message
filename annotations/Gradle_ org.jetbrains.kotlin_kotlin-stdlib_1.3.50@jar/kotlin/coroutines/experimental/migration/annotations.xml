@@ -1,0 +1,56 @@
+<root>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.jvm.functions.Function1&lt;kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,java.lang.Object&gt; toExperimentalSuspendFunction(kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.Continuation&lt;T&gt; toContinuation(kotlin.coroutines.experimental.Continuation&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.jvm.functions.Function2&lt;T1,kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,java.lang.Object&gt; toExperimentalSuspendFunction(kotlin.jvm.functions.Function2&lt;? super T1,? super kotlin.coroutines.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.experimental.CoroutineContext toExperimentalCoroutineContext(kotlin.coroutines.CoroutineContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.ContinuationInterceptor toContinuationInterceptor(kotlin.coroutines.experimental.ContinuationInterceptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.CoroutineContext toCoroutineContext(kotlin.coroutines.experimental.CoroutineContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.jvm.functions.Function2&lt;T1,kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,java.lang.Object&gt; toExperimentalSuspendFunction(kotlin.jvm.functions.Function2&lt;? super T1,? super kotlin.coroutines.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.jvm.functions.Function3&lt;T1,T2,kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,java.lang.Object&gt; toExperimentalSuspendFunction(kotlin.jvm.functions.Function3&lt;? super T1,? super T2,? super kotlin.coroutines.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.experimental.ContinuationInterceptor toExperimentalContinuationInterceptor(kotlin.coroutines.ContinuationInterceptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.jvm.functions.Function1&lt;kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,java.lang.Object&gt; toExperimentalSuspendFunction(kotlin.jvm.functions.Function1&lt;? super kotlin.coroutines.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.Continuation&lt;T&gt; toContinuation(kotlin.coroutines.experimental.Continuation&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.ContinuationInterceptor toContinuationInterceptor(kotlin.coroutines.experimental.ContinuationInterceptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.experimental.ContinuationInterceptor toExperimentalContinuationInterceptor(kotlin.coroutines.ContinuationInterceptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.experimental.CoroutineContext toExperimentalCoroutineContext(kotlin.coroutines.CoroutineContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.experimental.Continuation&lt;T&gt; toExperimentalContinuation(kotlin.coroutines.Continuation&lt;? super T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.jvm.functions.Function3&lt;T1,T2,kotlin.coroutines.experimental.Continuation&lt;? super R&gt;,java.lang.Object&gt; toExperimentalSuspendFunction(kotlin.jvm.functions.Function3&lt;? super T1,? super T2,? super kotlin.coroutines.Continuation&lt;? super R&gt;,? extends java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.CoroutineContext toCoroutineContext(kotlin.coroutines.experimental.CoroutineContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='kotlin.coroutines.experimental.migration.CoroutinesMigrationKt kotlin.coroutines.experimental.Continuation&lt;T&gt; toExperimentalContinuation(kotlin.coroutines.Continuation&lt;? super T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

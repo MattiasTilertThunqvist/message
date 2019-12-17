@@ -1,0 +1,26 @@
+<root>
+    <item name='io.grpc.util.MutableHandlerRegistry io.grpc.ServerServiceDefinition addService(io.grpc.BindableService) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.SecretRoundRobinLoadBalancerProvider.Provider java.lang.String getPolicyName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.MutableHandlerRegistry io.grpc.ServerServiceDefinition addService(io.grpc.ServerServiceDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.TransmitStatusRuntimeExceptionInterceptor io.grpc.ServerInterceptor instance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.MutableHandlerRegistry boolean removeService(io.grpc.ServerServiceDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.TransmitStatusRuntimeExceptionInterceptor io.grpc.ServerCall.Listener&lt;ReqT&gt; interceptCall(io.grpc.ServerCall&lt;ReqT,RespT&gt;, io.grpc.Metadata, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.TransmitStatusRuntimeExceptionInterceptor io.grpc.ServerCall.Listener&lt;ReqT&gt; interceptCall(io.grpc.ServerCall&lt;ReqT,RespT&gt;, io.grpc.Metadata, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.util.SecretRoundRobinLoadBalancerProvider.Provider io.grpc.LoadBalancer newLoadBalancer(io.grpc.LoadBalancer.Helper)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

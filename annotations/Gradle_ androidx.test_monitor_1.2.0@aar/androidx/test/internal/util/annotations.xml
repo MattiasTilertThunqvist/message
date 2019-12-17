@@ -1,0 +1,62 @@
+<root>
+    <item name='androidx.test.internal.util.ReflectionUtil void reflectivelyInvokeRemoteMethod(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.Checks T checkNotNull(T, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ProcSummary pid'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ProcSummary parent'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ParcelableIBinder CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.Checks T checkNotNull(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ProcSummary androidx.test.internal.util.ProcSummary summarize(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ParcelableIBinder void writeToParcel(android.os.Parcel, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ParcelableIBinder ParcelableIBinder(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.Checks T checkNotNull(T, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ReflectionUtil void reflectivelyInvokeRemoteMethod(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ProcSummary realUid'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.Checks T checkNotNull(T, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.Checks T checkNotNull(T, java.lang.String, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.Checks T checkNotNull(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.LogUtil void logDebug(java.lang.String, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.LogUtil void logDebugWithProcess(java.lang.String, java.lang.String, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ProcSummary name'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ProcSummary cmdline'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.internal.util.ParcelableIBinder ParcelableIBinder(android.os.IBinder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

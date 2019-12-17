@@ -1,0 +1,1448 @@
+<root>
+    <item name='io.grpc.InternalChannelz void addServerSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ServerStats&gt;, io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.HttpConnectProxiedSocketAddress.Builder io.grpc.HttpConnectProxiedSocketAddress.Builder setTargetAddress(java.net.InetSocketAddress)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata.Key io.grpc.Metadata.Key&lt;T&gt; of(java.lang.String, io.grpc.Metadata.BinaryMarshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions.Builder addOption(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientStreamTracer.StreamInfo.Builder io.grpc.ClientStreamTracer.StreamInfo.Builder setCallOptions(io.grpc.CallOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.CallOptions DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition useInputStreamMessages(io.grpc.ServerServiceDefinition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setSampledToLocalTracing(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Builder io.grpc.InternalChannelz.ChannelTrace.Event.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolverProvider PARAMS_DEFAULT_PORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T nameResolverFactory(io.grpc.NameResolver.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ConnectivityStateInfo io.grpc.ConnectivityStateInfo forTransientFailure(io.grpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer void handleResolvedAddresses(io.grpc.LoadBalancer.ResolvedAddresses) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata.Key&lt;T&gt; keyOf(java.lang.String, io.grpc.Metadata.AsciiMarshaller&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.Helper void updateBalancingState(io.grpc.ConnectivityState, io.grpc.LoadBalancer.SubchannelPicker) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServiceProviders.PriorityAccessor boolean isAvailable(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.NameResolver.Args io.grpc.NameResolver.Args.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.StatusRuntimeException StatusRuntimeException(io.grpc.Status, io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Decompressor java.io.InputStream decompress(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T idleTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T userAgent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ChannelLogger.ChannelLogLevel WARNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats.Builder setCallsStarted(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition.Builder io.grpc.ServerServiceDefinition build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition.Builder io.grpc.ServerServiceDefinition.Builder addMethod(io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder maxHedgedAttempts(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServiceDescriptor io.grpc.ServiceDescriptor.Builder newBuilder(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code RESOURCE_EXHAUSTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Builder io.grpc.InternalChannelz.ChannelTrace build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void addServer(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ServerStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setSndSsthresh(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder compressorRegistry(io.grpc.CompressorRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Builder io.grpc.InternalChannelz.ChannelTrace.Builder setEvents(java.util.List&lt;io.grpc.InternalChannelz.ChannelTrace.Event&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void addListenSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setSndWscale(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Grpc TRANSPORT_ATTR_LOCAL_ADDR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withMaxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor&lt;ReqT,RespT&gt; build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityState READY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void addServerSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ServerStats&gt;, io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.MethodType UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setState(io.grpc.ConnectivityState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T directExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeServerSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ServerStats&gt;, io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata byte[][] serialize(io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientStreamTracer.StreamInfo.Builder io.grpc.ClientStreamTracer.StreamInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeListenSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.SecurityLevel PRIVACY_AND_INTEGRITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerMethodDefinition io.grpc.ServerMethodDefinition&lt;ReqT,RespT&gt; withServerCallHandler(io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withError(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeServerSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ServerStats&gt;, io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityState SHUTDOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.EquivalentAddressGroup EquivalentAddressGroup(java.util.List&lt;java.net.SocketAddress&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientInterceptor io.grpc.ClientCall&lt;ReqT,RespT&gt; interceptCall(io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, io.grpc.Channel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T userAgent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T retryBufferSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setIdempotent(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code OK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Decompressor java.lang.String getMessageEncoding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T intercept(io.grpc.ClientInterceptor...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void addClientSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder defaultLoadBalancingPolicy(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withStreamTracerFactory(io.grpc.ClientStreamTracer.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withDeadlineAfter(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.DecompressorRegistry io.grpc.DecompressorRegistry emptyInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalChannelz io.grpc.InternalChannelz.ServerList getServers(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServiceDescriptor.Builder io.grpc.ServiceDescriptor.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setAto(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes.Builder io.grpc.Attributes.Builder setAll(io.grpc.Attributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeClientSocket(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder intercept(java.util.List)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setPmtu(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setSndCwnd(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T retryBufferSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientInterceptor io.grpc.ClientCall&lt;ReqT,RespT&gt; interceptCall(io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.CallOptions, io.grpc.Channel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setCallsStarted(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T perRpcBufferLimit(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz boolean containsSubchannel(io.grpc.InternalLogId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder maxTraceEvents(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T disableRetry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.NameResolver.Args.Builder io.grpc.NameResolver.Args build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CompressorRegistry void register(io.grpc.Compressor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T enableRetry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T proxyDetector(io.grpc.ProxyDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.CallOptions.Key io.grpc.CallOptions.Key&lt;T&gt; create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Factory PARAMS_PROXY_DETECTOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingClientCall io.grpc.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats.Builder addListenSockets(java.util.List&lt;io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata void merge(io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition.Builder io.grpc.ServerServiceDefinition.Builder addMethod(io.grpc.ServerMethodDefinition&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.DecompressorRegistry io.grpc.DecompressorRegistry getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T decompressorRegistry(io.grpc.DecompressorRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions.Builder addOption(java.lang.String, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition io.grpc.ServerServiceDefinition.Builder builder(io.grpc.ServiceDescriptor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor io.grpc.MethodDescriptor&lt;RequestT,ResponseT&gt; create(io.grpc.MethodDescriptor.MethodType, java.lang.String, io.grpc.MethodDescriptor.Marshaller&lt;RequestT&gt;, io.grpc.MethodDescriptor.Marshaller&lt;ResponseT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes.Key io.grpc.Attributes.Key&lt;T&gt; create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes.Builder io.grpc.Attributes.Builder set(io.grpc.Attributes.Key&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats.Builder addListenSockets(java.util.List&lt;io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.SocketStats&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions.Builder setSocketOptionLingerSeconds(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setRequestMarshaller(io.grpc.MethodDescriptor.Marshaller&lt;ReqT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRcvMss(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalServiceProviders java.lang.Iterable&lt;T&gt; getCandidatesViaHardCoded(java.lang.Class&lt;T&gt;, java.lang.Iterable&lt;java.lang.Class&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setBackoff(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T nameResolverFactory(io.grpc.NameResolver.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.MethodType BIDI_STREAMING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.Helper void updateBalancingState(io.grpc.ConnectivityState, io.grpc.LoadBalancer.SubchannelPicker) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Builder io.grpc.InternalChannelz.ChannelTrace.Event build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalLogId java.lang.String getTypeName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ResolutionResult io.grpc.NameResolver.ResolutionResult.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityStateInfo io.grpc.ConnectivityStateInfo forNonError(io.grpc.ConnectivityState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.SynchronizationContext io.grpc.SynchronizationContext.ScheduledHandle schedule(java.lang.Runnable, long, java.util.concurrent.TimeUnit, java.util.concurrent.ScheduledExecutorService) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; newBuilder(io.grpc.MethodDescriptor.Marshaller&lt;ReqT&gt;, io.grpc.MethodDescriptor.Marshaller&lt;RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setLastAckSent(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Factory io.grpc.NameResolver newNameResolver(java.net.URI, io.grpc.Attributes) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Codec.Gzip java.lang.String getMessageEncoding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setLastDataRecv(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code ABORTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.ResolvedAddresses io.grpc.LoadBalancer.ResolvedAddresses.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.Status fromCode(io.grpc.Status.Code) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void addRootChannel(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ChannelStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Args.Builder io.grpc.NameResolver.Args.Builder setProxyDetector(io.grpc.ProxyDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata BINARY_HEADER_SUFFIX'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityStateInfo io.grpc.ConnectivityStateInfo forTransientFailure(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.DecompressorRegistry io.grpc.DecompressorRegistry with(io.grpc.Decompressor, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T intercept(java.util.List&lt;io.grpc.ClientInterceptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T overrideAuthority(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata.Key io.grpc.Metadata.Key&lt;T&gt; of(java.lang.String, io.grpc.Metadata.BinaryMarshaller&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalManagedChannelProvider HARDCODED_CLASSES'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityState IDLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withCallCredentials(io.grpc.CallCredentials)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setSubchannels(java.util.List&lt;io.grpc.InternalWithLogId&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.ResolvedAddresses io.grpc.LoadBalancer.ResolvedAddresses.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T defaultServiceConfig(java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T defaultServiceConfig(java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz boolean containsClientSocket(io.grpc.InternalLogId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.NameResolver.Args.Builder io.grpc.NameResolver.Args.Builder setServiceConfigParser(io.grpc.NameResolver.ServiceConfigParser)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setSchemaDescriptor(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalServerInterceptors io.grpc.ServerCallHandler&lt;ReqT,RespT&gt; interceptCallHandler(io.grpc.ServerInterceptor, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder enableRetry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T maxRetryAttempts(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition interceptForward(io.grpc.BindableService, io.grpc.ServerInterceptor...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata newMetadata(int, byte[]...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata void put(io.grpc.Metadata.Key&lt;T&gt;, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code INTERNAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition io.grpc.ServerServiceDefinition.Builder builder(io.grpc.ServiceDescriptor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder directExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.Status fromThrowable(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T compressorRegistry(io.grpc.CompressorRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder maxRetryAttempts(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ConfigOrError io.grpc.NameResolver.ConfigOrError fromError(io.grpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setLost(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.StatusRuntimeException StatusRuntimeException(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingClientCall.SimpleForwardingClientCall io.grpc.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withDrop(io.grpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalStatus MESSAGE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Codec.Identity NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code UNIMPLEMENTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerBuilder T maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientStreamTracer.StreamInfo io.grpc.ClientStreamTracer.StreamInfo.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalLogId io.grpc.InternalLogId allocate(java.lang.Class&lt;?&gt;, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Compressor java.lang.String getMessageEncoding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder executor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T thisT()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setSacked(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz long id(io.grpc.InternalWithLogId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions.Key io.grpc.CallOptions.Key&lt;T&gt; createWithDefault(java.lang.String, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.ResolvedAddresses.Builder io.grpc.LoadBalancer.ResolvedAddresses build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata newMetadata(byte[]...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T idleTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata void merge(io.grpc.Metadata, java.util.Set&lt;io.grpc.Metadata.Key&lt;?&gt;&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolverRegistry void register(io.grpc.NameResolverProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.StatusException StatusException(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T defaultLoadBalancingPolicy(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Status.Code DATA_LOSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder decompressorRegistry(io.grpc.DecompressorRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRtt(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions.Builder setTcpInfo(io.grpc.InternalChannelz.TcpInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.SecurityLevel INTEGRITY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T setBinaryLog(io.grpc.BinaryLog)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder defaultServiceConfig(java.util.Map)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingServerCall.SimpleForwardingServerCall io.grpc.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withError(io.grpc.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Marshaller T parse(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.SynchronizationContext io.grpc.SynchronizationContext.ScheduledHandle schedule(java.lang.Runnable, long, java.util.concurrent.TimeUnit, java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition intercept(io.grpc.BindableService, java.util.List&lt;? extends io.grpc.ServerInterceptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setLastDataSent(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.EquivalentAddressGroup EquivalentAddressGroup(java.util.List&lt;java.net.SocketAddress&gt;, io.grpc.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withAuthority(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingServerCall io.grpc.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeRootChannel(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ChannelStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setUnacked(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.MethodType CLIENT_STREAMING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withCompression(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientCall io.grpc.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ResolutionResult.Builder io.grpc.NameResolver.ResolutionResult.Builder setServiceConfig(io.grpc.NameResolver.ConfigOrError)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.StatusException StatusException(io.grpc.Status, io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz boolean containsServer(io.grpc.InternalLogId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition intercept(io.grpc.BindableService, java.util.List&lt;? extends io.grpc.ServerInterceptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T enableRetry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalCallOptions java.lang.Boolean getWaitForReady(io.grpc.CallOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz io.grpc.InternalChannelz instance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.ResolvedAddresses.Builder io.grpc.LoadBalancer.ResolvedAddresses.Builder setAttributes(io.grpc.Attributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerBuilder T maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setLastAckRecv(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Marshaller T parse(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Status.Code PERMISSION_DENIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setCaState(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder proxyDetector(io.grpc.ProxyDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder setBinaryLog(io.grpc.BinaryLog)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.HttpConnectProxiedSocketAddress.Builder io.grpc.HttpConnectProxiedSocketAddress.Builder setPassword(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata void merge(io.grpc.Metadata, java.util.Set&lt;io.grpc.Metadata.Key&lt;?&gt;&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRttvar(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalKnownTransport NETTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ConfigOrError io.grpc.NameResolver.ConfigOrError fromConfig(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Args io.grpc.NameResolver.Args.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withOption(io.grpc.CallOptions.Key&lt;T&gt;, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ConfigOrError io.grpc.NameResolver.ConfigOrError fromError(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.StatusRuntimeException asRuntimeException(io.grpc.Metadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Grpc TRANSPORT_ATTR_REMOTE_ADDR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats.Builder setLastCallStartedNanos(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.DecompressorRegistry io.grpc.DecompressorRegistry with(io.grpc.Decompressor, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Grpc TRANSPORT_ATTR_SSL_SESSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition useMarshalledMessages(io.grpc.ServerServiceDefinition, io.grpc.MethodDescriptor.Marshaller&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T proxyDetector(io.grpc.ProxyDetector)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setProbes(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ResolutionResult.Builder io.grpc.NameResolver.ResolutionResult.Builder setAddresses(java.util.List&lt;io.grpc.EquivalentAddressGroup&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityState CONNECTING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder overrideAuthority(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T maxTraceEvents(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalStatus CODE_KEY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalClientInterceptors io.grpc.ClientInterceptor wrapClientInterceptor(io.grpc.ClientInterceptor, io.grpc.MethodDescriptor.Marshaller&lt;ReqT&gt;, io.grpc.MethodDescriptor.Marshaller&lt;RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T intercept(java.util.List&lt;io.grpc.ClientInterceptor&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setCallsSucceeded(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T maxRetryAttempts(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ServiceProviders.PriorityAccessor int getPriority(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Status.Code ALREADY_EXISTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.HttpConnectProxiedSocketAddress io.grpc.HttpConnectProxiedSocketAddress.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder retryBufferSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Factory PARAMS_DEFAULT_PORT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata newMetadata(byte[]...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition.Builder io.grpc.ServerServiceDefinition.Builder addMethod(io.grpc.ServerMethodDefinition&lt;ReqT,RespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ResolutionResult.Builder io.grpc.NameResolver.ResolutionResult build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.MethodType UNARY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServiceDescriptor.Builder io.grpc.ServiceDescriptor.Builder setSchemaDescriptor(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions.Builder addOption(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setSafe(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T overrideAuthority(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder disableRetry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ConnectivityState TRANSIENT_FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMethodDescriptor void setRawMethodName(io.grpc.MethodDescriptor&lt;?,?&gt;, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata.Key io.grpc.Metadata.Key&lt;T&gt; of(java.lang.String, io.grpc.Metadata.AsciiMarshaller&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withSubchannel(io.grpc.LoadBalancer.Subchannel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRcvSsthresh(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T compressorRegistry(io.grpc.CompressorRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Builder io.grpc.InternalChannelz.ChannelTrace.Event.Builder setSeverity(io.grpc.InternalChannelz.ChannelTrace.Event.Severity)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Severity CT_UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T executor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setResponseMarshaller(io.grpc.MethodDescriptor.Marshaller&lt;RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.MethodType SERVER_STREAMING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T executor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Args.Builder io.grpc.NameResolver.Args.Builder setSynchronizationContext(io.grpc.SynchronizationContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientInterceptors io.grpc.Channel intercept(io.grpc.Channel, java.util.List&lt;? extends io.grpc.ClientInterceptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition interceptForward(io.grpc.BindableService, java.util.List&lt;? extends io.grpc.ServerInterceptor&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMethodDescriptor java.lang.Object geRawMethodName(io.grpc.MethodDescriptor&lt;?,?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata ASCII_STRING_MARSHALLER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes.Key io.grpc.Attributes.Key&lt;T&gt; of(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder nameResolverFactory(io.grpc.NameResolver.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Codec.Gzip java.io.InputStream decompress(java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRetrans(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T intercept(io.grpc.ClientInterceptor...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalLogId io.grpc.InternalLogId allocate(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientStreamTracer.Factory io.grpc.ClientStreamTracer newClientStreamTracer(io.grpc.ClientStreamTracer.StreamInfo, io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T enableFullStreamDecompression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes.Builder io.grpc.Attributes.Builder setAll(io.grpc.Attributes) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CompressorRegistry io.grpc.CompressorRegistry getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ChannelLogger.ChannelLogLevel INFO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T decompressorRegistry(io.grpc.DecompressorRegistry)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalServiceProviders java.lang.Iterable&lt;T&gt; getCandidatesViaHardCoded(java.lang.Class&lt;T&gt;, java.lang.Iterable&lt;java.lang.Class&lt;?&gt;&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.StatusException io.grpc.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Builder io.grpc.InternalChannelz.ChannelTrace.Builder setCreationTimeNanos(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata int headerCount(io.grpc.Metadata) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer ATTR_LOAD_BALANCING_CONFIG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T disableServiceConfigLookUp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalChannelz void addSubchannel(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ChannelStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientStreamTracer.StreamInfo.Builder io.grpc.ClientStreamTracer.StreamInfo.Builder setTransportAttrs(io.grpc.Attributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Builder io.grpc.InternalChannelz.ChannelTrace.Event.Builder setChannelRef(io.grpc.InternalWithLogId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerCall io.grpc.Attributes getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor io.grpc.MethodDescriptor.Builder&lt;NewReqT,NewRespT&gt; toBuilder(io.grpc.MethodDescriptor.Marshaller&lt;NewReqT&gt;, io.grpc.MethodDescriptor.Marshaller&lt;NewRespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes io.grpc.Attributes.Builder newBuilder(io.grpc.Attributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.Tls Tls(javax.net.ssl.SSLSession) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.ResolvedAddresses.Builder io.grpc.LoadBalancer.ResolvedAddresses.Builder setAddresses(java.util.List&lt;io.grpc.EquivalentAddressGroup&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancerRegistry void register(io.grpc.LoadBalancerProvider) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition useMarshalledMessages(io.grpc.ServerServiceDefinition, io.grpc.MethodDescriptor.Marshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions T getOption(io.grpc.CallOptions.Key&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withDrop(io.grpc.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.StatusRuntimeException io.grpc.Status getStatus()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setFackets(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ChannelLogger.ChannelLogLevel ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T directExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setSndMss(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.HttpConnectProxiedSocketAddress.Builder io.grpc.HttpConnectProxiedSocketAddress.Builder setUsername(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes io.grpc.Attributes.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Severity CT_ERROR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Builder io.grpc.InternalChannelz.ChannelTrace.Event.Builder setTimestampNanos(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setReordering(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code NOT_FOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.ResolutionResult.Builder io.grpc.NameResolver.ResolutionResult.Builder setAttributes(io.grpc.Attributes)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder intercept(io.grpc.ClientInterceptor[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalDecompressorRegistry byte[] getRawAdvertisedMessageEncodings(io.grpc.DecompressorRegistry) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition intercept(io.grpc.ServerServiceDefinition, java.util.List&lt;? extends io.grpc.ServerInterceptor&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code DEADLINE_EXCEEDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setFullMethodName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolverRegistry io.grpc.NameResolver.Factory asFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T maxHedgedAttempts(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.NameResolverProvider io.grpc.NameResolver.Factory asFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.ResolvedAddresses.Builder io.grpc.LoadBalancer.ResolvedAddresses.Builder setLoadBalancingPolicyConfig(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions.Key io.grpc.CallOptions.Key&lt;T&gt; of(java.lang.String, T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code INVALID_ARGUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder idleTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Factory io.grpc.NameResolver newNameResolver(java.net.URI, io.grpc.NameResolver.Helper) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.MethodDescriptor.Builder io.grpc.MethodDescriptor.Builder&lt;ReqT,RespT&gt; setType(io.grpc.MethodDescriptor.MethodType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats.Builder setCallsSucceeded(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code FAILED_PRECONDITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withMaxOutboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServiceDescriptor.Builder io.grpc.ServiceDescriptor build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T maxTraceEvents(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Compressor java.io.OutputStream compress(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.NameResolver.ResolutionResult io.grpc.NameResolver.ResolutionResult.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Listener2 void onResult(io.grpc.NameResolver.ResolutionResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalServerInterceptors io.grpc.ServerMethodDefinition&lt;WrapReqT,WrapRespT&gt; wrapMethod(io.grpc.ServerMethodDefinition&lt;OrigReqT,OrigRespT&gt;, io.grpc.MethodDescriptor&lt;WrapReqT,WrapRespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata.Key java.lang.String name()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalServerInterceptors io.grpc.ServerCallHandler&lt;ReqT,RespT&gt; interceptCallHandlerCreate(io.grpc.ServerInterceptor, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.HttpConnectProxiedSocketAddress.Builder io.grpc.HttpConnectProxiedSocketAddress build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition useInputStreamMessages(io.grpc.ServerServiceDefinition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setAdvmss(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withSubchannel(io.grpc.LoadBalancer.Subchannel, io.grpc.ClientStreamTracer.Factory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T enableFullStreamDecompression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.Status io.grpc.StatusException asException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder disableServiceConfigLookUp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Attributes io.grpc.Attributes.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setOptions(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRetransmits(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalLogId io.grpc.InternalLogId allocate(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Codec.Gzip java.io.OutputStream compress(java.io.OutputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setCallsFailed(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setLastCallStartedNanos(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ChannelLogger.ChannelLogLevel DEBUG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerMethodDefinition io.grpc.ServerMethodDefinition&lt;ReqT,RespT&gt; create(io.grpc.MethodDescriptor&lt;ReqT,RespT&gt;, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.Status augmentDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz io.grpc.InternalChannelz.RootChannelList getRootChannels(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeSubchannel(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ChannelStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.SecurityLevel NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setChannelTrace(io.grpc.InternalChannelz.ChannelTrace)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServiceDescriptor.Builder io.grpc.ServiceDescriptor.Builder addMethod(io.grpc.MethodDescriptor&lt;?,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.Status withCause(java.lang.Throwable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ClientStreamTracer.StreamInfo io.grpc.ClientStreamTracer.StreamInfo.Builder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Severity CT_WARNING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Codec.Identity java.lang.String getMessageEncoding()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Builder io.grpc.InternalChannelz.ChannelTrace.Builder setNumEventsLogged(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata BINARY_BYTE_MARSHALLER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withWaitForReady()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerServiceDefinition io.grpc.ServerServiceDefinition.Builder builder(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T perRpcBufferLimit(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setTarget(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ServerStats.Builder io.grpc.InternalChannelz.ServerStats.Builder setCallsFailed(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Contexts io.grpc.ServerCall.Listener&lt;ReqT&gt; interceptCall(io.grpc.Context, io.grpc.ServerCall&lt;ReqT,RespT&gt;, io.grpc.Metadata, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata.Key&lt;T&gt; keyOf(java.lang.String, io.grpc.InternalMetadata.TrustedAsciiMarshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withoutWaitForReady()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.SocketOptions.Builder io.grpc.InternalChannelz.SocketOptions.Builder setSocketOptionTimeoutMillis(java.lang.Integer)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelStats.Builder io.grpc.InternalChannelz.ChannelStats.Builder setSockets(java.util.List&lt;io.grpc.InternalWithLogId&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Contexts io.grpc.ServerCall.Listener&lt;ReqT&gt; interceptCall(io.grpc.Context, io.grpc.ServerCall&lt;ReqT,RespT&gt;, io.grpc.Metadata, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata.Key&lt;T&gt; keyOf(java.lang.String, io.grpc.InternalMetadata.TrustedAsciiMarshaller&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code UNAUTHENTICATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CompressorRegistry io.grpc.CompressorRegistry newEmptyInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerInterceptors io.grpc.ServerServiceDefinition intercept(io.grpc.BindableService, io.grpc.ServerInterceptor...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.HttpConnectProxiedSocketAddress.Builder io.grpc.HttpConnectProxiedSocketAddress.Builder setProxyAddress(java.net.SocketAddress)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T disableServiceConfigLookUp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.StatusException asException(io.grpc.Metadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Severity CT_INFO'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code OUT_OF_RANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.StatusRuntimeException asRuntimeException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder userAgent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRcvWscale(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancer.PickResult io.grpc.LoadBalancer.PickResult withNoResult()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata.AsciiMarshaller java.lang.String toAsciiString(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.InternalMetadata io.grpc.Metadata.Key&lt;T&gt; keyOf(java.lang.String, io.grpc.Metadata.AsciiMarshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Contexts io.grpc.ServerCall.Listener&lt;ReqT&gt; interceptCall(io.grpc.Context, io.grpc.ServerCall&lt;ReqT,RespT&gt;, io.grpc.Metadata, io.grpc.ServerCallHandler&lt;ReqT,RespT&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder perRpcBufferLimit(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Metadata.Key io.grpc.Metadata.Key&lt;T&gt; of(java.lang.String, io.grpc.Metadata.AsciiMarshaller&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.CallOptions io.grpc.CallOptions withDeadline(io.grpc.Deadline)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.LoadBalancerProvider io.grpc.NameResolver.ConfigOrError parseLoadBalancingPolicyConfig(java.util.Map&lt;java.lang.String,?&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code CANCELLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ServerCallHandler io.grpc.ServerCall.Listener&lt;RequestT&gt; startCall(io.grpc.ServerCall&lt;RequestT,ResponseT&gt;, io.grpc.Metadata)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T defaultLoadBalancingPolicy(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz void removeServer(io.grpc.InternalInstrumented&lt;io.grpc.InternalChannelz.ServerStats&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ManagedChannelBuilder T setBinaryLog(io.grpc.BinaryLog)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T maxHedgedAttempts(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder T disableRetry()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setState(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalServerInterceptors io.grpc.ServerMethodDefinition&lt;WrapReqT,WrapRespT&gt; wrapMethod(io.grpc.ServerMethodDefinition&lt;OrigReqT,OrigRespT&gt;, io.grpc.MethodDescriptor&lt;WrapReqT,WrapRespT&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.NameResolver.Args.Builder io.grpc.NameResolver.Args.Builder setDefaultPort(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.ForwardingChannelBuilder io.grpc.ManagedChannelBuilder enableFullStreamDecompression()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.TcpInfo.Builder io.grpc.InternalChannelz.TcpInfo.Builder setRto(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status io.grpc.Status withDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Status.Code UNAVAILABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.Contexts io.grpc.Status statusFromCancelled(io.grpc.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.InternalChannelz.ChannelTrace.Event.Builder io.grpc.InternalChannelz.ChannelTrace.Event.Builder setSubchannelRef(io.grpc.InternalWithLogId)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

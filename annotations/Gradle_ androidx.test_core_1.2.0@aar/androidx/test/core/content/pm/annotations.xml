@@ -1,0 +1,26 @@
+<root>
+    <item name='androidx.test.core.content.pm.ApplicationInfoBuilder androidx.test.core.content.pm.ApplicationInfoBuilder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.PackageInfoBuilder android.content.pm.PackageInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.PackageInfoBuilder androidx.test.core.content.pm.PackageInfoBuilder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.PackageInfoBuilder androidx.test.core.content.pm.PackageInfoBuilder setPackageName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.ApplicationInfoBuilder androidx.test.core.content.pm.ApplicationInfoBuilder setPackageName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.ApplicationInfoBuilder androidx.test.core.content.pm.ApplicationInfoBuilder newBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.PackageInfoBuilder androidx.test.core.content.pm.PackageInfoBuilder setApplicationInfo(android.content.pm.ApplicationInfo)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.core.content.pm.ApplicationInfoBuilder android.content.pm.ApplicationInfo build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

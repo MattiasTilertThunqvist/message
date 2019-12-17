@@ -1,0 +1,71 @@
+<root>
+    <item name='androidx.collection.ArrayMap boolean removeAll(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet boolean removeAll(androidx.collection.ArraySet&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LruCache java.util.Map&lt;K,V&gt; snapshot()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.SparseArrayCompat androidx.collection.SparseArrayCompat&lt;E&gt; clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LruCache V remove(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet java.lang.Object[] toArray()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LongSparseArray androidx.collection.LongSparseArray&lt;E&gt; clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet void addAll(androidx.collection.ArraySet&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArrayMap boolean containsAll(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet boolean removeAll(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LongSparseArray java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet boolean addAll(java.util.Collection&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet T[] toArray(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.SimpleArrayMap void putAll(androidx.collection.SimpleArrayMap&lt;? extends K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.SparseArrayCompat java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LruCache V put(K, V) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArrayMap void putAll(java.util.Map&lt;? extends K,? extends V&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LruCache V put(K, V) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet boolean containsAll(java.util.Collection&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LongSparseArray void putAll(androidx.collection.LongSparseArray&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.SparseArrayCompat void putAll(androidx.collection.SparseArrayCompat&lt;? extends E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.ArraySet T[] toArray(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.collection.LruCache V get(K) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

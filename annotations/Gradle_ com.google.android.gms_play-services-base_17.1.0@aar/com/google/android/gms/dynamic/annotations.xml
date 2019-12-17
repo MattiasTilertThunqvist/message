@@ -1,0 +1,14 @@
+<root>
+    <item name='com.google.android.gms.dynamic.DeferredLifecycleHelper void showGooglePlayUnavailableMessage(android.widget.FrameLayout) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.DeferredLifecycleHelper void handleGooglePlayUnavailable(android.widget.FrameLayout) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.DeferredLifecycleHelper android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamic.DeferredLifecycleHelper android.view.View onCreateView(android.view.LayoutInflater, android.view.ViewGroup, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

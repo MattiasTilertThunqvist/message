@@ -1,0 +1,728 @@
+<root>
+    <item name='io.opencensus.trace.NetworkEvent.Type SENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode RESOURCE_EXHAUSTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan INSTANCE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.MessageEvent.Builder io.opencensus.trace.MessageEvent.Builder setUncompressedMessageSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.SpanId getSpanId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Double,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId void copyBytesTo(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan java.lang.String toString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void putAttributes(java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions.Builder io.opencensus.trace.TraceOptions.Builder setIsSampled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode DEADLINE_EXCEEDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Annotation java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.MessageEvent.Builder io.opencensus.trace.MessageEvent build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId generateRandomId(java.util.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromBytes(byte[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void addAnnotation(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromLowerBase16(java.lang.CharSequence, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue io.opencensus.trace.AttributeValue stringAttributeValue(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId java.lang.String toLowerBase16()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.MessageEvent io.opencensus.trace.MessageEvent.Builder builder(io.opencensus.trace.MessageEvent.Type, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Sampler java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Builder io.opencensus.trace.Tracestate.Builder set(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.TraceId getTraceId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.MessageEvent.Type RECEIVED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId void copyLowerBase16To(char[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link.Type getType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Double,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue io.opencensus.trace.AttributeValue doubleAttributeValue(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void setStatus(io.opencensus.trace.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void addAnnotation(io.opencensus.trace.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Builder io.opencensus.trace.Tracestate.Builder set(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId int compareTo(io.opencensus.trace.TraceId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void end(io.opencensus.trace.EndSpanOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode UNIMPLEMENTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceComponent io.opencensus.trace.config.TraceConfig getTraceConfig()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Annotation io.opencensus.trace.Annotation fromDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode INTERNAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void addAnnotation(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void putAttributes(java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId generateRandomId(java.util.Random) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions.Builder io.opencensus.trace.TraceOptions.Builder setIsSampled()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Double,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.common.Scope withSpan(io.opencensus.trace.Span) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromLowerBase16(java.lang.CharSequence, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.trace.SpanBuilder setRecordEvents(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.trace.SpanBuilder setSpanKind(io.opencensus.trace.Span.Kind)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromBytes(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.MessageEvent.Builder io.opencensus.trace.MessageEvent.Builder setCompressedMessageSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId byte[] getBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link.Type PARENT_LINKED_SPAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode INVALID_ARGUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Entry io.opencensus.trace.Tracestate.Entry create(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate io.opencensus.trace.Tracestate.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId generateRandomId(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode UNAUTHENTICATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.trace.SpanBuilder spanBuilderWithExplicitParent(java.lang.String, io.opencensus.trace.Span)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.NetworkEvent io.opencensus.trace.NetworkEvent.Builder builder(io.opencensus.trace.NetworkEvent.Type, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue io.opencensus.trace.AttributeValue stringAttributeValue(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void addMessageEvent(io.opencensus.trace.MessageEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link fromSpanContext(io.opencensus.trace.SpanContext, io.opencensus.trace.Link.Type) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void addLink(io.opencensus.trace.Link) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void addAnnotation(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Link.Type CHILD_LINKED_SPAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.EndSpanOptions.Builder io.opencensus.trace.EndSpanOptions.Builder setSampleToLocalSpanStore(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.EndSpanOptions.Builder io.opencensus.trace.EndSpanOptions.Builder setStatus(io.opencensus.trace.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions void copyBytesTo(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate java.util.List&lt;io.opencensus.trace.Tracestate.Entry&gt; getEntries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.common.Scope startScopedSpan()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.trace.SpanBuilder setParentLinks(java.util.List&lt;io.opencensus.trace.Span&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode OK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions byte[] getBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate io.opencensus.trace.Tracestate.Builder toBuilder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode OUT_OF_RANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.NetworkEvent.Builder io.opencensus.trace.NetworkEvent.Builder setUncompressedMessageSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Entry io.opencensus.trace.Tracestate.Entry create(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Annotation io.opencensus.trace.Annotation fromDescriptionAndAttributes(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt; getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromLowerBase16(java.lang.CharSequence, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span.Kind CLIENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions.Builder io.opencensus.trace.TraceOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.common.Scope withSpan(io.opencensus.trace.Span)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromBytes(byte[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Annotation io.opencensus.trace.Annotation fromDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId INVALID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceComponent io.opencensus.trace.propagation.PropagationComponent getPropagationComponent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromLowerBase16(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Builder io.opencensus.trace.Tracestate.Builder set(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId byte[] getBytes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId void copyBytesTo(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode NOT_FOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status io.opencensus.trace.Status.CanonicalCode getCanonicalCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void addAnnotation(io.opencensus.trace.Annotation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId INVALID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Annotation io.opencensus.trace.Annotation fromDescriptionAndAttributes(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.NetworkEvent.Type RECV'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceComponent io.opencensus.trace.Tracer getTracer()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void addAnnotation(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanContext io.opencensus.trace.SpanContext create(io.opencensus.trace.TraceId, io.opencensus.trace.SpanId, io.opencensus.trace.TraceOptions, io.opencensus.trace.Tracestate)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceComponent io.opencensus.trace.export.ExportComponent getExportComponent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void putAttribute(java.lang.String, io.opencensus.trace.AttributeValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link fromSpanContext(io.opencensus.trace.SpanContext, io.opencensus.trace.Link.Type, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.trace.SpanBuilder setSampler(io.opencensus.trace.Sampler)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId java.lang.String toLowerBase16()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.EndSpanOptions.Builder io.opencensus.trace.EndSpanOptions build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Span void addAttributes(java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromBytes(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromLowerBase16(java.lang.CharSequence, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link fromSpanContext(io.opencensus.trace.SpanContext, io.opencensus.trace.Link.Type)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void putAttribute(java.lang.String, io.opencensus.trace.AttributeValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.trace.SpanBuilder setSampler(io.opencensus.trace.Sampler) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId void copyLowerBase16To(char[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromLowerBase16(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.trace.SpanBuilder spanBuilderWithExplicitParent(java.lang.String, io.opencensus.trace.Span) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Span void addNetworkEvent(io.opencensus.trace.NetworkEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromBytes(byte[], int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Entry io.opencensus.trace.Tracestate.Entry create(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Annotation io.opencensus.trace.Annotation fromDescriptionAndAttributes(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanContext io.opencensus.trace.SpanContext create(io.opencensus.trace.TraceId, io.opencensus.trace.SpanId, io.opencensus.trace.TraceOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode ALREADY_EXISTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void addMessageEvent(io.opencensus.trace.MessageEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span Span(io.opencensus.trace.SpanContext, java.util.EnumSet&lt;io.opencensus.trace.Span.Options&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanBuilder io.opencensus.trace.Span startSpan()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromLowerBase16(java.lang.CharSequence) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void addLink(io.opencensus.trace.Link) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromByte(byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span io.opencensus.trace.SpanContext getContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromLowerBase16(java.lang.CharSequence, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions void copyLowerBase16To(char[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link fromSpanContext(io.opencensus.trace.SpanContext, io.opencensus.trace.Link.Type) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode CANCELLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.NetworkEvent.Builder io.opencensus.trace.NetworkEvent build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Span void putAttribute(java.lang.String, io.opencensus.trace.AttributeValue) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions.Builder builder(io.opencensus.trace.TraceOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.NetworkEvent.Builder io.opencensus.trace.NetworkEvent.Builder setCompressedMessageSize(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Span void addAnnotation(java.lang.String, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromBytes(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Builder io.opencensus.trace.Tracestate.Builder remove(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue io.opencensus.trace.AttributeValue longAttributeValue(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId generateRandomId(java.util.Random)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode DATA_LOSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Double,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.trace.SpanBuilder spanBuilderWithRemoteParent(java.lang.String, io.opencensus.trace.SpanContext)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions fromBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.EndSpanOptions.Builder io.opencensus.trace.EndSpanOptions.Builder setStatus(io.opencensus.trace.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode FAILED_PRECONDITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.MessageEvent.Type SENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Builder io.opencensus.trace.Tracestate.Builder remove(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Span void end(io.opencensus.trace.EndSpanOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode PERMISSION_DENIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode UNAVAILABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void setStatus(io.opencensus.trace.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link fromSpanContext(io.opencensus.trace.SpanContext, io.opencensus.trace.Link.Type, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.NetworkEvent.Builder io.opencensus.trace.NetworkEvent.Builder setKernelTimestamp(io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue io.opencensus.trace.AttributeValue booleanAttributeValue(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.trace.Span getCurrentSpan()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanContext INVALID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Entry java.lang.String getKey()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions java.lang.String toLowerBase16()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Annotation java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt; getAttributes()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceComponent io.opencensus.common.Clock getClock()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Span.Kind SERVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Link io.opencensus.trace.Link fromSpanContext(io.opencensus.trace.SpanContext, io.opencensus.trace.Link.Type, java.util.Map&lt;java.lang.String,io.opencensus.trace.AttributeValue&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Double,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void putAttribute(java.lang.String, io.opencensus.trace.AttributeValue) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromLowerBase16(java.lang.CharSequence, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.BlankSpan void addNetworkEvent(io.opencensus.trace.NetworkEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Span.Options RECORD_EVENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status io.opencensus.trace.Status withDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer io.opencensus.trace.SpanBuilder spanBuilderWithRemoteParent(java.lang.String, io.opencensus.trace.SpanContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Builder io.opencensus.trace.Tracestate build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.AttributeValue T match(io.opencensus.common.Function&lt;? super java.lang.String,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Boolean,T&gt;, io.opencensus.common.Function&lt;? super java.lang.Long,T&gt;, io.opencensus.common.Function&lt;java.lang.Object,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.EndSpanOptions io.opencensus.trace.EndSpanOptions.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer java.lang.Runnable withSpan(io.opencensus.trace.Span, java.lang.Runnable)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracer java.util.concurrent.Callable&lt;C&gt; withSpan(io.opencensus.trace.Span, java.util.concurrent.Callable&lt;C&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Status.CanonicalCode ABORTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId int compareTo(io.opencensus.trace.SpanId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.Tracestate.Entry java.lang.String getValue()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.trace.TraceId io.opencensus.trace.TraceId fromBytes(byte[], int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.TraceOptions io.opencensus.trace.TraceOptions.Builder builder(io.opencensus.trace.TraceOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.trace.SpanId io.opencensus.trace.SpanId fromLowerBase16(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

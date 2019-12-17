@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.test.InstrumentationRegistry android.os.Bundle getArguments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

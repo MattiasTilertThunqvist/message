@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.core.location.LocationManagerCompat boolean isLocationEnabled(android.location.LocationManager) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

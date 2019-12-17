@@ -1,0 +1,146 @@
+<root>
+    <item name='com.google.firebase.firestore.model.DocumentKey boolean isDocumentKey(com.google.firebase.firestore.model.ResourcePath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.ResourcePath getPath()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.BasePath int compareTo(B) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.BasePath int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.BasePath boolean isImmediateParentOf(B) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.BasePath boolean isPrefixOf(B) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey int compareTo(com.google.firebase.firestore.model.DocumentKey) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.SnapshotVersion int compareTo(com.google.firebase.firestore.model.SnapshotVersion) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath com.google.firebase.firestore.model.FieldPath fromServerFormat(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt; emptyKeySet()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey fromSegments(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.BasePath B append(B) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DatabaseId com.google.firebase.firestore.model.DatabaseId forDatabase(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath com.google.firebase.firestore.model.FieldPath fromSegments(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.ResourcePath com.google.firebase.firestore.model.ResourcePath fromSegments(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey java.util.Comparator&lt;com.google.firebase.firestore.model.DocumentKey&gt; comparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey fromPath(com.google.firebase.firestore.model.ResourcePath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.Document.DocumentState COMMITTED_MUTATIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.Document.DocumentState LOCAL_MUTATIONS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey fromSegments(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentSet com.google.firebase.firestore.model.DocumentSet emptySet(java.util.Comparator&lt;com.google.firebase.firestore.model.Document&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentSet java.util.List&lt;com.google.firebase.firestore.model.Document&gt; toList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.Document.DocumentState SYNCED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.SnapshotVersion NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DatabaseId com.google.firebase.firestore.model.DatabaseId forProject(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DatabaseId int compareTo(com.google.firebase.firestore.model.DatabaseId) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.ResourcePath com.google.firebase.firestore.model.ResourcePath fromSegments(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DatabaseId int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey fromPath(com.google.firebase.firestore.model.ResourcePath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentSet com.google.firebase.firestore.model.DocumentSet add(com.google.firebase.firestore.model.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.SnapshotVersion int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath EMPTY_PATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey KEY_FIELD_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath com.google.firebase.firestore.model.FieldPath fromSegments(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.ResourcePath EMPTY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.ResourcePath com.google.firebase.firestore.model.ResourcePath fromString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey fromPathString(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey empty()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentKey com.google.firebase.firestore.model.DocumentKey fromPathString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentSet com.google.firebase.firestore.model.DocumentSet remove(com.google.firebase.firestore.model.DocumentKey)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DocumentSet com.google.firebase.firestore.model.DocumentSet add(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath KEY_PATH'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.ResourcePath com.google.firebase.firestore.model.ResourcePath fromString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.DatabaseId DEFAULT_DATABASE_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.Document java.util.Comparator&lt;com.google.firebase.firestore.model.Document&gt; keyComparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath com.google.firebase.firestore.model.FieldPath fromServerFormat(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.FieldPath com.google.firebase.firestore.model.FieldPath fromSingleSegment(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

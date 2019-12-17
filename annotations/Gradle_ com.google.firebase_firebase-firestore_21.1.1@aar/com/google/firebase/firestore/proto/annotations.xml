@@ -1,0 +1,455 @@
+<root>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder clearLocalWriteTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setDocuments(com.google.firestore.v1.Target.DocumentsTarget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder mergeReadTime(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue.Builder com.google.firebase.firestore.proto.MutationQueue.Builder setLastAcknowledgedBatchId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder clearHighestListenSequenceNumber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setLastRemoteSnapshotVersion(com.google.protobuf.Timestamp.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setBaseWrites(int, com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder removeWrites(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder clearHasCommittedMutations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setLastLimboFreeSnapshotVersion(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setUnknownDocument(com.google.firebase.firestore.proto.UnknownDocument.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearDocuments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setNoDocument(com.google.firebase.firestore.proto.NoDocument.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setLastRemoteSnapshotVersion(com.google.protobuf.Timestamp.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setWrites(int, com.google.firestore.v1.Write) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setBaseWrites(int, com.google.firestore.v1.Write) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addAllWrites(java.lang.Iterable&lt;? extends com.google.firestore.v1.Write&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder mergeVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(int, com.google.firestore.v1.Write.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue com.google.firebase.firestore.proto.MutationQueue getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder mergeNoDocument(com.google.firebase.firestore.proto.NoDocument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue.Builder com.google.firebase.firestore.proto.MutationQueue.Builder setLastStreamToken(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder mergeLocalWriteTime(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearLastLimboFreeSnapshotVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setWrites(int, com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(com.google.firestore.v1.Write) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue.Builder com.google.firebase.firestore.proto.MutationQueue.Builder clearLastStreamToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder clearTargetCount()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setHighestListenSequenceNumber(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder mergeLastLimboFreeSnapshotVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setBatchId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder clearReadTime()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setUnknownDocument(com.google.firebase.firestore.proto.UnknownDocument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setReadTime(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setLastLimboFreeSnapshotVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setSnapshotVersion(com.google.protobuf.Timestamp.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(com.google.firestore.v1.Write.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearTargetId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearQuery()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setVersion(com.google.protobuf.Timestamp.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setBaseWrites(int, com.google.firestore.v1.Write.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearLastListenSequenceNumber()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setVersion(com.google.protobuf.Timestamp.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setLocalWriteTime(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.DocumentTypeCase DOCUMENTTYPE_NOT_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder mergeUnknownDocument(com.google.firebase.firestore.proto.UnknownDocument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setNoDocument(com.google.firebase.firestore.proto.NoDocument) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setUnknownDocument(com.google.firebase.firestore.proto.UnknownDocument) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue.Builder com.google.firebase.firestore.proto.MutationQueue.Builder setLastStreamToken(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setVersion(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setSnapshotVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch com.google.firebase.firestore.proto.WriteBatch getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(int, com.google.firestore.v1.Write.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setNoDocument(com.google.firebase.firestore.proto.NoDocument)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder clearVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder mergeDocuments(com.google.firestore.v1.Target.DocumentsTarget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setReadTime(com.google.protobuf.Timestamp.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setQuery(com.google.firestore.v1.Target.QueryTarget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument com.google.firebase.firestore.proto.MaybeDocument getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target com.google.firebase.firestore.proto.Target getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(com.google.firestore.v1.Write.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(int, com.google.firestore.v1.Write) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder removeBaseWrites(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder clearNoDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setLastLimboFreeSnapshotVersion(com.google.protobuf.Timestamp.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder clearWrites()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setNoDocument(com.google.firebase.firestore.proto.NoDocument.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setLocalWriteTime(com.google.protobuf.Timestamp.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setHasCommittedMutations(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setDocuments(com.google.firestore.v1.Target.DocumentsTarget.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.TargetTypeCase TARGETTYPE_NOT_SET'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(int, com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder clearBatchId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setLocalWriteTime(com.google.protobuf.Timestamp.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.TargetTypeCase QUERY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder clearLastRemoteSnapshotVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(com.google.firestore.v1.Write) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setDocument(com.google.firestore.v1.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(int, com.google.firestore.v1.Write.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.DocumentTypeCase DOCUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal com.google.firebase.firestore.proto.TargetGlobal getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder clearHighestTargetId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setLastRemoteSnapshotVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setDocument(com.google.firestore.v1.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.DocumentTypeCase NO_DOCUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearTargetType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder mergeQuery(com.google.firestore.v1.Target.QueryTarget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearSnapshotVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setTargetCount(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setDocuments(com.google.firestore.v1.Target.DocumentsTarget.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setDocument(com.google.firestore.v1.Document.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setQuery(com.google.firestore.v1.Target.QueryTarget)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder clearDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setReadTime(com.google.protobuf.Timestamp.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setLastRemoteSnapshotVersion(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setLocalWriteTime(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder clearUnknownDocument()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder mergeDocument(com.google.firestore.v1.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder setHighestTargetId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setLastLimboFreeSnapshotVersion(com.google.protobuf.Timestamp.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder mergeSnapshotVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setBaseWrites(int, com.google.firestore.v1.Write.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(com.google.firestore.v1.Write.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(int, com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setSnapshotVersion(com.google.protobuf.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.TargetTypeCase DOCUMENTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder clearBaseWrites()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder clearDocumentType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setReadTime(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MutationQueue.Builder com.google.firebase.firestore.proto.MutationQueue.Builder clearLastAcknowledgedBatchId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setTargetId(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setDocument(com.google.firestore.v1.Document.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder clearResumeToken()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setLastListenSequenceNumber(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(int, com.google.firestore.v1.Write) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setResumeToken(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument com.google.firebase.firestore.proto.NoDocument getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setQuery(com.google.firestore.v1.Target.QueryTarget.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setWrites(int, com.google.firestore.v1.Write.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument com.google.firebase.firestore.proto.UnknownDocument getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.NoDocument.Builder com.google.firebase.firestore.proto.NoDocument.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.UnknownDocument.Builder com.google.firebase.firestore.proto.UnknownDocument.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.Builder com.google.firebase.firestore.proto.MaybeDocument.Builder setUnknownDocument(com.google.firebase.firestore.proto.UnknownDocument.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setSnapshotVersion(com.google.protobuf.Timestamp.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addAllBaseWrites(java.lang.Iterable&lt;? extends com.google.firestore.v1.Write&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(com.google.firestore.v1.Write)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.TargetGlobal.Builder com.google.firebase.firestore.proto.TargetGlobal.Builder mergeLastRemoteSnapshotVersion(com.google.protobuf.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setQuery(com.google.firestore.v1.Target.QueryTarget.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addWrites(com.google.firestore.v1.Write.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.MaybeDocument.DocumentTypeCase UNKNOWN_DOCUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder addBaseWrites(int, com.google.firestore.v1.Write.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setResumeToken(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.WriteBatch.Builder com.google.firebase.firestore.proto.WriteBatch.Builder setWrites(int, com.google.firestore.v1.Write.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.proto.Target.Builder com.google.firebase.firestore.proto.Target.Builder setDocuments(com.google.firestore.v1.Target.DocumentsTarget) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,1091 @@
+<root>
+    <item name='io.opencensus.stats.View io.opencensus.stats.Measure getMeasure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Count T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Mean T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementLong io.opencensus.stats.Measurement.MeasurementLong create(io.opencensus.stats.Measure.MeasureLong, long) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.View getView()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData io.opencensus.common.Timestamp getEnd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Sum io.opencensus.stats.Aggregation.Sum create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Count T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Mean T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View java.util.List&lt;io.opencensus.tags.TagKey&gt; getColumns()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.LastValue io.opencensus.stats.Aggregation.LastValue create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementDouble io.opencensus.stats.Measurement.MeasurementDouble create(io.opencensus.stats.Measure.MeasureDouble, double) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Interval io.opencensus.stats.View.AggregationWindow.Interval create(io.opencensus.common.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementLong io.opencensus.stats.Measure.MeasureLong getMeasure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, java.util.List&lt;java.lang.Long&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, double, double, java.util.List&lt;java.lang.Long&gt;, java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution io.opencensus.stats.Aggregation.Distribution create(io.opencensus.stats.BucketBoundaries)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementDouble io.opencensus.stats.Measure.MeasureDouble getMeasure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, double, double, java.util.List&lt;java.lang.Long&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.StatsComponent io.opencensus.stats.StatsRecorder getStatsRecorder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.IntervalData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.common.Timestamp getStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble io.opencensus.stats.Measure.MeasureDouble create(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.StatsComponent io.opencensus.stats.StatsCollectionState getState()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong io.opencensus.stats.AggregationData.SumDataLong create(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Mean T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble io.opencensus.stats.Measure.MeasureDouble create(java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.common.Timestamp, io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble java.lang.String getUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.IntervalData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble io.opencensus.stats.Measure.MeasureDouble create(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View.Name getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Count io.opencensus.stats.Aggregation.Count create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap putAttachment(java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData.AggregationWindowData getWindowData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, java.util.List&lt;java.lang.Long&gt;, java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.IntervalData io.opencensus.stats.ViewData.AggregationWindowData.IntervalData create(io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap putAttachment(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Cumulative io.opencensus.stats.View.AggregationWindow.Cumulative create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData create(io.opencensus.common.Timestamp, io.opencensus.common.Timestamp) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, java.util.List&lt;java.lang.Long&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong java.lang.String getUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewManager void registerView(io.opencensus.stats.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.IntervalData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.IntervalData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementLong io.opencensus.stats.Measurement.MeasurementLong create(io.opencensus.stats.Measure.MeasureLong, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.IntervalData io.opencensus.stats.ViewData.AggregationWindowData.IntervalData create(io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong io.opencensus.stats.AggregationData.LastValueDataLong create(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, double, double, java.util.List&lt;java.lang.Long&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong io.opencensus.stats.Measure.MeasureLong create(java.lang.String, java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble io.opencensus.stats.AggregationData.LastValueDataDouble create(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong io.opencensus.stats.Measure.MeasureLong create(java.lang.String, java.lang.String, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, java.util.List&lt;java.lang.Long&gt;, java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.IntervalData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.IntervalData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, java.util.List&lt;java.lang.Long&gt;, java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong io.opencensus.stats.Measure.MeasureLong create(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.StatsCollectionState DISABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData create(io.opencensus.common.Timestamp, io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData io.opencensus.common.Timestamp getStart()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementDouble io.opencensus.stats.Measurement.MeasurementDouble create(io.opencensus.stats.Measure.MeasureDouble, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.StatsComponent io.opencensus.stats.ViewManager getViewManager()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.common.Timestamp, io.opencensus.common.Timestamp) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution io.opencensus.stats.Aggregation.Distribution create(io.opencensus.stats.BucketBoundaries) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.stats.ViewData.AggregationWindowData) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Cumulative,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Interval,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Cumulative T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Cumulative,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Interval,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.LastValue T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt; getExemplars()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measurement io.opencensus.stats.Measure getMeasure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData java.util.Map&lt;java.util.List&lt;io.opencensus.tags.TagValue&gt;,io.opencensus.stats.AggregationData&gt; getAggregationMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.BucketBoundaries io.opencensus.stats.BucketBoundaries create(java.util.List&lt;java.lang.Double&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Sum T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, double, double, java.util.List&lt;java.lang.Long&gt;, java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.common.Timestamp, io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementLong io.opencensus.stats.Measure getMeasure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong io.opencensus.stats.Measure.MeasureLong create(java.lang.String, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Cumulative,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Interval,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.LastValue T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.StatsCollectionState ENABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData java.util.List&lt;java.lang.Long&gt; getBucketCounts()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Sum T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure java.lang.String getName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.LastValue T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.common.Timestamp, io.opencensus.common.Timestamp) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.Name io.opencensus.stats.View.Name create(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData create(io.opencensus.common.Timestamp, io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Mean io.opencensus.stats.Aggregation.Mean create()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Interval T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Cumulative,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Interval,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.common.Timestamp getEnd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View.AggregationWindow getWindow()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Sum T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure java.lang.String getUnit()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.common.Timestamp, io.opencensus.common.Timestamp) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.BucketBoundaries java.util.List&lt;java.lang.Double&gt; getBoundaries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measurement T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement.MeasurementLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measurement,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.LastValue T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measurement.MeasurementDouble io.opencensus.stats.Measure getMeasure()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Interval T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Cumulative,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Interval,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewManager io.opencensus.stats.ViewData getView(io.opencensus.stats.View.Name) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap putAttachment(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Interval io.opencensus.stats.View.AggregationWindow.Interval create(io.opencensus.common.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Sum T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap void record(io.opencensus.tags.TagContext) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap put(io.opencensus.stats.Measure.MeasureDouble, double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap putAttachment(java.lang.String, io.opencensus.metrics.data.AttachmentValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Interval io.opencensus.common.Duration getDuration()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.StatsRecorder io.opencensus.stats.MeasureMap newMeasureMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap putAttachment(java.lang.String, io.opencensus.metrics.data.AttachmentValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap put(io.opencensus.stats.Measure.MeasureLong, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.CountData io.opencensus.stats.AggregationData.CountData create(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.IntervalData io.opencensus.common.Timestamp getEnd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.SumDataDouble io.opencensus.stats.AggregationData.SumDataDouble create(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.StatsComponent void setState(io.opencensus.stats.StatsCollectionState) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.LastValueDataDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 5'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble io.opencensus.stats.Measure.MeasureDouble create(java.lang.String, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData io.opencensus.stats.AggregationData.DistributionData create(double, long, double, double, double, java.util.List&lt;java.lang.Long&gt;, java.util.List&lt;io.opencensus.metrics.data.Exemplar&gt;) 6'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Count T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.IntervalData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution io.opencensus.stats.BucketBoundaries getBucketBoundaries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.Aggregation getAggregation()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.CumulativeData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData.IntervalData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.ViewData.AggregationWindowData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.Name java.lang.String asString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Count T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.stats.ViewData.AggregationWindowData) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Mean T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.LastValue T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.DistributionData T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.SumDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.CountData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.DistributionData,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData.LastValueDataLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.AggregationData,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.BucketBoundaries io.opencensus.stats.BucketBoundaries create(java.util.List&lt;java.lang.Double&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Sum T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Count T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureLong T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble java.lang.String getDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Distribution T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;, io.opencensus.stats.View.AggregationWindow) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.AggregationData.MeanData io.opencensus.stats.AggregationData.MeanData create(double, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Measure.MeasureDouble T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureDouble,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure.MeasureLong,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Measure,T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.Aggregation.Mean T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Sum,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Count,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.Distribution,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation.LastValue,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.Aggregation,T&gt;) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.ViewData io.opencensus.stats.ViewData create(io.opencensus.stats.View, java.util.Map&lt;? extends java.util.List&lt;io.opencensus.tags.TagValue&gt;,? extends io.opencensus.stats.AggregationData&gt;, io.opencensus.stats.ViewData.AggregationWindowData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.Name io.opencensus.stats.View.Name create(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View.AggregationWindow.Cumulative T match(io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Cumulative,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow.Interval,T&gt;, io.opencensus.common.Function&lt;? super io.opencensus.stats.View.AggregationWindow,T&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.stats.MeasureMap io.opencensus.stats.MeasureMap putAttachment(java.lang.String, io.opencensus.metrics.data.AttachmentValue) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.stats.View io.opencensus.stats.View create(io.opencensus.stats.View.Name, java.lang.String, io.opencensus.stats.Measure, io.opencensus.stats.Aggregation, java.util.List&lt;io.opencensus.tags.TagKey&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

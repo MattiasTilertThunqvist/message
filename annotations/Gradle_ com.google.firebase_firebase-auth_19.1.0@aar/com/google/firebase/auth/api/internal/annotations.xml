@@ -1,0 +1,203 @@
+<root>
+    <item name='com.google.firebase.auth.api.internal.zzar com.google.firebase.auth.api.internal.zzar&lt;A,ResultT&gt; zzd()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzam java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzei zza'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzar java.lang.String zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.FirebaseException zza(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; zza(com.google.firebase.FirebaseApp, com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential, java.lang.String, com.google.firebase.auth.internal.zzax) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzec void zza(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzfe zzfe(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzfc void zza(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzfh com.google.android.gms.internal.firebase_auth.zzgb zza(com.google.firebase.auth.PhoneAuthCredential)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zza(com.google.firebase.FirebaseApp, com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential, com.google.firebase.auth.internal.zzax) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdu java.lang.String getServiceDescriptor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzem com.google.firebase.auth.api.internal.zzem zzc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.auth.zzs zza(com.google.firebase.auth.FirebaseAuth, com.google.android.gms.internal.firebase_auth.zzee, com.google.firebase.auth.FirebaseUser) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzfl T zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzea void zza(com.google.android.gms.internal.firebase_auth.zzec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzec void zza(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzei com.google.firebase.auth.api.internal.zzas zza(android.content.Context, com.google.firebase.auth.api.internal.zzek)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzej com.google.firebase.auth.api.internal.zzek zza()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.auth.FirebaseAuthUserCollisionException zza(com.google.android.gms.common.api.Status, com.google.firebase.auth.AuthCredential, java.lang.String, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzak com.google.android.gms.tasks.Task&lt;ResultT&gt; zzb(com.google.firebase.auth.api.internal.zzar&lt;A,ResultT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; zzb(com.google.firebase.FirebaseApp, java.lang.String, com.google.firebase.auth.ActionCodeSettings, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzem boolean zza(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzea void zza(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zzd(com.google.firebase.FirebaseApp, com.google.firebase.auth.FirebaseUser, java.lang.String, com.google.firebase.auth.internal.zzax) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzem java.lang.String zzb()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zza(com.google.firebase.FirebaseApp, com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential, com.google.firebase.auth.internal.zzax) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzff void zza(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzek java.lang.Object clone()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzb void zza(java.lang.String, com.google.firebase.auth.ActionCodeSettings, java.lang.String, com.google.firebase.auth.api.internal.zzds) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzak com.google.android.gms.tasks.Task&lt;ResultT&gt; zza(com.google.firebase.auth.api.internal.zzar&lt;A,ResultT&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.auth.zzs zza(com.google.firebase.auth.FirebaseAuth, com.google.android.gms.internal.firebase_auth.zzee, com.google.firebase.auth.FirebaseUser) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.FirebaseException zza(com.google.android.gms.common.api.Status)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzeb WrapperT zza(com.google.android.gms.internal.firebase_auth.zzjg) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zzb(com.google.firebase.FirebaseApp, com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.AuthCredential, java.lang.String, com.google.firebase.auth.internal.zzax) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.auth.zzs zza(com.google.firebase.auth.FirebaseAuth, com.google.android.gms.internal.firebase_auth.zzee, com.google.firebase.auth.FirebaseUser)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzb void zza(com.google.android.gms.internal.firebase_auth.zzfi, com.google.firebase.auth.api.internal.zzds) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdu com.google.android.gms.common.Feature[] getApiFeatures()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzec void zza(com.google.android.gms.internal.firebase_auth.zzec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzb void zza(com.google.firebase.auth.EmailAuthCredential, com.google.firebase.auth.api.internal.zzds) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzeb WrapperT zza(com.google.android.gms.internal.firebase_auth.zzjg)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdu android.os.Bundle getGetServiceRequestExtraArgs()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzaq boolean zza(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdx com.google.firebase.auth.FirebaseAuthUserCollisionException zza(com.google.android.gms.common.api.Status, com.google.firebase.auth.AuthCredential, java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzar com.google.firebase.auth.api.internal.zzar&lt;A,ResultT&gt; zzc()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; zza(com.google.firebase.FirebaseApp, java.lang.String, com.google.firebase.auth.ActionCodeSettings, java.lang.String) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzfh com.google.android.gms.internal.firebase_auth.zzgb zza(com.google.firebase.auth.PhoneAuthCredential) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;com.google.firebase.auth.AuthResult&gt; zza(com.google.firebase.FirebaseApp, com.google.firebase.auth.AuthCredential, java.lang.String, com.google.firebase.auth.internal.zzb) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzea void zza(com.google.android.gms.common.api.Status) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzas com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; zza(com.google.firebase.FirebaseApp, com.google.firebase.auth.FirebaseUser, com.google.firebase.auth.PhoneAuthCredential, java.lang.String, com.google.firebase.auth.internal.zzax) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.auth.api.internal.zzdu java.lang.String getStartServiceAction()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,113 @@
+<root>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createFromIcon(android.graphics.drawable.Icon)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.RoundedBitmapDrawableFactory androidx.core.graphics.drawable.RoundedBitmapDrawable create(android.content.res.Resources, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithContentUri(android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat setTint(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithResource(android.content.res.Resources, java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithBitmap(android.graphics.Bitmap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer void write(androidx.core.graphics.drawable.IconCompat, androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat setTintMode(android.graphics.PorterDuff.Mode)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithResource(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.RoundedBitmapDrawable void setTargetDensity(android.graphics.Canvas) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat void addToShortcutIntent(android.content.Intent, android.graphics.drawable.Drawable, android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithContentUri(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createFromIcon(android.content.Context, android.graphics.drawable.Icon) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithContentUri(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithResource(android.content.Context, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableCompat void inflate(android.graphics.drawable.Drawable, android.content.res.Resources, org.xmlpull.v1.XmlPullParser, android.util.AttributeSet, android.content.res.Resources.Theme) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.RoundedBitmapDrawable android.graphics.Paint getPaint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat android.os.Bundle toBundle()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithBitmap(android.graphics.Bitmap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createFromBundle(android.os.Bundle) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithResource(android.content.res.Resources, java.lang.String, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableCompat void jumpToCurrentState(android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithContentUri(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithAdaptiveBitmap(android.graphics.Bitmap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithData(byte[], int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.RoundedBitmapDrawableFactory androidx.core.graphics.drawable.RoundedBitmapDrawable create(android.content.res.Resources, java.io.InputStream)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.RoundedBitmapDrawable void setTargetDensity(android.util.DisplayMetrics) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createFromIcon(android.content.Context, android.graphics.drawable.Icon)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.RoundedBitmapDrawableFactory androidx.core.graphics.drawable.RoundedBitmapDrawable create(android.content.res.Resources, android.graphics.Bitmap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer void write(androidx.core.graphics.drawable.IconCompat, androidx.versionedparcelable.VersionedParcel) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat setTintList(android.content.res.ColorStateList)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithData(byte[], int, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createWithAdaptiveBitmap(android.graphics.Bitmap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableCompat void clearColorFilter(android.graphics.drawable.Drawable) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompat androidx.core.graphics.drawable.IconCompat createFromIcon(android.graphics.drawable.Icon) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconCompatParcelizer androidx.core.graphics.drawable.IconCompat read(androidx.versionedparcelable.VersionedParcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

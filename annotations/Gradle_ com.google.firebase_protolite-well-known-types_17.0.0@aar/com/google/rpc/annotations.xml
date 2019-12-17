@@ -1,0 +1,701 @@
+<root>
+    <item name='com.google.rpc.Code UNIMPLEMENTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code DEADLINE_EXCEEDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addAllViolations(java.lang.Iterable&lt;? extends com.google.rpc.PreconditionFailure.Violation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder setLinks(int, com.google.rpc.Help.Link)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(com.google.rpc.Help.Link)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(int, com.google.rpc.QuotaFailure.Violation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(com.google.rpc.QuotaFailure.Violation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder setViolations(int, com.google.rpc.PreconditionFailure.Violation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setSubject(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setCode(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setDescriptionBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceTypeBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code ABORTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setDetails(int, com.google.protobuf.Any.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setSubjectBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setRequestIdBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder setStackEntries(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setLocaleBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code INVALID_ARGUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure com.google.rpc.QuotaFailure getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code NOT_FOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder clearDetails()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder clearDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder clearMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(com.google.rpc.PreconditionFailure.Violation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setSubject(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(com.google.rpc.QuotaFailure.Violation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder setFieldViolations(int, com.google.rpc.BadRequest.FieldViolation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setDescriptionBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder addStackEntriesBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code UNAVAILABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(com.google.rpc.BadRequest.FieldViolation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setTypeBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(int, com.google.rpc.Help.Link) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setUrlBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(com.google.rpc.PreconditionFailure.Violation.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo.Builder com.google.rpc.RetryInfo.Builder clearRetryDelay()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(int, com.google.rpc.Help.Link.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder clearViolations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code CANCELLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder setViolations(int, com.google.rpc.PreconditionFailure.Violation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder setDetailBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder clearDetail()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(com.google.protobuf.Any.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setServingData(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder setDetail(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder clearCode()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code OK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder setViolations(int, com.google.rpc.PreconditionFailure.Violation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(int, com.google.rpc.Help.Link)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setUrl(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder removeViolations(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder setDetail(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setSubject(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder clearLocale()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation com.google.rpc.QuotaFailure.Violation getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(com.google.rpc.BadRequest.FieldViolation.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(com.google.protobuf.Any.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder setDetailBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setDescriptionBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setServingData(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setRequestId(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder clearResourceType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setDescriptionBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addAllViolations(java.lang.Iterable&lt;? extends com.google.rpc.QuotaFailure.Violation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addAllLinks(java.lang.Iterable&lt;? extends com.google.rpc.Help.Link&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest com.google.rpc.BadRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code FAILED_PRECONDITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(int, com.google.rpc.BadRequest.FieldViolation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder clearDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setOwnerBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(com.google.rpc.BadRequest.FieldViolation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder setLinks(int, com.google.rpc.Help.Link.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder clearUrl()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder clearViolations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder clearStackEntries()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setMessage(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code ALREADY_EXISTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code DATA_LOSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(int, com.google.rpc.BadRequest.FieldViolation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder addStackEntries(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder setLinks(int, com.google.rpc.Help.Link.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(com.google.rpc.PreconditionFailure.Violation) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(int, com.google.rpc.BadRequest.FieldViolation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder clearField()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder addAllStackEntries(java.lang.Iterable&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setMessage(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder setViolations(int, com.google.rpc.QuotaFailure.Violation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(int, com.google.protobuf.Any) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo com.google.rpc.DebugInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setDescription(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder clearRequestId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder setViolations(int, com.google.rpc.QuotaFailure.Violation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder clearSubject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(int, com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(com.google.rpc.BadRequest.FieldViolation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addAllFieldViolations(java.lang.Iterable&lt;? extends com.google.rpc.BadRequest.FieldViolation&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setServingDataBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setOwnerBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder setLinks(int, com.google.rpc.Help.Link) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo.Builder com.google.rpc.RetryInfo.Builder mergeRetryDelay(com.google.protobuf.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code RESOURCE_EXHAUSTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(com.google.rpc.Help.Link) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setTypeBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo com.google.rpc.RequestInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(int, com.google.rpc.QuotaFailure.Violation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder removeLinks(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder clearDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setFieldBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setDescriptionBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setServingDataBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status com.google.rpc.Status getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder addFieldViolations(int, com.google.rpc.BadRequest.FieldViolation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceTypeBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder clearServingData()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setDetails(int, com.google.protobuf.Any.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setSubject(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setField(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo com.google.rpc.ResourceInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder setStackEntries(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link com.google.rpc.Help.Link getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setUrlBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder clearDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure com.google.rpc.PreconditionFailure getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder addStackEntries(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder setFieldViolations(int, com.google.rpc.BadRequest.FieldViolation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(int, com.google.rpc.PreconditionFailure.Violation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder clearOwner()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation com.google.rpc.BadRequest.FieldViolation getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setDescriptionBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder clearMessage()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code PERMISSION_DENIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setLocale(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setDescriptionBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(com.google.rpc.QuotaFailure.Violation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(int, com.google.rpc.Help.Link.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setDescriptionBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setRequestId(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addAllDetails(java.lang.Iterable&lt;? extends com.google.protobuf.Any&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder setViolations(int, com.google.rpc.PreconditionFailure.Violation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RequestInfo.Builder com.google.rpc.RequestInfo.Builder setRequestIdBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder removeViolations(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceType(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setSubjectBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder removeDetails(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setUrl(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setResourceType(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setDetails(int, com.google.protobuf.Any)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code com.google.protobuf.Internal.EnumLiteMap&lt;com.google.rpc.Code&gt; internalGetValueMap()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(com.google.protobuf.Any) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setOwner(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo.Builder com.google.rpc.RetryInfo.Builder setRetryDelay(com.google.protobuf.Duration.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(int, com.google.protobuf.Any.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder clearFieldViolations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setMessageBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder addDetails(int, com.google.protobuf.Any.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code OUT_OF_RANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo.Builder com.google.rpc.RetryInfo.Builder setRetryDelay(com.google.protobuf.Duration.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code UNAUTHENTICATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code UNRECOGNIZED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(com.google.rpc.Help.Link.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder clearDescription()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Link.Builder com.google.rpc.Help.Link.Builder setDescription(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setDetails(int, com.google.protobuf.Any) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setSubjectBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setLocale(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(int, com.google.rpc.PreconditionFailure.Violation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(int, com.google.rpc.QuotaFailure.Violation.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Status.Builder com.google.rpc.Status.Builder setMessageBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setOwner(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(com.google.rpc.PreconditionFailure.Violation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Code INTERNAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder setDescriptionBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder addLinks(com.google.rpc.Help.Link.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(int, com.google.rpc.QuotaFailure.Violation.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation.Builder com.google.rpc.QuotaFailure.Violation.Builder setSubjectBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo.Builder com.google.rpc.RetryInfo.Builder setRetryDelay(com.google.protobuf.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo com.google.rpc.RetryInfo getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(int, com.google.rpc.PreconditionFailure.Violation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder setDescriptionBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.DebugInfo.Builder com.google.rpc.DebugInfo.Builder addStackEntriesBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder removeFieldViolations(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help com.google.rpc.Help getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setMessageBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.ResourceInfo.Builder com.google.rpc.ResourceInfo.Builder clearResourceName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder setViolations(int, com.google.rpc.QuotaFailure.Violation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage com.google.rpc.LocalizedMessage getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation com.google.rpc.PreconditionFailure.Violation getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder setFieldViolations(int, com.google.rpc.BadRequest.FieldViolation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Builder com.google.rpc.PreconditionFailure.Builder addViolations(int, com.google.rpc.PreconditionFailure.Violation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.Help.Builder com.google.rpc.Help.Builder clearLinks()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setMessageBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder clearType()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.LocalizedMessage.Builder com.google.rpc.LocalizedMessage.Builder setLocaleBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.Builder com.google.rpc.BadRequest.Builder setFieldViolations(int, com.google.rpc.BadRequest.FieldViolation)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Violation java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder setViolations(int, com.google.rpc.QuotaFailure.Violation) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setField(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.PreconditionFailure.Violation.Builder com.google.rpc.PreconditionFailure.Violation.Builder clearSubject()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.BadRequest.FieldViolation.Builder com.google.rpc.BadRequest.FieldViolation.Builder setFieldBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.RetryInfo.Builder com.google.rpc.RetryInfo.Builder setRetryDelay(com.google.protobuf.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.rpc.QuotaFailure.Builder com.google.rpc.QuotaFailure.Builder addViolations(com.google.rpc.QuotaFailure.Violation.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

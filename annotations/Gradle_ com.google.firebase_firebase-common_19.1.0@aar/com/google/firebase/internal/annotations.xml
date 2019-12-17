@@ -1,0 +1,8 @@
+<root>
+    <item name='com.google.firebase.internal.DataCollectionConfigStorage DataCollectionConfigStorage(android.content.Context, java.lang.String, com.google.firebase.events.Publisher) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.internal.DataCollectionConfigStorage DATA_COLLECTION_DEFAULT_ENABLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

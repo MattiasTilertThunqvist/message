@@ -1,0 +1,299 @@
+<root>
+    <item name='com.google.firebase.firestore.core.FirestoreClient void handleSuccessfulWrite(com.google.firebase.firestore.model.mutation.MutationBatchResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseContext com.google.firebase.firestore.core.UserData.ParseContext childContext(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.DocumentViewChange com.google.firebase.firestore.core.DocumentViewChange create(com.google.firebase.firestore.core.DocumentViewChange.Type, com.google.firebase.firestore.model.Document)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.SyncEngine java.util.Map&lt;com.google.firebase.firestore.model.DocumentKey,java.lang.Integer&gt; getCurrentLimboDocuments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.TargetIdGenerator com.google.firebase.firestore.core.TargetIdGenerator forQueryCache(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FieldFilter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FirestoreClient com.google.firebase.firestore.core.QueryListener listen(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.core.EventManager.ListenOptions, com.google.firebase.firestore.EventListener&lt;com.google.firebase.firestore.core.ViewSnapshot&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator GREATER_THAN_OR_EQUAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.TargetIdGenerator com.google.firebase.firestore.core.TargetIdGenerator forSyncEngine()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ArrayContainsFilter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.IndexRange com.google.firebase.firestore.core.IndexRange.Builder builder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.Source Argument'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.OnlineState UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Bound boolean sortsBeforeDocument(java.util.List&lt;com.google.firebase.firestore.core.OrderBy&gt;, com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query filter(com.google.firebase.firestore.core.Filter)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.DocumentViewChange.Type MODIFIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.OrderBy com.google.firebase.firestore.core.OrderBy getInstance(com.google.firebase.firestore.core.OrderBy.Direction, com.google.firebase.firestore.model.FieldPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.InFilter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseContext com.google.firebase.firestore.core.UserData.ParseContext childContext(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.EventManager EventManager(com.google.firebase.firestore.core.SyncEngine) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator LESS_THAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator EQUAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.OnlineState ONLINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.ViewChange applyChanges(com.google.firebase.firestore.core.View.DocumentChanges, com.google.firebase.firestore.remote.TargetChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseAccumulator com.google.firebase.firestore.core.UserData.ParsedUpdateData toUpdateData(com.google.firebase.firestore.model.value.ObjectValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ViewSnapshot.SyncState SYNCED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseAccumulator com.google.firebase.firestore.core.UserData.ParsedSetData toMergeData(com.google.firebase.firestore.model.value.ObjectValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ViewSnapshot com.google.firebase.firestore.core.ViewSnapshot fromInitialDocuments(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.model.DocumentSet, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;, boolean, boolean, boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.SyncEngine void handleSuccessfulWrite(com.google.firebase.firestore.model.mutation.MutationBatchResult) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator GREATER_THAN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query orderBy(com.google.firebase.firestore.core.OrderBy)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Transaction java.util.concurrent.Executor getDefaultExecutor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseAccumulator java.util.List&lt;com.google.firebase.firestore.model.mutation.FieldTransform&gt; getFieldTransforms()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.SyncEngine void writeMutations(java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt;, com.google.android.gms.tasks.TaskCompletionSource&lt;java.lang.Void&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.EventManager void onViewSnapshots(java.util.List&lt;com.google.firebase.firestore.core.ViewSnapshot&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseContext com.google.firebase.firestore.core.UserData.ParseContext childContext(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.Source Set'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.DocumentViewChange.Type METADATA'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.SyncEngine void handleRemoteEvent(com.google.firebase.firestore.remote.RemoteEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.EventManager void removeQueryListener(com.google.firebase.firestore.core.QueryListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator ARRAY_CONTAINS_ANY'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator LESS_THAN_OR_EQUAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.ViewChange applyChanges(com.google.firebase.firestore.core.View.DocumentChanges)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.View.DocumentChanges computeDocChanges(com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,D&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query startAt(com.google.firebase.firestore.core.Bound)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.ViewChange applyOnlineStateChange(com.google.firebase.firestore.core.OnlineState)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.KeyFieldInFilter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.core.View View(com.google.firebase.firestore.core.Query, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.View.DocumentChanges computeDocChanges(com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,D&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.View.DocumentChanges computeDocChanges(com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,D&gt;, com.google.firebase.firestore.core.View.DocumentChanges)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.DocumentViewChangeSet void addChange(com.google.firebase.firestore.core.DocumentViewChange) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FirestoreClient void handleRemoteEvent(com.google.firebase.firestore.remote.RemoteEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query java.util.Comparator&lt;com.google.firebase.firestore.model.Document&gt; comparator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseContext com.google.firebase.firestore.core.UserData.ParseContext childContext(com.google.firebase.firestore.model.FieldPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query atPath(com.google.firebase.firestore.model.ResourcePath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FieldFilter com.google.firebase.firestore.core.FieldFilter create(com.google.firebase.firestore.model.FieldPath, com.google.firebase.firestore.core.Filter.Operator, com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.KeyFieldFilter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.QueryListener void onViewSnapshot(com.google.firebase.firestore.core.ViewSnapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseAccumulator com.google.firebase.firestore.core.UserData.ParseContext rootContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.ViewChange applyChanges(com.google.firebase.firestore.core.View.DocumentChanges) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ArrayContainsAnyFilter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseContext java.lang.RuntimeException createError(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query limit(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.OrderBy.Direction ASCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query endAt(com.google.firebase.firestore.core.Bound)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.EventManager int addQueryListener(com.google.firebase.firestore.core.QueryListener) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.OnlineState OFFLINE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Transaction void set(com.google.firebase.firestore.model.DocumentKey, com.google.firebase.firestore.core.UserData.ParsedSetData) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.OrderBy.Direction DESCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.Source Update'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ViewSnapshot.SyncState NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator ARRAY_CONTAINS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FieldFilter com.google.firebase.firestore.core.FieldFilter create(com.google.firebase.firestore.model.FieldPath, com.google.firebase.firestore.core.Filter.Operator, com.google.firebase.firestore.model.value.FieldValue) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.ViewChange applyChanges(com.google.firebase.firestore.core.View.DocumentChanges, com.google.firebase.firestore.remote.TargetChange)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.IndexRange.Builder com.google.firebase.firestore.core.IndexRange.Builder setStart(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FirestoreClient FirestoreClient(android.content.Context, com.google.firebase.firestore.core.DatabaseInfo, com.google.firebase.firestore.FirebaseFirestoreSettings, com.google.firebase.firestore.auth.CredentialsProvider, com.google.firebase.firestore.util.AsyncQueue) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ViewSnapshot com.google.firebase.firestore.core.ViewSnapshot fromInitialDocuments(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.model.DocumentSet, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;, boolean, boolean, boolean) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseAccumulator com.google.firebase.firestore.core.UserData.ParsedSetData toMergeData(com.google.firebase.firestore.model.value.ObjectValue, com.google.firebase.firestore.model.mutation.FieldMask)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.LimboDocumentChange.Type ADDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter boolean matches(com.google.firebase.firestore.model.Document) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParseAccumulator com.google.firebase.firestore.core.UserData.ParsedSetData toSetData(com.google.firebase.firestore.model.value.ObjectValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.DocumentViewChange.Type ADDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ViewSnapshot.SyncState LOCAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.LimboDocumentChange.Type REMOVED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Query com.google.firebase.firestore.core.Query asCollectionQueryAtPath(com.google.firebase.firestore.model.ResourcePath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.FirestoreClient FirestoreClient(android.content.Context, com.google.firebase.firestore.core.DatabaseInfo, com.google.firebase.firestore.FirebaseFirestoreSettings, com.google.firebase.firestore.auth.CredentialsProvider, com.google.firebase.firestore.util.AsyncQueue) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParsedSetData java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt; toMutationList(com.google.firebase.firestore.model.DocumentKey, com.google.firebase.firestore.model.mutation.Precondition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.ParsedUpdateData java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt; toMutationList(com.google.firebase.firestore.model.DocumentKey, com.google.firebase.firestore.model.mutation.Precondition)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.UserData.Source MergeSet'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.IndexRange.Builder com.google.firebase.firestore.core.IndexRange.Builder setEnd(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.View com.google.firebase.firestore.core.View.DocumentChanges computeDocChanges(com.google.firebase.database.collection.ImmutableSortedMap&lt;com.google.firebase.firestore.model.DocumentKey,D&gt;, com.google.firebase.firestore.core.View.DocumentChanges) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.IndexRange.Builder com.google.firebase.firestore.core.IndexRange build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.ViewSnapshot com.google.firebase.firestore.core.ViewSnapshot fromInitialDocuments(com.google.firebase.firestore.core.Query, com.google.firebase.firestore.model.DocumentSet, com.google.firebase.database.collection.ImmutableSortedSet&lt;com.google.firebase.firestore.model.DocumentKey&gt;, boolean, boolean, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.Filter.Operator IN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.IndexRange.Builder com.google.firebase.firestore.core.IndexRange.Builder setFieldPath(com.google.firebase.firestore.model.FieldPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.core.DocumentViewChange.Type REMOVED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,62 @@
+<root>
+    <item name='androidx.core.graphics.drawable.DrawableKt android.graphics.Bitmap toBitmap(android.graphics.drawable.Drawable, int, int, android.graphics.Bitmap.Config) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toAdaptiveIcon(android.graphics.Bitmap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableKt void updateBounds$default(android.graphics.drawable.Drawable, int, int, int, int, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.ColorDrawableKt android.graphics.drawable.ColorDrawable toDrawable(android.graphics.Color) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableKt android.graphics.Bitmap toBitmap$default(android.graphics.drawable.Drawable, int, int, android.graphics.Bitmap.Config, int, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toIcon(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toAdaptiveIcon(android.graphics.Bitmap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toIcon(android.net.Uri) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableKt android.graphics.Bitmap toBitmap(android.graphics.drawable.Drawable, int, int, android.graphics.Bitmap.Config)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.BitmapDrawableKt android.graphics.drawable.BitmapDrawable toDrawable(android.graphics.Bitmap, android.content.res.Resources) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.BitmapDrawableKt android.graphics.drawable.BitmapDrawable toDrawable(android.graphics.Bitmap, android.content.res.Resources) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toIcon(android.graphics.Bitmap)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toIcon(android.net.Uri)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.ColorDrawableKt android.graphics.drawable.ColorDrawable toDrawable(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableKt void updateBounds(android.graphics.drawable.Drawable, int, int, int, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toIcon(android.graphics.Bitmap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.DrawableKt android.graphics.Bitmap toBitmap$default(android.graphics.drawable.Drawable, int, int, android.graphics.Bitmap.Config, int, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.BitmapDrawableKt android.graphics.drawable.BitmapDrawable toDrawable(android.graphics.Bitmap, android.content.res.Resources)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.ColorDrawableKt android.graphics.drawable.ColorDrawable toDrawable(android.graphics.Color)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.graphics.drawable.IconKt android.graphics.drawable.Icon toIcon(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,5 @@
+<root>
+    <item name='androidx.core.database.CursorWindowCompat android.database.CursorWindow create(java.lang.String, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

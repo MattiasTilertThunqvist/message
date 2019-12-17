@@ -1,0 +1,11 @@
+<root>
+    <item name='androidx.localbroadcastmanager.content.LocalBroadcastManager boolean sendBroadcast(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.localbroadcastmanager.content.LocalBroadcastManager void registerReceiver(android.content.BroadcastReceiver, android.content.IntentFilter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.localbroadcastmanager.content.LocalBroadcastManager void sendBroadcastSync(android.content.Intent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

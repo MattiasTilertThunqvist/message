@@ -1,0 +1,626 @@
+<root>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code UNAUTHENTICATED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedSetData parseMergeData(java.lang.Object, com.google.firebase.firestore.model.mutation.FieldMask)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Object get(com.google.firebase.firestore.FieldPath, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code DATA_LOSS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions mergeFields(java.util.List&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code UNKNOWN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedUpdateData parseUpdateData(java.util.List&lt;java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.GeoPoint int compareTo(com.google.firebase.firestore.GeoPoint) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endBefore(com.google.firebase.firestore.DocumentSnapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThanOrEqualTo(com.google.firebase.firestore.FieldPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldValue com.google.firebase.firestore.FieldValue increment(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.DocumentReference document(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThan(com.google.firebase.firestore.FieldPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code INTERNAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAfter(com.google.firebase.firestore.DocumentSnapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions mergeFieldPaths(java.util.List&lt;com.google.firebase.firestore.FieldPath&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAt(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(java.lang.String, com.google.firebase.firestore.Query.Direction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereArrayContains(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.firestore.GeoPoint getGeoPoint(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThanOrEqualTo(com.google.firebase.firestore.FieldPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Object get(java.lang.String, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot T get(com.google.firebase.firestore.FieldPath, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.Query collectionGroup(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot boolean contains(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder Builder(com.google.firebase.firestore.FirebaseFirestoreSettings) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.QuerySnapshot java.util.List&lt;com.google.firebase.firestore.DocumentSnapshot&gt; getDocuments()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldPath com.google.firebase.firestore.FieldPath of(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereEqualTo(com.google.firebase.firestore.FieldPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedUpdateData parseUpdateData(java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentChange.Type ADDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder com.google.firebase.firestore.FirebaseFirestoreSettings.Builder setPersistenceEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query.Direction DESCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.CollectionReference com.google.android.gms.tasks.Task&lt;com.google.firebase.firestore.DocumentReference&gt; add(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.BuildConfig BUILD_TYPE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.CollectionReference collection(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.firebase.firestore.CollectionReference collection(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endBefore(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Boolean getBoolean(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereEqualTo(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Source DEFAULT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedSetData parseSetData(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(com.google.firebase.firestore.FieldPath)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.BuildConfig FLAVOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endBefore(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code ABORTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldValue com.google.firebase.firestore.FieldValue arrayUnion(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereArrayContains(com.google.firebase.firestore.FieldPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code INVALID_ARGUMENT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code FAILED_PRECONDITION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, java.lang.String, java.lang.Object, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThan(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, java.util.Map&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Source CACHE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Object get(com.google.firebase.firestore.FieldPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.CollectionReference collection(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code ALREADY_EXISTS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query.Direction ASCENDING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAt(com.google.firebase.firestore.DocumentSnapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code UNIMPLEMENTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Blob int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldValue com.google.firebase.firestore.FieldValue increment(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.CollectionReference com.google.firebase.firestore.DocumentReference document(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code RESOURCE_EXHAUSTED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(com.google.firebase.firestore.FieldPath, com.google.firebase.firestore.Query.Direction)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.CollectionReference com.google.firebase.firestore.DocumentReference document(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThan(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThan(com.google.firebase.firestore.FieldPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.QuerySnapshot java.util.List&lt;T&gt; toObjects(java.lang.Class&lt;T&gt;, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch delete(com.google.firebase.firestore.DocumentReference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; set(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldValue com.google.firebase.firestore.FieldValue delete()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(com.google.firebase.firestore.FieldPath, com.google.firebase.firestore.Query.Direction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.BuildConfig APPLICATION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldValue com.google.firebase.firestore.FieldValue serverTimestamp()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThan(com.google.firebase.firestore.FieldPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object, com.google.firebase.firestore.SetOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, java.lang.String, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.MetadataChanges INCLUDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAt(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions merge()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; runBatch(com.google.firebase.firestore.WriteBatch.Function) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAfter(com.google.firebase.firestore.DocumentSnapshot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.BuildConfig VERSION_NAME'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions mergeFields(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction delete(com.google.firebase.firestore.DocumentReference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code OK'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot T get(java.lang.String, java.lang.Class&lt;T&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch delete(com.google.firebase.firestore.DocumentReference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldPath com.google.firebase.firestore.FieldPath of(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.GeoPoint int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction delete(com.google.firebase.firestore.DocumentReference)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions mergeFieldPaths(java.util.List&lt;com.google.firebase.firestore.FieldPath&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedUpdateData parseUpdateData(java.util.List&lt;java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.DocumentReference document(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThanOrEqualTo(com.google.firebase.firestore.FieldPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereEqualTo(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentChange.Type MODIFIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Object get(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction set(com.google.firebase.firestore.DocumentReference, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder com.google.firebase.firestore.FirebaseFirestoreSettings.Builder setSslEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; update(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.firestore.SnapshotMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedSetData parseSetData(java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.QuerySnapshot java.util.Iterator&lt;com.google.firebase.firestore.QueryDocumentSnapshot&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.firebase.firestore.CollectionReference collection(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThanOrEqualTo(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior ESTIMATE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(java.lang.String, com.google.firebase.firestore.Query.Direction) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Blob int compareTo(com.google.firebase.firestore.Blob) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endAt(com.google.firebase.firestore.DocumentSnapshot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedSetData parseMergeData(java.lang.Object, com.google.firebase.firestore.model.mutation.FieldMask) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Blob com.google.firebase.firestore.Blob fromByteString(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.UserDataConverter com.google.firebase.firestore.core.UserData.ParsedUpdateData parseUpdateData(java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; update(java.lang.String, java.lang.Object, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.QuerySnapshot com.google.firebase.firestore.SnapshotMetadata getMetadata()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions mergeFields(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; set(java.lang.Object, com.google.firebase.firestore.SetOptions) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, java.lang.String, java.lang.Object, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot T get(java.lang.String, java.lang.Class&lt;T&gt;, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.Query collectionGroup(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.firebase.firestore.CollectionReference getParent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Source SERVER'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.Timestamp getTimestamp(java.lang.String, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, java.lang.String, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.firestore.Blob getBlob(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder com.google.firebase.firestore.FirebaseFirestoreSettings.Builder setCacheSizeBytes(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endAt(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder com.google.firebase.firestore.FirebaseFirestoreSettings.Builder setHost(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; set(java.lang.Object, com.google.firebase.firestore.SetOptions) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch set(com.google.firebase.firestore.DocumentReference, java.lang.Object) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAt(com.google.firebase.firestore.DocumentSnapshot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAfter(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereArrayContains(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.MetadataChanges EXCLUDE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.CollectionReference com.google.firebase.firestore.DocumentReference document()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.WriteBatch batch()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.FirebaseFirestore getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.WriteBatch com.google.firebase.firestore.WriteBatch update(com.google.firebase.firestore.DocumentReference, java.util.Map&lt;java.lang.String,java.lang.Object&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldPath com.google.firebase.firestore.FieldPath documentId()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentChange.Type REMOVED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.SetOptions com.google.firebase.firestore.SetOptions mergeFields(java.util.List&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.FirebaseFirestore getInstance(com.google.firebase.FirebaseApp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentReference com.google.android.gms.tasks.Task&lt;java.lang.Void&gt; update(com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThanOrEqualTo(com.google.firebase.firestore.FieldPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereArrayContains(com.google.firebase.firestore.FieldPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThanOrEqualTo(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Double getDouble(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code NOT_FOUND'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot T get(com.google.firebase.firestore.FieldPath, java.lang.Class&lt;T&gt;, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query orderBy(com.google.firebase.firestore.FieldPath) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior PREVIOUS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, com.google.firebase.firestore.FieldPath, java.lang.Object, java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.firestore.DocumentReference getDocumentReference(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThanOrEqualTo(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.util.Date getDate(java.lang.String, com.google.firebase.firestore.DocumentSnapshot.ServerTimestampBehavior) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestore com.google.firebase.firestore.FirebaseFirestore getInstance(com.google.firebase.FirebaseApp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code UNAVAILABLE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThan(java.lang.String, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query startAfter(java.lang.Object...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.DocumentSnapshot get(com.google.firebase.firestore.DocumentReference) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.util.Date getDate(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder com.google.firebase.firestore.FirebaseFirestoreSettings build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code PERMISSION_DENIED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereEqualTo(com.google.firebase.firestore.FieldPath, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.Long getLong(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.firestore.DocumentReference getReference()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endAt(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, java.lang.String, java.lang.Object, java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FieldValue com.google.firebase.firestore.FieldValue arrayRemove(java.lang.Object...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.QuerySnapshot java.util.List&lt;T&gt; toObjects(java.lang.Class&lt;T&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query limit(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreSettings.Builder com.google.firebase.firestore.FirebaseFirestoreSettings.Builder setTimestampsInSnapshotsEnabled(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code CANCELLED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code DEADLINE_EXCEEDED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endAt(com.google.firebase.firestore.DocumentSnapshot) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereGreaterThanOrEqualTo(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Blob com.google.firebase.firestore.Blob fromBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThan(com.google.firebase.firestore.FieldPath, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query whereLessThan(java.lang.String, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Transaction com.google.firebase.firestore.Transaction update(com.google.firebase.firestore.DocumentReference, java.lang.String, java.lang.Object, java.lang.Object...) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.Query com.google.firebase.firestore.Query endBefore(com.google.firebase.firestore.DocumentSnapshot)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot java.lang.String getString(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.FirebaseFirestoreException.Code OUT_OF_RANGE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.DocumentSnapshot com.google.firebase.Timestamp getTimestamp(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

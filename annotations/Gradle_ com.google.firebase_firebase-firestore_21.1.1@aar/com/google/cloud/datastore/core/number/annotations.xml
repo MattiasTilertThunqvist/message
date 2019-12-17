@@ -1,0 +1,38 @@
+<root>
+    <item name='com.google.cloud.datastore.core.number.NumberParts com.google.cloud.datastore.core.number.NumberParts fromLong(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberParts com.google.cloud.datastore.core.number.NumberParts negate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.IndexNumberEncoder int encodeLong(boolean, long, byte[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberIndexEncoder double decodeDouble(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.IndexNumberDecoder int decode(boolean, byte[], int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberParts com.google.cloud.datastore.core.number.NumberParts create(boolean, int, long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberIndexEncoder com.google.cloud.datastore.core.number.NumberIndexEncoder.DecodedNumberParts decode(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberIndexEncoder long decodeLong(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberParts com.google.cloud.datastore.core.number.NumberParts fromDouble(double)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberIndexEncoder com.google.cloud.datastore.core.number.NumberIndexEncoder.DecodedNumberParts decode(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.NumberIndexEncoder byte[] encode(com.google.cloud.datastore.core.number.NumberParts) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.cloud.datastore.core.number.IndexNumberEncoder int encodeDouble(boolean, double, byte[], int) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

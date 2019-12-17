@@ -1,0 +1,11 @@
+<root>
+    <item name='com.google.gson.internal.bind.util.ISO8601Utils java.util.Date parse(java.lang.String, java.text.ParsePosition) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.gson.internal.bind.util.ISO8601Utils java.util.Date parse(java.lang.String, java.text.ParsePosition) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.gson.internal.bind.util.ISO8601Utils java.lang.String format(java.util.Date, boolean, java.util.TimeZone) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

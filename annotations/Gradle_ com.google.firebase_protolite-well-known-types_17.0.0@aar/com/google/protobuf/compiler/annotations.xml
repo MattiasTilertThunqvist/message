@@ -1,0 +1,266 @@
+<root>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setContentBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setInsertionPointBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder clearPatch()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setSuffix(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder clearProtoFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder clearName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setCompilerVersion(com.google.protobuf.compiler.PluginProtos.Version.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder clearCompilerVersion()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setNameBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setNameBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addFileToGenerateBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addAllFile(java.lang.Iterable&lt;? extends com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setContentBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addAllFileToGenerate(java.lang.Iterable&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setParameterBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setInsertionPoint(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setName(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addFileToGenerate(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setContent(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setError(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setSuffixBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder clearMinor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder clearSuffix()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version com.google.protobuf.compiler.PluginProtos.Version getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setMajor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setFileToGenerate(int, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder clearError()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder clearContent()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder clearFileToGenerate()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setFileToGenerate(int, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setCompilerVersion(com.google.protobuf.compiler.PluginProtos.Version) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setParameter(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setPatch(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder clearMajor()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(com.google.protobuf.DescriptorProtos.FileDescriptorProto)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder clearInsertionPoint()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest java.lang.Object dynamicMethod(com.google.protobuf.GeneratedMessageLite.MethodToInvoke, java.lang.Object, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder removeProtoFile(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setMinor(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setContent(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setErrorBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setParameter(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(com.google.protobuf.DescriptorProtos.FileDescriptorProto.Builder) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setSuffixBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(com.google.protobuf.DescriptorProtos.FileDescriptorProto) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder removeFile(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setCompilerVersion(com.google.protobuf.compiler.PluginProtos.Version)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest getDefaultInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder mergeCompilerVersion(com.google.protobuf.compiler.PluginProtos.Version)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setInsertionPointBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.Version.Builder com.google.protobuf.compiler.PluginProtos.Version.Builder setSuffix(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setParameterBytes(com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(com.google.protobuf.DescriptorProtos.FileDescriptorProto.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File.Builder setInsertionPoint(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setErrorBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addFileToGenerateBytes(com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder setCompilerVersion(com.google.protobuf.compiler.PluginProtos.Version.Builder)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder clearFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder clearParameter()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder setError(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addProtoFile(int, com.google.protobuf.DescriptorProtos.FileDescriptorProto.Builder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addAllProtoFile(java.lang.Iterable&lt;? extends com.google.protobuf.DescriptorProtos.FileDescriptorProto&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorRequest.Builder addFileToGenerate(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.Builder addFile(int, com.google.protobuf.compiler.PluginProtos.CodeGeneratorResponse.File)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,20 @@
+<root>
+    <item name='io.opencensus.resource.Resource io.opencensus.resource.Resource create(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.resource.Resource io.opencensus.resource.Resource createFromEnvironmentVariables()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.resource.Resource io.opencensus.resource.Resource create(java.lang.String, java.util.Map&lt;java.lang.String,java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.resource.Resource io.opencensus.resource.Resource mergeResources(java.util.List&lt;io.opencensus.resource.Resource&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.resource.Resource java.util.Map&lt;java.lang.String,java.lang.String&gt; getLabels()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+</root>

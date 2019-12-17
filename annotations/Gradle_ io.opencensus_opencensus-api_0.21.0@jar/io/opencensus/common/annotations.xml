@@ -1,0 +1,98 @@
+<root>
+    <item name='io.opencensus.common.OpenCensusLibraryInformation VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Timestamp addNanos(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Duration subtractTimestamp(io.opencensus.common.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsEncoding byte[] toBytes(io.opencensus.common.ServerStats) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsFieldEnums.Id SERVER_STATS_TRACE_OPTION_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Functions io.opencensus.common.Function&lt;java.lang.Object,java.lang.String&gt; returnToString()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Timestamp addDuration(io.opencensus.common.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Timestamp create(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Duration int compareTo(java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Functions io.opencensus.common.Function&lt;java.lang.Object,T&gt; returnConstant(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Functions io.opencensus.common.Function&lt;java.lang.Object,T&gt; throwIllegalArgumentException()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsEncoding io.opencensus.common.ServerStats parseBytes(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Duration subtractTimestamp(io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Timestamp addDuration(io.opencensus.common.Duration)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsFieldEnums.Size SERVER_STATS_LB_LATENCY_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Clock io.opencensus.common.Timestamp now()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.common.Duration io.opencensus.common.Duration fromMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Duration int compareTo(io.opencensus.common.Duration) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Duration io.opencensus.common.Duration create(long, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Functions io.opencensus.common.Function&lt;java.lang.Object,T&gt; throwAssertionError()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStats io.opencensus.common.ServerStats create(long, long, byte)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsFieldEnums.Id SERVER_STATS_LB_LATENCY_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsFieldEnums.Size SERVER_STATS_SERVICE_LATENCY_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsFieldEnums.Id SERVER_STATS_SERVICE_LATENCY_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.ServerStatsFieldEnums.Size SERVER_STATS_TRACE_OPTION_SIZE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Functions io.opencensus.common.Function&lt;java.lang.Object,T&gt; returnNull()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Function B apply(A) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='io.opencensus.common.Timestamp io.opencensus.common.Timestamp fromMillis(long)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.opencensus.common.Timestamp int compareTo(io.opencensus.common.Timestamp) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

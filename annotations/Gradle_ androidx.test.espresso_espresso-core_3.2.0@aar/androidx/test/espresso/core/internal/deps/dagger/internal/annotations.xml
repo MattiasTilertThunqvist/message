@@ -1,0 +1,20 @@
+<root>
+    <item name='androidx.test.espresso.core.internal.deps.dagger.internal.Preconditions T checkNotNull(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck javax.inject.Provider&lt;T&gt; provider(P)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.core.internal.deps.dagger.internal.Preconditions T checkNotNull(T, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.core.internal.deps.dagger.internal.DoubleCheck javax.inject.Provider&lt;T&gt; provider(P) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.core.internal.deps.dagger.internal.Preconditions T checkNotNull(T, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.espresso.core.internal.deps.dagger.internal.Preconditions T checkNotNull(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

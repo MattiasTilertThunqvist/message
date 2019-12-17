@@ -1,0 +1,77 @@
+<root>
+    <item name='androidx.core.content.pm.ShortcutManagerCompat android.content.Intent createShortcutResultIntent(android.content.Context, androidx.core.content.pm.ShortcutInfoCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setPerson(androidx.core.app.Person)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setIcon(androidx.core.graphics.drawable.IconCompat)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setCategories(java.util.Set&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutManagerCompat boolean requestPinShortcut(android.content.Context, androidx.core.content.pm.ShortcutInfoCompat, android.content.IntentSender) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setDisabledMessage(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutManagerCompat boolean isRequestPinShortcutSupported(android.content.Context) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setLongLived()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutManagerCompat java.util.List&lt;androidx.core.content.pm.ShortcutInfoCompat&gt; getDynamicShortcuts(android.content.Context)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.PermissionInfoCompat int getProtectionFlags(android.content.pm.PermissionInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder Builder(android.content.Context, android.content.pm.ShortcutInfo) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setLongLabel(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setPersons(androidx.core.app.Person[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompatSaver java.util.List&lt;androidx.core.content.pm.ShortcutInfoCompat&gt; getShortcuts()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat build()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder Builder(androidx.core.content.pm.ShortcutInfoCompat) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutManagerCompat EXTRA_SHORTCUT_ID'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.PackageInfoCompat long getLongVersionCode(android.content.pm.PackageInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.PermissionInfoCompat int getProtection(android.content.pm.PermissionInfo) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setIntent(android.content.Intent)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutManagerCompat android.content.Intent createShortcutResultIntent(android.content.Context, androidx.core.content.pm.ShortcutInfoCompat) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setActivity(android.content.ComponentName)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setShortLabel(java.lang.CharSequence)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setIntents(android.content.Intent[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.pm.ShortcutInfoCompat.Builder androidx.core.content.pm.ShortcutInfoCompat.Builder setAlwaysBadged()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

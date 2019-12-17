@@ -1,0 +1,47 @@
+<root>
+    <item name='androidx.core.util.DebugUtils void buildShortClassTag(java.lang.Object, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.Preconditions T checkNotNull(T, java.lang.Object) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.TimeUtils void formatDuration(long, java.io.PrintWriter, int) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFile java.io.FileInputStream openRead()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.TimeUtils void formatDuration(long, java.lang.StringBuilder) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.Preconditions T checkNotNull(T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFile java.io.FileOutputStream startWrite()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.TimeUtils void formatDuration(long, java.io.PrintWriter) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.Preconditions T checkNotNull(T, java.lang.Object)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.Preconditions T checkNotNull(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFile byte[] readFully()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFile java.io.File getBaseFile()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.AtomicFile AtomicFile(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.Pair androidx.core.util.Pair&lt;A,B&gt; create(A, B)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.util.TimeUtils void formatDuration(long, long, java.io.PrintWriter) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

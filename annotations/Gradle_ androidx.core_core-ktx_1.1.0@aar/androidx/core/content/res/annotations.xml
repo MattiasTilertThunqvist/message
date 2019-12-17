@@ -1,0 +1,65 @@
+<root>
+    <item name='androidx.core.content.res.TypedArrayKt int getIntegerOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt java.lang.CharSequence getTextOrThrow(android.content.res.TypedArray, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt java.lang.String getStringOrThrow(android.content.res.TypedArray, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt int getColorOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt float getDimensionOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt android.content.res.ColorStateList getColorStateListOrThrow(android.content.res.TypedArray, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt int getIntOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt java.lang.CharSequence[] getTextArrayOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt R use(android.content.res.TypedArray, kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,? extends R&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt float getFloatOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt int getResourceIdOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt R use(android.content.res.TypedArray, kotlin.jvm.functions.Function1&lt;? super android.content.res.TypedArray,? extends R&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt java.lang.CharSequence getTextOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt java.lang.String getStringOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt java.lang.CharSequence[] getTextArrayOrThrow(android.content.res.TypedArray, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt int getDimensionPixelSizeOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt android.graphics.Typeface getFontOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt android.graphics.drawable.Drawable getDrawableOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt int getDimensionPixelOffsetOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt boolean getBooleanOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.core.content.res.TypedArrayKt android.content.res.ColorStateList getColorStateListOrThrow(android.content.res.TypedArray, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

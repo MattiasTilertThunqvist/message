@@ -1,0 +1,38 @@
+<root>
+    <item name='com.google.android.gms.dynamite.DynamiteModule PREFER_HIGHEST_OR_LOCAL_VERSION_NO_FORCE_STAGING'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule PREFER_LOCAL'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule PREFER_HIGHEST_OR_REMOTE_VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule PREFER_HIGHEST_OR_LOCAL_VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule PREFER_REMOTE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule com.google.android.gms.dynamite.DynamiteModule load(android.content.Context, com.google.android.gms.dynamite.DynamiteModule.VersionPolicy, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule.VersionPolicy com.google.android.gms.dynamite.DynamiteModule.VersionPolicy.zzb zza(android.content.Context, java.lang.String, com.google.android.gms.dynamite.DynamiteModule.VersionPolicy.zza)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule android.content.Context getModuleContext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule.VersionPolicy com.google.android.gms.dynamite.DynamiteModule.VersionPolicy.zzb zza(android.content.Context, java.lang.String, com.google.android.gms.dynamite.DynamiteModule.VersionPolicy.zza) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.dynamite.DynamiteModule com.google.android.gms.dynamite.DynamiteModule load(android.content.Context, com.google.android.gms.dynamite.DynamiteModule.VersionPolicy, java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

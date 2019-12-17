@@ -1,0 +1,53 @@
+<root>
+    <item name='androidx.customview.widget.FocusStrategy.CollectionAdapter V get(T, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper androidx.customview.widget.ViewDragHelper create(android.view.ViewGroup, float, androidx.customview.widget.ViewDragHelper.Callback) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ExploreByTouchHelper ExploreByTouchHelper(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper androidx.customview.widget.ViewDragHelper create(android.view.ViewGroup, float, androidx.customview.widget.ViewDragHelper.Callback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper androidx.customview.widget.ViewDragHelper create(android.view.ViewGroup, androidx.customview.widget.ViewDragHelper.Callback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper androidx.customview.widget.ViewDragHelper create(android.view.ViewGroup, float, androidx.customview.widget.ViewDragHelper.Callback)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper void processTouchEvent(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper void captureChildView(android.view.View, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.FocusStrategy.BoundsAdapter void obtainBounds(T, android.graphics.Rect) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.customview.widget.ExploreByTouchHelper boolean dispatchKeyEvent(android.view.KeyEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.FocusStrategy.CollectionAdapter int size(T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper androidx.customview.widget.ViewDragHelper create(android.view.ViewGroup, androidx.customview.widget.ViewDragHelper.Callback) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper androidx.customview.widget.ViewDragHelper create(android.view.ViewGroup, androidx.customview.widget.ViewDragHelper.Callback) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.customview.widget.ViewDragHelper boolean shouldInterceptTouchEvent(android.view.MotionEvent) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

@@ -1,0 +1,38 @@
+<root>
+    <item name='androidx.test.orchestrator.listeners.result.TestResult.TestStatus FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestRunResult java.util.Set&lt;androidx.test.orchestrator.listeners.result.TestIdentifier&gt; getCompletedTests()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestIdentifier TestIdentifier(java.lang.String, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestResult.TestStatus PASSED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestResult androidx.test.orchestrator.listeners.result.TestResult setStatus(androidx.test.orchestrator.listeners.result.TestResult.TestStatus)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestRunResult int getNumTestsInState(androidx.test.orchestrator.listeners.result.TestResult.TestStatus) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestIdentifier TestIdentifier(java.lang.String, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestIdentifier java.lang.String getClassName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestResult.TestStatus ASSUMPTION_FAILURE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestResult.TestStatus IGNORED'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestIdentifier java.lang.String getTestName()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.test.orchestrator.listeners.result.TestResult.TestStatus INCOMPLETE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

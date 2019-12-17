@@ -1,0 +1,104 @@
+<root>
+    <item name='com.google.firebase.firestore.model.mutation.NumericIncrementTransformOperation com.google.firebase.firestore.model.value.FieldValue applyToLocalView(com.google.firebase.firestore.model.value.FieldValue, com.google.firebase.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.ArrayTransformOperation.Union com.google.firebase.firestore.model.value.ArrayValue apply(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.Mutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatch MutationBatch(int, com.google.firebase.Timestamp, java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt;, java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt;) 3'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.TransformOperation com.google.firebase.firestore.model.value.FieldValue applyToLocalView(com.google.firebase.firestore.model.value.FieldValue, com.google.firebase.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.DeleteMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.PatchMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.NumericIncrementTransformOperation com.google.firebase.firestore.model.value.FieldValue computeBaseValue(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.DeleteMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.PatchMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.Precondition com.google.firebase.firestore.model.mutation.Precondition exists(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.SetMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.ServerTimestampOperation com.google.firebase.firestore.model.value.FieldValue applyToLocalView(com.google.firebase.firestore.model.value.FieldValue, com.google.firebase.Timestamp)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.TransformMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.ArrayTransformOperation.Remove com.google.firebase.firestore.model.value.ArrayValue apply(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatchResult com.google.firebase.firestore.model.mutation.MutationBatchResult create(com.google.firebase.firestore.model.mutation.MutationBatch, com.google.firebase.firestore.model.SnapshotVersion, java.util.List&lt;com.google.firebase.firestore.model.mutation.MutationResult&gt;, com.google.protobuf.ByteString) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.ArrayTransformOperation com.google.firebase.firestore.model.value.ArrayValue apply(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatchResult com.google.firebase.firestore.model.mutation.MutationBatchResult create(com.google.firebase.firestore.model.mutation.MutationBatch, com.google.firebase.firestore.model.SnapshotVersion, java.util.List&lt;com.google.firebase.firestore.model.mutation.MutationResult&gt;, com.google.protobuf.ByteString) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatch java.util.List&lt;com.google.firebase.firestore.model.mutation.Mutation&gt; getMutations()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.SetMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatch java.util.Set&lt;com.google.firebase.firestore.model.DocumentKey&gt; getKeys()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatch com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.DocumentKey, com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationBatchResult) 2'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.MutationBatchResult com.google.firebase.firestore.model.mutation.MutationBatchResult create(com.google.firebase.firestore.model.mutation.MutationBatch, com.google.firebase.firestore.model.SnapshotVersion, java.util.List&lt;com.google.firebase.firestore.model.mutation.MutationResult&gt;, com.google.protobuf.ByteString)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.Precondition com.google.firebase.firestore.model.mutation.Precondition updateTime(com.google.firebase.firestore.model.SnapshotVersion)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.FieldMask com.google.firebase.firestore.model.mutation.FieldMask fromSet(java.util.Set&lt;com.google.firebase.firestore.model.FieldPath&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.TransformMutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.ServerTimestampOperation com.google.firebase.firestore.model.mutation.ServerTimestampOperation getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.Mutation com.google.firebase.firestore.model.MaybeDocument applyToRemoteDocument(com.google.firebase.firestore.model.MaybeDocument, com.google.firebase.firestore.model.mutation.MutationResult) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.Precondition NONE'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.firebase.firestore.model.mutation.NumericIncrementTransformOperation com.google.firebase.firestore.model.value.NumberValue computeBaseValue(com.google.firebase.firestore.model.value.FieldValue)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

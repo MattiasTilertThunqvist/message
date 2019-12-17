@@ -1,0 +1,113 @@
+<root>
+    <item name='com.google.android.gms.common.data.FreezableUtils java.util.ArrayList&lt;T&gt; freeze(java.util.ArrayList&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder.Builder com.google.android.gms.common.data.DataHolder.Builder withRow(android.content.ContentValues) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferSafeParcelable void addValue(com.google.android.gms.common.data.DataHolder.Builder, T) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.FreezableUtils java.util.ArrayList&lt;T&gt; freeze(E[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.FreezableUtils java.util.ArrayList&lt;T&gt; freeze(java.util.ArrayList&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.FreezableUtils java.util.ArrayList&lt;T&gt; freeze(E[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder.Builder com.google.android.gms.common.data.DataHolder.Builder zaa(java.util.HashMap&lt;java.lang.String,java.lang.Object&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder.Builder com.google.android.gms.common.data.DataHolder.Builder withRow(android.content.ContentValues)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.zaa java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.zac java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferUtils KEY_NEXT_PAGE_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferUtils boolean hasPrevPage(com.google.android.gms.common.data.DataBuffer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder com.google.android.gms.common.data.DataHolder empty(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.zaa java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.zac java.lang.Object createFromParcel(android.os.Parcel) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBuffer java.util.Iterator&lt;T&gt; singleRefIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder.Builder com.google.android.gms.common.data.DataHolder build(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferSafeParcelable void addValue(com.google.android.gms.common.data.DataHolder.Builder, T) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.zaa java.lang.Object[] newArray(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferUtils java.util.ArrayList&lt;T&gt; freezeAndClose(com.google.android.gms.common.data.DataBuffer&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferUtils java.util.ArrayList&lt;T&gt; freezeAndClose(com.google.android.gms.common.data.DataBuffer&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.BitmapTeleporter void setTempDir(java.io.File) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.AbstractDataBuffer java.util.Iterator&lt;T&gt; singleRefIterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.FreezableUtils java.util.ArrayList&lt;T&gt; freezeIterable(java.lang.Iterable&lt;E&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBuffer java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+        <annotation name='org.jetbrains.kannotator.runtime.annotations.Propagated'>
+            <val name="value" val="{org.jetbrains.kannotator.controlFlow.builder.analysis.NullabilityKey.class}"/>
+        </annotation>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder com.google.android.gms.common.data.DataHolder.Builder builder(java.lang.String[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.zac java.lang.Object createFromParcel(android.os.Parcel)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.BitmapTeleporter CREATOR'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.AbstractDataBuffer java.util.Iterator&lt;T&gt; iterator()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferUtils KEY_PREV_PAGE_TOKEN'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataHolder.Builder com.google.android.gms.common.data.DataHolder build(int, android.os.Bundle)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.FreezableUtils java.util.ArrayList&lt;T&gt; freezeIterable(java.lang.Iterable&lt;E&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferSafeParcelable com.google.android.gms.common.data.DataHolder.Builder buildDataHolder()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.data.DataBufferUtils boolean hasNextPage(com.google.android.gms.common.data.DataBuffer&lt;?&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

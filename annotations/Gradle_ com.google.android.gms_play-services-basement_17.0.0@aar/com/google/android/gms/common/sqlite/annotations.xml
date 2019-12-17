@@ -1,0 +1,5 @@
+<root>
+    <item name='com.google.android.gms.common.sqlite.CursorWrapper CursorWrapper(android.database.Cursor) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

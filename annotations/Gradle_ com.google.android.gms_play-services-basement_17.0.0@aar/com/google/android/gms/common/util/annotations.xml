@@ -1,0 +1,149 @@
+<root>
+    <item name='com.google.android.gms.common.util.IOUtils byte[] readInputStreamFully(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.CollectionUtils java.util.Map&lt;K,V&gt; mapOfKeyValueArrays(K[], V[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.CollectionUtils java.util.List&lt;T&gt; listOf(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.IOUtils long copyStream(java.io.InputStream, java.io.OutputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.CollectionUtils java.util.Set&lt;T&gt; setOf(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; fromScopeString(java.util.Collection&lt;java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.DataUtils void copyStringToBuffer(java.lang.String, android.database.CharArrayBuffer) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeArray(java.lang.StringBuilder, float[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeStringArray(java.lang.StringBuilder, java.lang.String[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.Hex java.lang.String bytesToStringUppercase(byte[], boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.Hex byte[] stringToBytes(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; fromScopeString(java.util.Collection&lt;java.lang.String&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeArray(java.lang.StringBuilder, T[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.lang.String[] toScopeString(com.google.android.gms.common.api.Scope[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils byte[] concatByteArrays(byte[]...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils java.util.ArrayList&lt;T&gt; newArrayList()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeArray(java.lang.StringBuilder, boolean[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.lang.String[] toScopeString(java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.IOUtils byte[] readInputStreamFully(java.io.InputStream, boolean) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; fromScopeString(java.lang.String...)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.NumberUtils long parseHexLong(java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils java.util.ArrayList&lt;T&gt; toArrayList(T[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.Hex java.lang.String bytesToStringLowercase(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.IOUtils byte[] toByteArray(java.io.InputStream) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeArray(java.lang.StringBuilder, long[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeArray(java.lang.StringBuilder, int[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils int[] toPrimitiveArray(java.util.Collection&lt;java.lang.Integer&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.Hex java.lang.String bytesToStringUppercase(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.MapUtils void writeStringMapToJson(java.lang.StringBuilder, java.util.HashMap&lt;java.lang.String,java.lang.String&gt;) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.IOUtils boolean isGzipByteBuffer(byte[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.lang.String[] toScopeString(java.util.Set&lt;com.google.android.gms.common.api.Scope&gt;)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.HttpUtils java.util.Map&lt;java.lang.String,java.lang.String&gt; parse(java.net.URI, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.IOUtils long copyStream(java.io.InputStream, java.io.OutputStream, boolean, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.DataUtils byte[] loadImageBytes(android.graphics.Bitmap) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.util.Set&lt;com.google.android.gms.common.api.Scope&gt; fromScopeString(java.lang.String...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils java.util.ArrayList&lt;T&gt; toArrayList(T[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.SharedPreferencesUtils void publishWorldReadableSharedPreferences(android.content.Context, android.content.SharedPreferences.Editor, java.lang.String) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.Hex byte[] stringToBytes(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.CollectionUtils java.util.Map&lt;K,V&gt; mapOfKeyValueArrays(K[], V[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.DataUtils void copyStringToBuffer(java.lang.String, android.database.CharArrayBuffer) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.Hex java.lang.String bytesToStringLowercase(byte[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.CollectionUtils java.util.Set&lt;T&gt; mutableSetOfWithSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils T[] appendToArray(T[], T)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.MapUtils void writeStringMapToJson(java.lang.StringBuilder, java.util.HashMap&lt;java.lang.String,java.lang.String&gt;) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.SharedPreferencesUtils void publishWorldReadableSharedPreferences(android.content.Context, android.content.SharedPreferences.Editor, java.lang.String) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils void writeArray(java.lang.StringBuilder, double[]) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.DefaultClock com.google.android.gms.common.util.Clock getInstance()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ArrayUtils T[] concat(T...) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='com.google.android.gms.common.util.ScopeUtil java.lang.String[] toScopeString(com.google.android.gms.common.api.Scope[])'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

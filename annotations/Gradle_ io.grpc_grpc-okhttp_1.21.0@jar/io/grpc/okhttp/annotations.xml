@@ -1,0 +1,119 @@
+<root>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder scheduledExecutorService(java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder hostnameVerifier(javax.net.ssl.HostnameVerifier)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.internal.ClientTransportFactory buildTransportFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder connectionSpec(com.squareup.okhttp.ConnectionSpec)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder socketFactory(javax.net.SocketFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder sslSocketFactory(javax.net.ssl.SSLSocketFactory)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelProvider io.grpc.ManagedChannelBuilder builderForAddress(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder enableKeepAlive(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.NegotiationType TLS'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder forAddress(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder negotiationType(io.grpc.okhttp.NegotiationType)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder forTarget(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelProvider io.grpc.okhttp.OkHttpChannelBuilder builderForTarget(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelProvider io.grpc.okhttp.OkHttpChannelBuilder builderForAddress(java.lang.String, int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder negotiationType(io.grpc.okhttp.NegotiationType) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.NegotiationType PLAINTEXT'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder transportExecutor(java.util.concurrent.Executor)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelProvider io.grpc.ManagedChannelBuilder builderForTarget(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder flowControlWindow(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder enableKeepAlive(boolean, long, java.util.concurrent.TimeUnit, long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit) 1'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.okhttp.OkHttpChannelBuilder connectionSpec(com.squareup.okhttp.ConnectionSpec) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.okhttp.OkHttpChannelBuilder io.grpc.ManagedChannelBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

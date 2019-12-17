@@ -1,0 +1,74 @@
+<root>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessServerBuilder io.grpc.ServerBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder scheduledExecutorService(java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessServerBuilder io.grpc.inprocess.InProcessServerBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder keepAliveTime(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder useTransportSecurity()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.internal.AbstractManagedChannelImplBuilder maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder usePlaintext()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder usePlaintext(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessServerBuilder io.grpc.inprocess.InProcessServerBuilder forName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.internal.ClientTransportFactory buildTransportFactory()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder forName(java.lang.String)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder maxInboundMessageSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.ManagedChannelBuilder keepAliveTimeout(long, java.util.concurrent.TimeUnit)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder keepAliveWithoutCalls(boolean)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessChannelBuilder io.grpc.inprocess.InProcessChannelBuilder maxInboundMetadataSize(int)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='io.grpc.inprocess.InProcessServerBuilder io.grpc.inprocess.InProcessServerBuilder scheduledExecutorService(java.util.concurrent.ScheduledExecutorService)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>

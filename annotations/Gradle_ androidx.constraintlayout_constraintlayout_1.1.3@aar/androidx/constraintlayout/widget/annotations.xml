@@ -1,0 +1,86 @@
+<root>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void load(android.content.Context, int) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints TAG'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void clone(androidx.constraintlayout.widget.Constraints) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints androidx.constraintlayout.widget.Constraints.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void clone(androidx.constraintlayout.widget.ConstraintLayout) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void clone(androidx.constraintlayout.widget.ConstraintSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints.LayoutParams LayoutParams(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints.LayoutParams LayoutParams(androidx.constraintlayout.widget.Constraints.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints androidx.constraintlayout.widget.Constraints.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void createHorizontalChain(int, int, int, int, int[], float[], int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout.LayoutParams LayoutParams(android.content.Context, android.util.AttributeSet) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void createHorizontalChainRtl(int, int, int, int, int[], float[], int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout android.view.ViewGroup.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout androidx.constraintlayout.widget.ConstraintLayout.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintHelper void setReferencedIds(int[]) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints android.view.ViewGroup.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Placeholder void updatePreLayout(androidx.constraintlayout.widget.ConstraintLayout) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout VERSION'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout void onViewAdded(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void createVerticalChain(int, int, int, int, int[], float[], int) 4'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout.LayoutParams LayoutParams(androidx.constraintlayout.widget.ConstraintLayout.LayoutParams) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout android.view.ViewGroup.LayoutParams generateLayoutParams(android.view.ViewGroup.LayoutParams)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout android.view.ViewGroup.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints android.view.ViewGroup.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintSet void applyTo(androidx.constraintlayout.widget.ConstraintLayout) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout void onViewRemoved(android.view.View) 0'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.ConstraintLayout androidx.constraintlayout.widget.ConstraintLayout.LayoutParams generateLayoutParams(android.util.AttributeSet)'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+    <item name='androidx.constraintlayout.widget.Constraints android.view.ViewGroup.LayoutParams generateDefaultLayoutParams()'>
+        <annotation name='org.jetbrains.annotations.NotNull'/>
+    </item>
+</root>
