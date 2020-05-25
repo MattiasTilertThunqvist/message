@@ -19,4 +19,9 @@
 - Run in emulator or on physical device
 
 #### Screenshots
-
+![Create account](https://github.com/MattiasTilertThunqvist/message/blob/master/screenshots/1.png)
+![Log in to account](https://github.com/MattiasTilertThunqvist/message/blob/master/screenshots/2.png)
+![Chat overview](https://github.com/MattiasTilertThunqvist/message/blob/master/screenshots/3.png)
+![Menu](https://github.com/MattiasTilertThunqvist/message/blob/master/screenshots/4.png)
+![New chat](https://github.com/MattiasTilertThunqvist/message/blob/master/screenshots/5.png)
+![Records of a chat history](https://github.com/MattiasTilertThunqvist/message/blob/master/screenshots/6.png)
